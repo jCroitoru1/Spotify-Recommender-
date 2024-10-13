@@ -1,0 +1,5 @@
+This is an expiremental recommender system which intakes popularity scores from Spotify, and based on genre, to try to create new recommendations based on that outcome.
+  This is an end-to-end project : 
+  a. First is the data-intake: 
+  i. The Data ingestion currently occurs through an adjusted verision of the basic data gathering script that currently exist. For future smoother points of reference: I want to finish the orchestration with something such as airflow, however I need to first set up a cloud datbase enviroment for the data to be ingested. 
+  ii. With the current data intake process we are keeping track of genres,artist, and popularity score. For possible further future points of research this process should take into account how artists become more popular over time; however for now this goign to function two-fold. The first purpose of this project is clustering artists based on genre's ,and popularity levels. Secondly is from the clusters from the genre and popularity , generating recommendations.
