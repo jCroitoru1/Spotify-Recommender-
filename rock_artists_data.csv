@@ -1,0 +1,1001 @@
+name,genres,popularity
+Genki Rockets,"['japanese electropop', 'japanese jazztronica']",22
+Gene Rockwell,"['afrikaans', 'south african country']",24
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",92
+Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",87
+Imagine Dragons,"['modern rock', 'pop', 'rock']",89
+The Beatles,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",86
+The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop']",86
+Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",87
+Fleetwood Mac,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",83
+Deftones,"['alternative metal', 'nu metal', 'rap metal', 'rock', 'sacramento indie']",81
+Twenty One Pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",84
+Nirvana,"['grunge', 'permanent wave', 'rock']",84
+Green Day,"['modern rock', 'permanent wave', 'punk', 'rock']",83
+Radiohead,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",84
+Mac DeMarco,"['edmonton indie', 'lo-fi indie', 'pov: indie', 'slacker rock']",81
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",84
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",84
+Creedence Clearwater Revival,"['album rock', 'classic rock', 'country rock', 'mellow gold', 'rock', 'southern rock', 'swamp rock']",82
+Queen,"['classic rock', 'glam rock', 'rock']",86
+OneRepublic,"['piano rock', 'pop']",85
+Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",78
+Tame Impala,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",81
+The Lumineers,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",80
+AC/DC,"['australian rock', 'hard rock', 'rock']",84
+Elton John,"['glam rock', 'mellow gold', 'piano rock', 'rock']",84
+Fall Out Boy,"['emo', 'modern rock', 'pop', 'rock']",80
+System Of A Down,"['alternative metal', 'nu metal', 'rap metal', 'rock']",82
+Dominic Fike,"['alternative pop rock', 'pov: indie']",79
+blink-182,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",80
+Nickelback,"['alternative metal', 'canadian rock', 'post-grunge']",80
+Slipknot,"['alternative metal', 'nu metal', 'rap metal', 'rock']",81
+Paramore,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",79
+Alex G,"['philly indie', 'pov: indie', 'slacker rock']",78
+Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",75
+The Smiths,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",80
+The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'rock']",80
+Gorillaz,"['alternative hip hop', 'modern rock', 'rock']",81
+Billy Joel,"['album rock', 'classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",79
+Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",78
+Three Days Grace,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge', 'rock']",78
+My Chemical Romance,"['emo', 'modern rock', 'pop punk', 'pov: indie', 'rock']",79
+Bon Iver,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",79
+Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",75
+Korn,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",78
+Cage The Elephant,"['modern alternative rock', 'modern rock', 'pov: indie', 'punk blues', 'rock']",76
+Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",74
+Pierce The Veil,"['modern rock', 'pop punk', 'screamo']",75
+Daft Punk,"['electro', 'filter house', 'rock']",82
+Bring Me The Horizon,"['melodic metalcore', 'metalcore', 'modern rock', 'rock', 'uk metalcore']",81
+Weezer,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",76
+Daryl Hall & John Oates,"['album rock', 'classic rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",77
+The Killers,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",79
+Eagles,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",77
+Pink Floyd,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",80
+Alice In Chains,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']",75
+Sublime,"['rap rock', 'reggae fusion', 'ska mexicano', 'ska punk']",73
+Foo Fighters,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",78
+Led Zeppelin,"['album rock', 'classic rock', 'hard rock', 'rock']",77
+Bruce Springsteen,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",79
+The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",78
+Johnny Cash,"['arkansas country', 'outlaw country', 'rock']",76
+Guns N' Roses,"['glam metal', 'hard rock', 'rock']",81
+The Offspring,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",79
+Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",74
+Empire Of The Sun,"['australian dance', 'australian electropop', 'dance rock', 'indietronica', 'neo-synthpop']",78
+Zac Brown Band,"['contemporary country', 'country', 'country road', 'modern country rock']",73
+Elvis Presley,"['rock-and-roll', 'rockabilly']",80
+Journey,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",77
+The Cranberries,"['irish rock', 'pop rock', 'rock']",78
+The Smashing Pumpkins,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']",75
+Creed,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",74
+Florence + The Machine,"['baroque pop', 'modern rock', 'neo mellow', 'uk alternative pop']",78
+Limp Bizkit,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",77
+Oasis,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",83
+Van Morrison,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",75
+The 1975,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie', 'rock']",78
+Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",76
+David Bowie,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",78
+The Cure,"['new wave', 'permanent wave', 'rock', 'uk post-punk']",78
+MGMT,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",75
+Kings of Leon,"['modern rock', 'rock']",78
+Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",71
+Bon Jovi,"['glam metal', 'rock']",80
+Disturbed,"['alternative metal', 'nu metal', 'rap metal', 'rock']",78
+Lynyrd Skynyrd,"['album rock', 'classic rock', 'hard rock', 'rock', 'southern rock']",74
+Pearl Jam,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'permanent wave', 'rock']",76
+Willie Nelson,"['classic country pop', 'classic texas country', 'country', 'country rock', 'nashville sound', 'outlaw country', 'singer-songwriter']",73
+Dylan Scott,"['contemporary country', 'country road', 'modern country rock']",72
+Vance Joy,"['folk-pop', 'modern rock']",77
+The Police,"['album rock', 'classic rock', 'permanent wave', 'rock']",78
+Van Halen,"['album rock', 'classic rock', 'hard rock', 'rock']",73
+Aerosmith,"['album rock', 'classic rock', 'hard rock', 'rock']",77
+Skillet,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",75
+Bee Gees,"['disco', 'mellow gold', 'soft rock']",78
+Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",71
+Richy Mitch & The Coal Miners,['modern folk rock'],74
+Måneskin,"['indie rock italiano', 'italian pop']",81
+The Black Keys,"['alternative rock', 'blues rock', 'garage rock', 'indie rock', 'indietronica', 'modern blues rock', 'modern rock', 'punk blues', 'rock']",74
+The Goo Goo Dolls,"['neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",76
+Seether,"['alternative metal', 'nu metal', 'post-grunge', 'south african rock']",71
+Papa Roach,"['alternative metal', 'nu metal', 'rap metal', 'rap rock', 'rock']",74
+Beach House,"['art pop', 'baltimore indie', 'dream pop', 'dreamo', 'indie rock', 'indietronica', 'modern dream pop', 'pov: indie']",74
+Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",75
+U2,"['irish rock', 'permanent wave', 'rock']",78
+The Beach Boys,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter', 'sunshine pop']",73
+Jimmy Buffett,['trop rock'],69
+Phil Collins,"['rock drums', 'soft rock']",78
+"Hank Williams, Jr.","['country', 'country rock', 'outlaw country']",69
+Mother Mother,"['canadian indie rock', 'pov: indie', 'vancouver indie']",74
+Stick Figure,"['reggae fusion', 'reggae rock']",70
+Maná,"['latin arena pop', 'latin pop', 'latin rock', 'mexican pop', 'mexican rock', 'rock en espanol']",79
+Tom Petty and the Heartbreakers,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",70
+3 Doors Down,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",72
+Royel Otis,['australian indie rock'],73
+The Script,"['celtic rock', 'pop']",78
+Electric Light Orchestra,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",73
+TOTO,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",77
+Muse,"['alternative rock', 'modern rock', 'permanent wave', 'rock']",77
+Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",70
+Rammstein,"['german metal', 'industrial', 'industrial metal', 'industrial rock', 'neue deutsche harte']",80
+Black Sabbath,"['album rock', 'alternative metal', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'rock', 'stoner rock', 'uk doom metal']",74
+TOOL,"['alternative metal', 'art rock', 'nu metal', 'post-grunge', 'progressive metal', 'progressive rock', 'rock']",71
+Ghost,"['hard rock', 'metal']",74
+Ozzy Osbourne,"['album rock', 'alternative metal', 'birmingham metal', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",72
+Jim Croce,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",71
+Tom Petty,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",70
+Incubus,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'modern rock', 'nu metal', 'post-grunge', 'rock']",71
+Mötley Crüe,"['album rock', 'alternative metal', 'glam metal', 'hard rock', 'metal', 'rock', 'sleaze rock']",72
+Bob Dylan,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']",74
+Bob Seger,"['album rock', 'classic rock', 'country rock', 'detroit rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",70
+Prince,"['funk', 'funk rock', 'minneapolis sound', 'rock', 'synth funk']",72
+Tears For Fears,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",75
+Big Thief,"['art pop', 'brooklyn indie', 'chamber pop', 'countrygaze', 'indie pop', 'indie rock', 'pov: indie', 'small room']",71
+The Fray,"['neo mellow', 'piano rock', 'pop', 'pop rock']",73
+The Doors,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']",75
+Simon & Garfunkel,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock', 'soft rock']",74
+Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",70
+Bastille,"['metropopolis', 'modern rock', 'pop']",75
+Rob Zombie,"['alternative metal', 'hard rock', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",70
+Brantley Gilbert,"['contemporary country', 'country', 'country road', 'modern country rock']",67
+Pantera,"['alternative metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'old school thrash', 'rock', 'texas metal']",72
+Grateful Dead,"['cosmic american', 'jam band', 'psychedelic rock']",67
+Beastie Boys,"['alternative rock', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'rap rock', 'rock']",70
+Sum 41,"['alternative metal', 'canadian pop punk', 'canadian punk', 'modern rock', 'pop punk', 'post-grunge', 'punk', 'rock']",74
+Rise Against,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']",72
+ZZ Top,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'rock']",72
+All Time Low,"['modern rock', 'neon pop punk', 'pop punk']",71
+The White Stripes,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'permanent wave', 'punk blues', 'rock']",72
+Mumford & Sons,"['modern folk rock', 'modern rock', 'neo mellow', 'stomp and holler', 'uk americana']",73
+Steve Miller Band,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",69
+Def Leppard,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'nwobhm', 'rock']",71
+Whiskey Myers,"['classic texas country', 'modern southern rock']",67
+Matchbox Twenty,"['neo mellow', 'pop rock', 'post-grunge']",69
+Father John Misty,"['art pop', 'chamber pop', 'indie rock', 'singer-songwriter', 'stomp and holler']",71
+The Doobie Brothers,"['album rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",69
+Stone Temple Pilots,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'post-grunge', 'rock']",69
+America,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'soft rock']",71
+Rage Against The Machine,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'hard rock', 'nu metal', 'political hip hop', 'post-grunge', 'rap metal', 'rap rock', 'rock']",72
+Steely Dan,"['album rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",68
+Bryan Adams,"['canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",77
+Talking Heads,"['alternative rock', 'art punk', 'dance rock', 'funk rock', 'new wave', 'permanent wave', 'post-punk', 'rock', 'zolo']",71
+The All-American Rejects,"['alternative metal', 'modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",68
+Soundgarden,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'rock']",70
+Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",68
+Alabama,"['contemporary country', 'country', 'country road', 'country rock']",67
+Santana,"['blues rock', 'classic rock', 'mexican classic rock']",72
+TobyMac,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music']",68
+Depeche Mode,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'rock', 'synthpop']",75
+Paul McCartney,"['classic rock', 'mellow gold', 'rock', 'soft rock']",73
+Foreigner,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",72
+R.E.M.,"['alternative rock', 'athens indie', 'permanent wave', 'rock']",75
+Insane Clown Posse,['rap rock'],67
+Marilyn Manson,"['alternative metal', 'hard rock', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",72
+X Ambassadors,"['modern alternative rock', 'modern rock', 'stomp pop']",72
+Jimi Hendrix,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",70
+Dire Straits,"['album rock', 'classic rock', 'mellow gold', 'rock']",78
+Hollywood Undead,"['alternative metal', 'modern rock', 'post-grunge', 'rap metal', 'rap rock']",69
+Jimmy Eat World,"['alternative metal', 'alternative rock', 'emo', 'modern power pop', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge', 'punk', 'rock']",69
+Pixies,"['alternative rock', 'boston rock', 'permanent wave', 'rock']",72
+Jesús Adrián Romero,"['latin christian', 'rock cristiano']",75
+Cody Jinks,"['classic texas country', 'modern southern rock', 'outlaw country']",65
+The Clash,"['alternative rock', 'permanent wave', 'punk', 'rock']",72
+Chris Tomlin,"['ccm', 'christian alternative rock', 'christian music']",68
+KISS,"['glam rock', 'hard rock', 'rock']",73
+Dirty Heads,"['reggae fusion', 'reggae rock']",66
+Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",66
+James Taylor,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",68
+Chevelle,"['alternative metal', 'christian rock', 'nu metal', 'post-grunge']",66
+Juanes,"['colombian pop', 'latin pop', 'mexican pop', 'rock en espanol']",77
+Rod Stewart,"['mellow gold', 'soft rock']",74
+George Michael,"['new wave pop', 'soft rock']",74
+Sufjan Stevens,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",72
+John Denver,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",70
+Phil Wickham,"['ccm', 'christian alternative rock', 'christian indie', 'christian music']",67
+Counting Crows,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",70
+Bleachers,"['indie pop', 'modern rock', 'pov: indie']",69
+WALK THE MOON,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",72
+Lenny Kravitz,"['permanent wave', 'rock']",73
+Third Eye Blind,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge']",66
+No Doubt,"['dance pop', 'dance rock', 'permanent wave', 'pop rock', 'rock']",70
+Vampire Weekend,"['baroque pop', 'chamber pop', 'garage rock', 'indie rock', 'indietronica', 'modern rock']",68
+Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",66
+for KING & COUNTRY,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'world worship']",66
+Dido,"['dance pop', 'europop', 'lilith', 'neo mellow', 'pop rock']",76
+Julieta Venegas,"['cantautora mexicana', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",77
+Milky Chance,"['german pop', 'modern rock']",74
+Nine Inch Nails,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",68
+Fitz and The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",68
+The Cars,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']",68
+Natalia Lafourcade,"['cantautora mexicana', 'latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'veracruz indie']",74
+Queens of the Stone Age,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']",71
+Megadeth,"['alternative metal', 'hard rock', 'melodic thrash', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",71
+Eric Clapton,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",73
+Neil Young,"['canadian singer-songwriter', 'classic canadian rock', 'classic rock', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter']",70
+The Mamas & The Papas,"['classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'sunshine pop']",70
+Billy Idol,"['album rock', 'classic rock', 'dance rock', 'hard rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",71
+Cyndi Lauper,"['dance pop', 'new wave pop', 'permanent wave', 'soft rock']",73
+Paul Simon,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",69
+Yusuf / Cat Stevens,"['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",71
+Dave Matthews Band,"['jam band', 'neo mellow', 'pop rock']",64
+The Cardigans,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']",70
+Heart,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",69
+Chicago,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",71
+Kate Bush,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",72
+Slightly Stoopid,"['reggae fusion', 'reggae rock']",64
+YUNGBLUD,"['british indie rock', 'modern rock', 'pov: indie', 'rock']",71
+Duran Duran,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",71
+Iron Maiden,"['alternative metal', 'hard rock', 'metal', 'nwobhm', 'rock']",74
+Two Door Cinema Club,"['indie rock', 'indietronica', 'irish rock', 'modern alternative rock', 'modern rock', 'northern irish indie']",70
+Sheryl Crow,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'singer-songwriter']",68
+Elliott Smith,"['alternative rock', 'indie rock', 'melancholia', 'singer-songwriter']",67
+Audioslave,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'permanent wave', 'post-grunge', 'rock', 'supergroup']",70
+Scorpions,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock', 'rock']",74
+Sixpence None The Richer,"['lilith', 'pop rock']",70
+Travis Barker,['rap rock'],68
+Fiona Apple,"['art pop', 'chamber pop', 'dark pop', 'lilith', 'permanent wave', 'piano rock', 'singer-songwriter']",67
+Lake Street Dive,"['boston rock', 'indie folk', 'new americana']",65
+KALEO,"['icelandic indie', 'icelandic rock', 'modern alternative rock']",72
+Allman Brothers Band,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'jam band', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']",64
+Young the Giant,"['indietronica', 'modern alternative rock', 'modern rock', 'pov: indie', 'stomp and holler']",67
+Keane,"['neo mellow', 'piano rock', 'pop rock']",75
+Boston,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",67
+NEEDTOBREATHE,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop']",64
+Rush,"['album rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'progressive rock', 'rock']",66
+Casting Crowns,"['ccm', 'christian alternative rock', 'christian music']",66
+Thirty Seconds To Mars,"['modern rock', 'post-grunge']",70
+alt-J,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'rock', 'shimmer pop']",71
+Mrs. GREEN APPLE,"['anime rock', 'j-pop', 'j-rock']",81
+Modest Mouse,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'washington indie']",64
+John Mellencamp,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",66
+Annie Lennox,"['new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'synthpop']",72
+Stevie Nicks,['heartland rock'],67
+Tauren Wells,"['ccm', 'christian alternative rock', 'christian music']",65
+Beck,"['alternative rock', 'anti-folk', 'permanent wave', 'rock', 'slacker rock']",67
+Of Monsters and Men,"['folk-pop', 'metropopolis', 'modern rock', 'stomp and holler']",69
+Greta Van Fleet,"['modern blues rock', 'modern hard rock', 'rock']",67
+Neon Trees,"['modern rock', 'neo mellow', 'pop rock', 'pov: indie']",66
+Kris Kristofferson,"['country', 'country rock', 'outlaw country', 'singer-songwriter']",68
+Daughtry,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",66
+311,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'nu metal', 'pop rock', 'rap rock', 'reggae fusion']",63
+The Who,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']",68
+Blondie,"['candy pop', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'synthpop']",71
+Franz Ferdinand,"['alternative rock', 'dance rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']",70
+BØRNS,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pov: indie']",67
+MercyMe,"['ccm', 'christian alternative rock', 'christian indie', 'christian music']",64
+Kenny Rogers,"['classic country pop', 'country', 'nashville sound', 'soft rock']",71
+Neil Diamond,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",69
+Yeah Yeah Yeahs,"['alternative dance', 'alternative rock', 'art pop', 'dance-punk', 'garage rock', 'indie rock', 'modern rock', 'neo-synthpop', 'new rave']",68
+Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']",65
+Good Charlotte,"['alternative metal', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",67
+The Score,"['modern alternative rock', 'pov: indie']",69
+Goth Babe,"['indie rock', 'pov: indie']",63
+Alanis Morissette,"['canadian pop', 'canadian singer-songwriter', 'lilith', 'neo mellow', 'pop rock', 'singer-songwriter']",69
+Supertramp,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold', 'piano rock', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",71
+Simple Plan,"['canadian pop punk', 'canadian punk', 'canadian rock', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock']",70
+CAKE,"['alternative rock', 'pop rock', 'post-grunge', 'sacramento indie']",64
+Skylar Grey,"['piano rock', 'viral pop']",69
+Joey Valence & Brae,['rap rock'],66
+The Temper Trap,"['indietronica', 'modern rock', 'shimmer pop']",69
+Cocteau Twins,"['alternative rock', 'art pop', 'dream pop', 'ethereal wave', 'melancholia', 'new wave', 'scottish indie', 'scottish shoegaze', 'shoegaze', 'synthpop']",66
+Fleet Foxes,"['chamber pop', 'folk', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'singer-songwriter', 'stomp and holler']",65
+La Oreja de Van Gogh,"['latin arena pop', 'latin pop', 'mexican pop', 'spanish pop', 'spanish pop rock']",76
+Shane & Shane,"['ccm', 'christian alternative rock', 'christian music', 'roots worship', 'worship']",64
+Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']",68
+Volbeat,"['danish metal', 'danish rock']",70
+Los Enanitos Verdes,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'mexican pop', 'rock en espanol', 'ska argentino']",74
+Wham!,"['new romantic', 'new wave', 'new wave pop', 'soft rock']",70
+George Harrison,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",69
+Rebelution,['reggae rock'],63
+Smash Mouth,"['pop rock', 'post-grunge']",68
+Theory of a Deadman,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge']",64
+Dayglow,"['austindie', 'indie rock', 'pov: indie']",66
+Slayer,"['alternative metal', 'death metal', 'groove metal', 'hard rock', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",68
+Crowder,"['ccm', 'christian alternative rock', 'christian music']",62
+Two Feet,"['indie poptimism', 'modern rock']",71
+Death Cab for Cutie,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'seattle indie', 'washington indie']",64
+Crowded House,"['australian rock', 'permanent wave']",71
+Kansas,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock']",68
+Men At Work,"['album rock', 'australian rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",70
+Blur,"['alternative rock', 'britpop', 'madchester', 'permanent wave', 'rock']",71
+Dave Stewart,"['new wave pop', 'rock keyboard']",71
+BABYMETAL,"['idol rock', 'j-metal', 'kawaii metal']",70
+Rick Springfield,"['album rock', 'australian rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'yacht rock']",64
+John Lennon,"['classic rock', 'rock']",71
+Flyleaf,"['alternative metal', 'christian alternative rock', 'nu metal', 'post-grunge']",63
+Brandi Carlile,"['acoustic pop', 'ectofolk', 'folk', 'indie folk', 'lilith', 'modern folk rock', 'new americana']",64
+Eurythmics,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",71
+Sara Bareilles,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",65
+Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",63
+REO Speedwagon,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",66
+Sugar Ray,"['alternative metal', 'funk metal', 'pop rock', 'post-grunge']",63
+Conway Twitty,"['arkansas country', 'classic country pop', 'country', 'country rock']",63
+Sting,"['permanent wave', 'soft rock', 'sophisti-pop']",73
+Blue Öyster Cult,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'progressive rock', 'rock']",64
+Kenny Loggins,"['album rock', 'classic rock', 'mellow gold', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']",68
+Phoenix,"['alternative dance', 'indie rock', 'modern rock', 'new rave', 'rock independant francais', 'shimmer pop']",69
+GROUPLOVE,"['indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'pov: indie']",64
+George Jones,"['classic country pop', 'country', 'country rock', 'honky tonk']",62
+STARSET,['future rock'],66
+Vundabar,"['boston indie', 'indie garage rock', 'pov: indie']",65
+Nitty Gritty Dirt Band,['country rock'],62
+Chuck Berry,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",68
+The National,"['chamber pop', 'indie folk', 'indie rock', 'indietronica', 'modern rock']",67
+Kool & The Gang,"['disco', 'funk', 'motown', 'soft rock', 'soul']",69
+Cypress Hill,"['chicano rap', 'gangster rap', 'hip hop', 'rap rock', 'west coast rap']",68
+Bush,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge', 'rock']",63
+Soda Stereo,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol', 'ska argentino']",76
+Iron & Wine,"['acoustic pop', 'chamber pop', 'indie folk', 'indie rock', 'stomp and holler']",65
+Snow Patrol,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']",71
+Fontaines D.C.,"['crank wave', 'irish indie rock', 'irish post-punk']",72
+Survivor,"['album rock', 'glam metal', 'hard rock', 'soft rock']",70
+Lionel Richie,['soft rock'],71
+Thousand Foot Krutch,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'rap metal']",67
+Brothers Osborne,"['contemporary country', 'country', 'country road', 'modern country rock', 'modern southern rock']",62
+Caifanes,"['latin alternative', 'latin rock', 'mexican rock', 'nu-cumbia', 'rock en espanol', 'rock urbano mexicano']",74
+INXS,"['album rock', 'australian rock', 'dance rock', 'funk rock', 'new romantic', 'new wave', 'new wave pop', 'rock']",71
+Frankie Valli & The Four Seasons,"['adult standards', 'bubblegum pop', 'doo-wop', 'lounge', 'northern soul', 'rock-and-roll', 'rockabilly']",65
+Commodores,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",66
+Hombres G,"['latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'spanish rock']",73
+Finger Eleven,"['alternative metal', 'canadian rock', 'funk metal', 'nu metal', 'post-grunge']",63
+Dr. Dog,"['chamber pop', 'indie rock', 'modern folk rock', 'philly indie', 'pov: indie', 'seattle indie', 'stomp and holler']",65
+Buffalo Springfield,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'southern rock']",65
+Poison,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'rock']",64
+Uncle Kracker,"['country', 'pop rock', 'post-grunge']",63
+Ramones,"['alternative rock', 'early us punk', 'permanent wave', 'punk', 'rock']",68
+Lifehouse,"['neo mellow', 'pop rock', 'post-grunge']",65
+Merle Haggard,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",62
+Genesis,"['album rock', 'art rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",68
+St. Vincent,"['art pop', 'etherpop', 'indie rock', 'indietronica', 'metropopolis', 'neo-synthpop']",65
+Collective Soul,"['alternative rock', 'grunge', 'nu metal', 'pop rock', 'post-grunge', 'rock']",63
+The Animals,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'protopunk', 'psychedelic rock', 'rock']",67
+The Kinks,"['album rock', 'art rock', 'british invasion', 'classic rock', 'folk rock', 'glam rock', 'protopunk', 'psychedelic rock', 'rock', 'singer-songwriter']",66
+Lit,"['alternative metal', 'nu metal', 'pop punk', 'pop rock', 'rap rock', 'socal pop punk']",62
+Elle King,['modern blues rock'],63
+Matthew West,"['ccm', 'christian alternative rock', 'christian music']",62
+Styx,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock']",62
+Type O Negative,"['alternative metal', 'gothic metal', 'industrial rock', 'nu metal']",65
+Hootie & The Blowfish,"['pop rock', 'post-grunge']",62
+Skid Row,"['album rock', 'glam metal', 'hard rock', 'metal', 'rock']",66
+Josiah and the Bonnevilles,"['modern folk rock', 'stomp and holler']",62
+Nate Ruess,['modern rock'],70
+Joan Jett & the Blackhearts,"['glam punk', 'rock']",66
+Hoobastank,"['alternative metal', 'funk metal', 'nu metal', 'pop rock', 'post-grunge']",68
+Capital Cities,"['metropopolis', 'modern rock']",69
+Dusty Springfield,"['adult standards', 'british invasion', 'folk rock', 'soul', 'vocal jazz']",68
+Nathaniel Rateliff & The Night Sweats,"['indie folk', 'modern blues rock', 'new americana', 'stomp and holler']",61
+The Shins,"['albuquerque indie', 'alternative rock', 'canadian indie', 'chamber pop', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'seattle indie', 'stomp and holler']",63
+A Perfect Circle,"['alternative metal', 'alternative rock', 'nu metal', 'rock', 'supergroup']",63
+Hippo Campus,"['modern rock', 'pov: indie']",61
+Bowling For Soup,"['neon pop punk', 'pop punk', 'pop rock', 'texas pop punk']",63
+Judas Priest,"['album rock', 'alternative metal', 'birmingham metal', 'glam metal', 'hard rock', 'metal', 'rock']",67
+Pat Benatar,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",64
+Huey Lewis & The News,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",65
+Chase Rice,"['contemporary country', 'country', 'country road', 'modern country rock']",61
+Melendi,"['spanish pop', 'spanish pop rock']",76
+Bread,"['mellow gold', 'soft rock']",68
+The Band,"['blues rock', 'classic canadian rock', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'heartland rock', 'jam band', 'mellow gold', 'rock', 'roots rock', 'southern rock', 'swamp rock']",62
+grandson,"['modern alternative rock', 'modern rock', 'pov: indie', 'rock']",65
+New Order,"['alternative rock', 'dance rock', 'madchester', 'new romantic', 'new wave', 'permanent wave', 'post-punk', 'synthpop', 'uk post-punk']",67
+Roy Orbison,"['adult standards', 'classic rock', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'singer-songwriter', 'soft rock']",68
+Carpenters,"['adult standards', 'mellow gold', 'soft rock']",70
+Dwight Yoakam,"['bakersfield sound', 'country', 'country rock']",61
+Manchester Orchestra,['indie rock'],63
+Bonnie Tyler,"['europop', 'new wave pop', 'soft rock']",70
+Saint Motel,"['la indie', 'modern alternative rock', 'modern rock', 'pov: indie']",64
+Slowdive,"['alternative rock', 'dream pop', 'reading indie', 'shoegaze']",65
+The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",66
+Bomba Estéreo,"['cumbia', 'latin alternative', 'latin rock', 'pop electronico', 'tropical alternativo']",70
+Tina Turner,['soft rock'],70
+American Authors,"['modern rock', 'pop rock']",65
+Plain White T's,"['modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock']",64
+The Beaches,"['canadian indie rock', 'toronto indie']",64
+Zoé,"['latin alternative', 'latin rock', 'mexican rock', 'morelos indie', 'rock en espanol']",73
+Air Supply,['soft rock'],72
+Brent Cobb,"['modern southern rock', 'new americana', 'southern americana']",61
+Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",60
+Jackson Browne,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'singer-songwriter', 'soft rock']",61
+Metric,"['canadian indie', 'canadian rock', 'indie rock', 'indietronica', 'metropopolis', 'neo-synthpop']",63
+Coheed and Cambria,['modern alternative rock'],60
+Jeremy Camp,"['ccm', 'christian alternative rock', 'christian music']",60
+Wings,"['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",65
+Olivia Newton-John,"['adult standards', 'australian dance', 'disco', 'mellow gold', 'soft rock']",68
+Eve,"['anime', 'anime rock']",69
+The Kooks,"['brighton indie', 'garage rock', 'modern rock', 'rock']",69
+Christopher Cross,"['mellow gold', 'soft rock', 'yacht rock']",66
+Danny Gokey,"['ccm', 'christian alternative rock', 'christian music', 'idol']",61
+The Charlie Daniels Band,"['album rock', 'classic rock', 'country', 'country rock', 'southern rock']",60
+Carole King,"['brill building pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",64
+Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",60
+Gordon Lightfoot,"['canadian country', 'canadian singer-songwriter', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",62
+Blind Melon,"['alternative metal', 'alternative rock', 'grunge', 'pop rock', 'rock']",62
+Dread Mar I,"['argentine reggae', 'rock en espanol']",73
+Parmalee,"['contemporary country', 'country road', 'modern country rock', 'modern uplift']",60
+Car Seat Headrest,"['furry', 'indie rock', 'pov: indie', 'slacker rock']",62
+RADWIMPS,"['j-pop', 'j-rock', 'visual kei']",74
+Kodaline,"['irish pop', 'modern rock', 'neo mellow']",69
+Stevie Ray Vaughan,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']",63
+Arcade Fire,"['alternative rock', 'baroque pop', 'canadian indie', 'canadian indie rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'permanent wave', 'quebec indie', 'rock']",65
+The Hollies,"['album rock', 'british invasion', 'classic rock', 'folk rock', 'mellow gold', 'merseybeat', 'soft rock']",65
+AWOLNATION,"['la indie', 'modern alternative rock', 'modern rock', 'rock', 'stomp pop']",63
+Simple Minds,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']",68
+The Velvet Underground,"['alternative rock', 'melancholia', 'permanent wave', 'protopunk', 'rock']",64
+Cream,"['album rock', 'blues rock', 'british blues', 'classic rock', 'folk rock', 'hard rock', 'psychedelic rock', 'rock', 'singer-songwriter', 'supergroup']",64
+KC & The Sunshine Band,"['disco', 'mellow gold', 'new wave pop', 'soft rock', 'soul']",65
+Hole,"['alternative rock', 'grunge', 'riot grrrl']",63
+Glen Campbell,"['adult standards', 'arkansas country', 'classic country pop', 'folk rock', 'mellow gold', 'nashville sound', 'singer-songwriter', 'soft rock']",62
+Rend Collective,"['ccm', 'christian alternative rock', 'christian music']",61
+Ben E. King,"['rock-and-roll', 'soul']",67
+Don Henley,"['album rock', 'classic rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",63
+The Highwaymen,"['country', 'country rock', 'outlaw country']",63
+The Black Crowes,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'jam band', 'rock', 'southern rock']",61
+Eli Young Band,"['classic texas country', 'contemporary country', 'country', 'country road', 'heartland rock']",59
+We Are Messengers,"['ccm', 'christian alternative rock']",60
+K.Flay,"['escape room', 'hip pop', 'modern alternative rock']",64
+Starship,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'synthpop']",67
+We Came As Romans,"['christian rock', 'melodic metalcore', 'metalcore', 'pop punk', 'trancecore']",62
+The Verve,"['britpop', 'permanent wave', 'rock', 'shoegaze']",68
+Don McLean,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",64
+Kari Jobe,"['ccm', 'christian alternative rock', 'christian music', 'worship']",61
+Polyphia,['instrumental rock'],62
+Kip Moore,"['contemporary country', 'country', 'country road', 'modern country rock']",62
+Uncle Lucius,"['classic texas country', 'roots rock']",60
+The Monkees,"['album rock', 'beatlesque', 'bubblegum pop', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'rock-and-roll', 'singer-songwriter', 'soft rock', 'sunshine pop']",64
+Pet Shop Boys,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",69
+ONE OK ROCK,"['j-pop', 'j-rock']",73
+Switchfoot,"['ccm', 'christian alternative rock', 'christian music']",60
+Nothing But Thieves,"['alternative pop rock', 'modern alternative rock', 'modern rock']",68
+Jet,"['garage rock', 'modern rock', 'pop rock']",65
+Rob Thomas,"['neo mellow', 'pop rock', 'post-grunge']",62
+P.O.D.,"['alternative metal', 'funk metal', 'nu metal', 'rap metal', 'rap rock']",64
+Rawayana,"['venezuelan hip hop', 'venezuelan rock']",69
+Carly Simon,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",64
+Linda Ronstadt,"['country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",62
+The Revivalists,['modern alternative rock'],59
+Alice Cooper,"['album rock', 'classic rock', 'detroit rock', 'glam metal', 'glam rock', 'hard rock', 'metal', 'protopunk', 'rock']",64
+Gavin DeGraw,"['neo mellow', 'pop rock']",62
+Ben Rector,"['acoustic pop', 'indiecoustica', 'lds youth', 'neo mellow', 'piano rock']",59
+Joni Mitchell,"['canadian singer-songwriter', 'folk', 'folk rock', 'singer-songwriter']",63
+back number,"['j-pop', 'j-rock']",76
+38 Special,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'southern rock']",58
+Pavement,"['alternative rock', 'chamber pop', 'indie rock', 'lo-fi', 'shoegaze', 'slacker rock']",61
+Regina Spektor,"['indie pop', 'lilith', 'piano rock']",63
+Violent Femmes,"['acoustic punk', 'alternative rock', 'punk']",60
+LiSA,"['anime', 'anime rock', 'j-pixie', 'j-pop']",68
+Leeland,"['ccm', 'christian alternative rock', 'christian music', 'worship']",61
+Barenaked Ladies,"['canadian pop', 'canadian rock', 'pop rock', 'post-grunge']",60
+Wheatus,['pop rock'],64
+Stealers Wheel,['folk rock'],63
+Everclear,"['alternative metal', 'alternative rock', 'nu metal', 'permanent wave', 'pop rock', 'post-grunge']",59
+John Prine,"['folk', 'new americana', 'roots rock', 'singer-songwriter']",59
+Highly Suspect,"['modern alternative rock', 'modern rock', 'post-grunge']",60
+Iration,['reggae rock'],57
+Alabama Shakes,"['alabama indie', 'modern blues rock', 'rock']",61
+Palaye Royale,"['modern alternative rock', 'vegas indie']",67
+Newsboys,"['ccm', 'christian alternative rock', 'christian music']",60
+Barns Courtney,['modern alternative rock'],63
+Charlie Brown Jr.,"['brazilian rock', 'hard rock brasileiro', 'rock alternativo brasileiro', 'rock nacional brasileiro']",76
+Bobby Darin,"['adult standards', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly', 'vocal jazz']",62
+From Ashes to New,"['post-grunge', 'rap rock']",61
+We The Kings,"['neon pop punk', 'piano rock', 'pop punk']",61
+Buckcherry,"['alternative metal', 'glam metal', 'hard rock', 'nu metal', 'post-grunge', 'sleaze rock']",59
+MJ Lenderman,"['asheville indie', 'countrygaze', 'slacker rock']",59
+"Crosby, Stills & Nash","['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'soft rock']",60
+"""Weird Al"" Yankovic","['comedy rock', 'comic', 'parody']",59
+Motörhead,"['alternative metal', 'hard rock', 'metal', 'nu metal', 'rock', 'speed metal']",66
+George Benson,"['jazz funk', 'jazz guitar', 'smooth jazz', 'soul jazz', 'yacht rock']",66
+Calle 13,"['latin afrobeat', 'latin alternative', 'latin hip hop', 'latin rock', 'puerto rican rock', 'rap conciencia', 'reggaeton', 'rock en espanol']",70
+Café Tacvba,"['latin alternative', 'latin pop', 'latin rock', 'mexican rock', 'rock en espanol']",69
+The Growlers,"['garage rock revival', 'indie garage rock', 'indie surf']",59
+Joy Division,"['alternative rock', 'indie rock', 'madchester', 'new wave', 'post-punk', 'punk', 'rock', 'uk post-punk']",65
+Bad Company,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']",59
+King Harvest,['soft rock'],59
+Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",59
+Diana Ross,"['adult standards', 'disco', 'motown', 'quiet storm', 'soft rock', 'soul']",66
+Portishead,"['alternative rock', 'art pop', 'dark pop', 'electronica', 'laboratorio', 'trip hop']",65
+Phillip Phillips,"['folk-pop', 'neo mellow', 'pop rock']",61
+Billy Squier,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'rock', 'soft rock', 'southern rock']",58
+Cold War Kids,"['indie rock', 'modern alternative rock', 'modern rock', 'piano rock', 'stomp and holler']",60
+Live,"['grunge', 'pop rock', 'post-grunge']",62
+Bishop Briggs,['modern alternative rock'],64
+Interpol,"['alternative dance', 'alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",64
+Bunbury,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",71
+Wilco,"['alternative country', 'alternative rock', 'chicago indie', 'folk', 'indie rock', 'roots rock', 'stomp and holler']",60
+The Elovaters,"['modern reggae', 'reggae rock']",57
+Spoon,"['alternative rock', 'austindie', 'indie rock', 'modern rock']",58
+Jarabe De Palo,"['latin alternative', 'latin rock', 'rock en espanol', 'spanish pop', 'spanish rock']",71
+Ween,['alternative rock'],59
+Peter Gabriel,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave', 'permanent wave', 'progressive rock', 'rock', 'singer-songwriter', 'soft rock']",64
+Black Label Society,"['alternative metal', 'groove metal', 'hard rock', 'metal', 'nu metal']",60
+Steve Earle,"['alternative country', 'classic texas country', 'country rock', 'folk', 'heartland rock', 'outlaw country', 'roots rock', 'singer-songwriter']",60
+Bad Suns,"['la indie', 'modern alternative rock', 'modern rock', 'pov: indie']",57
+Palace,['english indie rock'],60
+The Laurie Berkner Band,"[""children's music"", 'kindie rock']",58
+Primus,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'grunge', 'nu metal']",59
+STRFKR,"['indie rock', 'indietronica']",58
+Three Dog Night,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'soft rock']",58
+Björk,"['alternative rock', 'art pop', 'electronica', 'experimental pop', 'experimental vocal', 'icelandic experimental', 'icelandic pop', 'icelandic singer-songwriter', 'metropopolis', 'permanent wave', 'trip hop']",63
+The Presidents Of The United States Of America,"['alternative rock', 'grunge', 'pop rock']",59
+The Righteous Brothers,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'motown', 'rock-and-roll', 'rockabilly']",64
+Natalie Imbruglia,"['dance pop', 'europop', 'lilith', 'new wave pop', 'pop rock']",67
+Richard Marx,"['new wave pop', 'soft rock']",68
+Band of Horses,"['chamber pop', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'stomp and holler']",61
+Alvvays,"['art pop', 'chamber pop', 'dream pop', 'dreamo', 'indie pop', 'indie rock', 'noise pop', 'shoegaze', 'toronto indie']",59
+Midrift,"['slacker rock', 'zoomergaze']",59
+The B-52's,"['album rock', 'classic rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'post-punk', 'rock', 'zolo']",61
+House Of Pain,"['gangster rap', 'hip hop', 'rap rock', 'west coast rap']",63
+Cheap Trick,"['album rock', 'beatlesque', 'classic rock', 'glam metal', 'glam rock', 'hard rock', 'mellow gold', 'power pop', 'rock', 'singer-songwriter', 'soft rock']",61
+Robbie Williams,"['dance rock', 'europop']",71
+La Quinta Estacion,"['latin arena pop', 'latin pop', 'spanish pop rock']",69
+Tom Morello,['modern alternative rock'],65
+Blues Traveler,"['jam band', 'pop rock', 'post-grunge']",57
+León Larregui,"['latin alternative', 'latin rock', 'rock en espanol']",70
+Vanessa Carlton,"['lilith', 'neo mellow', 'piano rock', 'pop rock', 'post-teen pop']",64
+Colton Dixon,"['ccm', 'christian alternative rock', 'christian music']",58
+Rick Astley,"['new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",66
+Eddie Money,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'soft rock', 'southern rock']",58
+Ritchie Valens,"['rock-and-roll', 'rockabilly']",61
+Ratt,"['album rock', 'glam metal', 'hard rock']",59
+Tenacious D,"['alternative metal', 'comedy rock', 'comic', 'comic metal', 'parody']",63
+Big Daddy Weave,"['ccm', 'christian alternative rock', 'christian music']",58
+Emmylou Harris,"['country rock', 'folk', 'lilith', 'melancholia', 'singer-songwriter']",61
+Toploader,['british alternative rock'],66
+Gustavo Cerati,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",72
+Jack White,"['alternative rock', 'blues rock', 'garage rock', 'garage rock revival', 'indie rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock']",61
+"Crosby, Stills, Nash & Young","['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'soft rock', 'supergroup']",60
+Deep Purple,"['album rock', 'classic rock', 'hard rock', 'metal', 'rock']",67
+David Bisbal,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']",70
+Bonnie Raitt,"['country rock', 'electric blues', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",59
+The War On Drugs,"['chamber pop', 'indie rock', 'modern rock', 'philly indie']",63
+The Marshall Tucker Band,"['album rock', 'classic rock', 'country rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'southern rock']",57
+The Zombies,"['baroque pop', 'british invasion', 'classic rock', 'folk rock', 'psychedelic rock']",61
+Donna Summer,"['disco', 'hi-nrg', 'new wave pop', 'soft rock']",65
+Paul Anka,"['adult standards', 'canadian pop', 'easy listening', 'rock-and-roll']",63
+Whitesnake,"['album rock', 'british blues', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",64
+Last Child,"['indonesian pop punk', 'indonesian rock']",75
+The Green,"['jawaiian', 'reggae rock']",57
+Matt Redman,"['ccm', 'christian alternative rock', 'christian music']",61
+Barry Manilow,"['adult standards', 'mellow gold', 'soft rock', 'yacht rock']",63
+Bachman-Turner Overdrive,"['album rock', 'classic canadian rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",59
+Bright Eyes,"['chamber pop', 'indie rock', 'melancholia', 'omaha indie', 'stomp and holler']",59
+J.J. Cale,"['blues', 'blues rock', 'folk rock', 'roots rock', 'singer-songwriter']",64
+LCD Soundsystem,"['alternative dance', 'alternative rock', 'art pop', 'dance rock', 'dance-punk', 'electronic rock', 'electronica', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave']",61
+Thin Lizzy,"['album rock', 'blues rock', 'classic rock', 'glam metal', 'hard rock', 'irish rock', 'metal', 'rock']",62
+The Struts,"['glam rock', 'modern alternative rock']",60
+Lou Reed,"['classic rock', 'glam rock', 'permanent wave', 'rock', 'singer-songwriter']",65
+Gerry Rafferty,"['art rock', 'classic rock', 'folk rock', 'mellow gold', 'soft rock']",61
+Steppenwolf,"['acid rock', 'album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'hard rock', 'proto-metal', 'rock', 'singer-songwriter', 'soft rock']",62
+Passion Pit,"['indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'shimmer pop']",58
+Common Kings,['reggae rock'],57
+OFFICIAL HIGE DANDISM,"['anime', 'anime rock', 'j-pop']",72
+Savage Garden,"['boy band', 'dance pop', 'pop rock']",66
+Mastodon,"['alternative metal', 'atlanta metal', 'metal', 'progressive groove metal', 'progressive sludge', 'sludge metal', 'stoner metal', 'stoner rock']",61
+Silverstein,"['canadian post-hardcore', 'canadian rock', 'metalcore', 'neon pop punk', 'pop emo', 'pop punk', 'post-hardcore', 'screamo']",59
+100 gecs,"['bubblegum bass', 'hyper-rock', 'hyperpop', 'proto-hyperpop']",59
+Houndmouth,"['indie folk', 'modern folk rock', 'new americana', 'stomp and holler']",57
+Fugazi,"['alternative rock', 'dc hardcore', 'noise pop', 'noise rock', 'post-hardcore', 'post-punk', 'punk']",60
+Rigo Tovar,"['mexican rock-and-roll', 'musica tamaulipeca', 'norteno', 'ranchera', 'tropical']",64
+They Might Be Giants,"['comic', 'geek rock', 'permanent wave', 'zolo']",59
+The Hip Abduction,['reggae rock'],56
+White Zombie,"['alternative metal', 'hard rock', 'industrial metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",57
+Miranda!,"['electronica argentina', 'latin alternative', 'latin rock', 'pop electronico', 'rock en espanol']",72
+The Drifters,"['adult standards', 'classic soul', 'doo-wop', 'rock-and-roll', 'rockabilly', 'soul']",61
+Nick Cave & The Bad Seeds,"['alternative rock', 'permanent wave', 'singer-songwriter']",68
+Devin Dawson,"['contemporary country', 'country pop', 'country road', 'modern country rock']",57
+Pepper,"['reggae fusion', 'reggae rock']",56
+Janis Joplin,"['album rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']",63
+Elefante,"['latin alternative', 'latin arena pop', 'latin pop', 'mexican pop', 'mexican rock', 'rock en espanol']",69
+Siouxsie and the Banshees,"['alternative rock', 'dream pop', 'new romantic', 'new wave', 'post-punk', 'punk', 'uk post-punk']",61
+Heroes Del Silencio,"['latin alternative', 'latin rock', 'musica aragonesa', 'rock en espanol', 'spanish rock']",69
+Dropkick Murphys,"['boston punk', 'boston rock', 'celtic punk', 'celtic rock', 'punk']",62
+Gin Blossoms,"['permanent wave', 'pop rock', 'post-grunge', 'tempe indie']",57
+4 Non Blondes,"['new wave pop', 'pop rock']",65
+Friday Pilots Club,"['indie rockism', 'modern alternative rock']",59
+The Bangles,"['album rock', 'jangle pop', 'new romantic', 'new wave', 'new wave pop', 'paisley underground', 'soft rock']",64
+Maretu,['anime rock'],62
+Vulfpeck,"['ann arbor indie', 'funk rock', 'instrumental funk']",60
+Matt Maher,"['canadian ccm', 'ccm', 'christian alternative rock', 'christian music']",58
+Dashboard Confessional,"['emo', 'neon pop punk', 'pop punk', 'pop rock']",58
+Mägo de Oz,"['celtic metal', 'latin rock', 'medieval rock', 'rock en espanol', 'spanish folk metal', 'spanish metal']",70
+Michael W. Smith,"['ccm', 'christian alternative rock', 'christian music']",60
+Peter Bjorn and John,"['alternative dance', 'baroque pop', 'dance-punk', 'indie rock', 'modern rock', 'new rave', 'swedish alternative rock', 'swedish indie pop']",62
+In Flames,"['alternative metal', 'gothenburg metal', 'melodic death metal', 'melodic metalcore', 'metal', 'swedish alternative rock', 'swedish death metal', 'swedish melodeath', 'swedish metal']",65
+The Proclaimers,"['celtic rock', 'scottish rock']",63
+Fog Lake,"['lo-fi indie', 'newfoundland indie', 'slacker rock', 'small room']",59
+Zakk Wylde,"['groove metal', 'hard rock', 'metal', 'southern metal']",57
+Barbra Streisand,"['adult standards', 'operatic pop', 'soft rock']",64
+Andrés Calamaro,"['argentine rock', 'cantautor', 'latin alternative', 'pop argentino', 'rock en espanol']",72
+Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",56
+Simply Red,"['british soul', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop']",69
+Natalie Cole,"['adult standards', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",63
+Twisted Sister,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",62
+Marco Barrientos,"['latin christian', 'latin worship', 'rock cristiano']",64
+Fountains Of Wayne,"['pop rock', 'power pop']",59
+Billy Ray Cyrus,['country rock'],63
+Yes,"['album rock', 'art rock', 'classic rock', 'hard rock', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",61
+Joe Cocker,"['album rock', 'blues rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",65
+Brian Eno,"['abstract', 'ambient', 'art pop', 'art rock', 'compositional ambient', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism', 'singer-songwriter']",62
+Jason Isbell and the 400 Unit,"['alternative country', 'folk', 'new americana', 'roots rock']",56
+Unknown Mortal Orchestra,"['art pop', 'indie rock', 'indie soul', 'indietronica', 'kiwi rock', 'neo-psychedelic', 'portland hip hop', 'psychedelic pop']",60
+Neutral Milk Hotel,"['alternative rock', 'chamber pop', 'elephant 6', 'indie rock', 'lo-fi', 'noise pop', 'slacker rock']",58
+Marcy Playground,"['alternative rock', 'grunge', 'pop rock', 'post-grunge']",57
+Future Islands,"['alternative dance', 'art pop', 'baltimore indie', 'chamber pop', 'indie rock', 'indietronica', 'neo-synthpop', 'shimmer pop']",61
+Spin Doctors,"['pop rock', 'post-grunge']",61
+Culture Club,"['new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",65
+Alex Ubago,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']",69
+The Movement,"['east coast reggae', 'reggae fusion', 'reggae rock']",56
+Jordan Feliz,"['ccm', 'christian alternative rock', 'christian indie', 'christian music']",57
+KT Tunstall,"['ectofolk', 'lilith', 'neo mellow', 'pop rock', 'scottish singer-songwriter']",63
+Kristian Stanfill,"['ccm', 'christian alternative rock', 'christian music', 'worship']",58
+Sanctus Real,"['ccm', 'christian alternative rock', 'christian music']",61
+Marianas Trench,"['canadian rock', 'neon pop punk', 'pixie']",59
+Jewel,"['alaska indie', 'ectofolk', 'lilith', 'permanent wave', 'pop rock', 'singer-songwriter']",58
+Catfish and the Bottlemen,"['modern alternative rock', 'modern rock', 'stomp pop', 'welsh rock']",67
+Sarah McLachlan,"['canadian pop', 'canadian singer-songwriter', 'ectofolk', 'lilith', 'permanent wave', 'pop rock']",62
+The Pointer Sisters,"['disco', 'girl group', 'hi-nrg', 'motown', 'new wave pop', 'soft rock']",65
+Static-X,"['alternative metal', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rap metal']",59
+Dion,"['doo-wop', 'rock-and-roll', 'rockabilly']",59
+Chromeo,"['alternative dance', 'dance rock', 'filter house', 'indietronica', 'neo-synthpop', 'new rave', 'nu disco']",62
+Loretta Lynn,"['classic country pop', 'country', 'country rock', 'nashville sound']",57
+Bloodhound Gang,"['alternative metal', 'comic', 'funk metal', 'funk rock', 'nu metal', 'rap rock']",63
+Eddie Vedder,"['acoustic rock', 'grunge', 'permanent wave']",63
+Marcus King,"['modern blues', 'modern blues rock']",57
+Fruit Bats,"['chamber pop', 'indie folk', 'indie rock', 'new americana', 'stomp and holler']",57
+Grand Funk Railroad,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",57
+Ronnie Milsap,"['classic country pop', 'country', 'country road', 'country rock', 'nashville sound']",56
+Hunter Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']",57
+Royal Blood,"['brighton indie', 'garage rock', 'modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'rock']",64
+Little River Band,"['album rock', 'classic rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",58
+Gloria Gaynor,"['disco', 'soft rock']",64
+THE DRIVER ERA,['modern alternative rock'],61
+Micah Tyler,"['anthem worship', 'ccm', 'christian alternative rock']",56
+Julian Casablancas,['indie rock'],63
+Norman Greenbaum,['classic rock'],59
+Meat Loaf,['album rock'],63
+The Romantics,"['album rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'power pop', 'soft rock']",58
+Sam Fender,"['modern rock', 'north east england indie']",67
+Dewa 19,"['classic indonesian rock', 'indonesian rock']",73
+The Mountain Goats,"['anti-folk', 'chamber pop', 'folk punk', 'indie rock', 'lo-fi', 'melancholia', 'new weird america']",56
+lovelytheband,"['modern rock', 'pov: indie']",57
+The Wallflowers,"['pop rock', 'post-grunge']",58
+The Cramps,"['garage rock', 'gothabilly', 'post-punk', 'psychobilly', 'punk']",59
+Pretenders,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock']",63
+Joe Walsh,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']",56
+The Bellamy Brothers,"['classic country pop', 'country', 'country rock']",61
+Eric Carmen,"['new wave pop', 'soft rock', 'yacht rock']",64
+Waxahatchee,"['alabama indie', 'bubblegrunge', 'chamber pop', 'countrygaze', 'indie pop', 'indie rock']",56
+Roberta Flack,"['adult standards', 'classic soul', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",63
+Ocean Alley,"['australian reggae fusion', 'australian surf rock']",64
+Dio,"['album rock', 'alternative metal', 'glam metal', 'hard rock', 'metal', 'rock', 'speed metal']",61
+Bacilos,"['colombian pop', 'latin alternative', 'latin pop', 'rock en espanol']",68
+Danzig,"['alternative metal', 'groove metal', 'grunge', 'hard rock', 'industrial rock', 'metal', 'nu metal', 'punk']",59
+Andrew Bird,"['baroque pop', 'chamber pop', 'chicago indie', 'indie rock', 'melancholia', 'stomp and holler']",58
+Steve Winwood,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",59
+Faces,"['blues rock', 'classic rock', 'country rock', 'folk rock', 'glam rock', 'protopunk', 'psychedelic rock', 'roots rock', 'singer-songwriter']",57
+Japanese Breakfast,"['art pop', 'eugene indie', 'indie pop', 'indie rock', 'philly indie']",57
+Michael Bolton,['soft rock'],65
+Jefferson Airplane,"['acid rock', 'album rock', 'blues rock', 'classic rock', 'folk rock', 'hard rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter']",61
+The Alan Parsons Project,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock', 'soft rock', 'symphonic rock']",64
+Belinda Carlisle,"['new romantic', 'new wave pop', 'soft rock']",63
+Warren Zevon,"['country rock', 'folk', 'folk rock', 'piano rock', 'roots rock', 'singer-songwriter']",57
+The Platters,"['adult standards', 'easy listening', 'rock-and-roll', 'rockabilly']",61
+HEALTH,"['grave wave', 'metropopolis', 'noise pop', 'noise rock']",60
+The Prodigy,"['big beat', 'breakbeat', 'dance rock', 'hardcore techno', 'rave']",66
+Dylan Schneider,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",56
+my bloody valentine,"['alternative rock', 'dream pop', 'irish shoegaze', 'noise pop', 'shoegaze']",58
+Candlebox,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge']",55
+Brenda Lee,"['adult standards', 'easy listening', 'lounge', 'rockabilly']",60
+El Cuarteto De Nos,['rock uruguayo'],71
+The J. Geils Band,"['album rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",57
+O.A.R.,"['neo mellow', 'pop rock']",54
+New Radicals,['pop rock'],61
+Sylvan Esso,"['art pop', 'chamber pop', 'etherpop', 'indie pop', 'indie rock', 'indietronica', 'shimmer pop']",56
+Jerry Reed,"['classic country pop', 'country', 'country rock']",56
+Aimer,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']",67
+Enjambre,"['indie rock mexicano', 'latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",70
+Los Fabulosos Cadillacs,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']",69
+Rupert Holmes,['yacht rock'],60
+Sticky Fingers,"['australian reggae fusion', 'australian surf rock', 'reggae fusion']",66
+The Happy Fits,"['modern folk rock', 'new jersey indie', 'pov: indie']",56
+Mecano,"['cantautor', 'latin alternative', 'latin pop', 'rock en espanol', 'spanish pop', 'spanish pop rock']",68
+The Wombats,"['liverpool indie', 'modern alternative rock', 'modern rock']",62
+Oingo Boingo,"['dance rock', 'new romantic', 'new wave', 'zolo']",56
+No Vacation,"['chill dream pop', 'indie garage rock', 'indie pop', 'indie surf']",57
+Garbage,"['alternative rock', 'dance rock', 'electronic rock', 'permanent wave']",60
+Ambrosia,"['soft rock', 'yacht rock']",56
+Testament,"['alternative metal', 'groove metal', 'hard rock', 'metal', 'old school thrash', 'thrash metal']",60
+Tribal Seeds,"['reggae rock', 'west coast reggae']",55
+Billy Ocean,"['disco', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'yacht rock']",64
+Ryan Stevenson,"['ccm', 'christian alternative rock', 'christian music']",55
+Chris Cornell,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'post-grunge', 'rock']",60
+T. Rex,"['classic rock', 'glam rock', 'protopunk', 'rock', 'singer-songwriter']",62
+Cutting Crew,"['album rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",63
+Fort Minor,['rap rock'],61
+Semisonic,"['pop rock', 'post-grunge']",59
+Molotov,"['latin alternative', 'latin hip hop', 'latin rock', 'mexican hip hop', 'mexican rock', 'rock en espanol']",67
+Local Natives,"['chamber pop', 'indie rock', 'la indie', 'modern rock', 'shimmer pop', 'stomp and holler']",56
+Europe,"['album rock', 'glam metal', 'hard rock', 'rock', 'swedish hard rock', 'swedish melodic rock']",65
+Mild High Club,"['indie garage rock', 'neo-psychedelic']",60
+IDLES,"['bristol indie', 'crank wave', 'indie rock', 'modern rock']",62
+Siddhartha,"['latin rock', 'mexican indie']",70
+Surfer Girl,['reggae rock'],54
+Traveling Wilburys,"['album rock', 'beatlesque', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'supergroup']",59
+Cultura Profética,"['latin alternative', 'latin rock', 'reggae en espanol', 'rock en espanol']",64
+Seals and Crofts,"['classic rock', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",57
+Cinderella,"['album rock', 'glam metal', 'hard rock']",57
+Michelle Branch,"['candy pop', 'dance pop', 'lilith', 'neo mellow', 'pop rock']",58
+Sonic Youth,"['alternative rock', 'noise pop', 'noise rock', 'rock', 'shoegaze']",59
+The Turtles,"['bubblegum pop', 'classic rock', 'folk rock', 'merseybeat', 'psychedelic rock', 'rock-and-roll', 'rockabilly']",61
+The Fratellis,"['garage rock', 'modern rock', 'scottish rock']",61
+The Lovin' Spoonful,"['bubblegum pop', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock-and-roll', 'soft rock']",58
+Bobby Caldwell,['yacht rock'],60
+Seu Jorge,"['mpb', 'samba-rock']",71
+Adelitas Way,"['alternative metal', 'christian rock', 'post-grunge']",57
+John Anderson,"['classic country pop', 'country', 'country road', 'country rock']",54
+Joywave,"['indietronica', 'modern alternative rock', 'modern rock', 'rochester ny indie', 'shimmer pop']",56
+Jameson Rodgers,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",55
+Sly & The Family Stone,"['classic soul', 'funk', 'funk rock', 'p funk', 'psychedelic soul', 'soul', 'southern soul']",58
+MISSIO,"['modern alternative rock', 'modern rock']",58
+10cc,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold', 'new romantic', 'soft rock', 'symphonic rock', 'yacht rock']",61
+Quiet Riot,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",58
+The Moody Blues,"['album rock', 'art rock', 'british invasion', 'classic rock', 'country rock', 'flute rock', 'folk rock', 'mellow gold', 'progressive rock', 'rock', 'singer-songwriter', 'soft rock', 'symphonic rock']",58
+DECO*27,"['anime rock', 'j-pixie', 'vocaloid']",62
+Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",62
+Ryan Tedder,['pop rock'],58
+Jane's Addiction,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'grunge', 'nu metal', 'permanent wave', 'rock']",56
+The Voidz,['modern alternative rock'],58
+My Morning Jacket,"['chamber pop', 'indie rock', 'jam band', 'louisville indie', 'melancholia', 'roots rock', 'stomp and holler']",54
+Dave Matthews,"['neo mellow', 'pop rock']",56
+The Heavy,"['bath indie', 'modern blues rock']",59
+Faith No More,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",62
+Inspector,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'ska mexicano']",67
+Ram Jam,['southern rock'],59
+Tommy James & The Shondells,"['bubblegum pop', 'classic garage rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'merseybeat', 'psychedelic rock', 'rock-and-roll']",56
+Tonic,"['pop rock', 'post-grunge']",55
+The Oak Ridge Boys,"['classic country pop', 'country', 'country road', 'country rock']",54
+David Gilmour,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'symphonic rock']",65
+George Thorogood & The Destroyers,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock']",58
+Crazy Town,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap rock']",61
+Sheila On 7,"['indonesian alternative rock', 'indonesian pop']",72
+Rusted Root,"['jam band', 'pittsburgh rock']",58
+Gloria Estefan,"['new wave pop', 'soft rock']",64
+The Postal Service,"['chamber pop', 'indie rock', 'indietronica', 'seattle indie']",55
+B.B. King,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul', 'soul blues', 'traditional blues']",62
+DISPATCH,"['jam band', 'modern folk rock']",54
+Walk off the Earth,"['canadian rock', 'pop rock']",61
+Francesca Battistelli,"['ccm', 'christian alternative rock', 'christian music']",55
+The Decemberists,"['baroque pop', 'canadian indie', 'chamber pop', 'indie rock', 'modern folk rock', 'stomp and holler']",55
+Third Day,"['ccm', 'christian alternative rock', 'christian music']",55
+Sepultura,"['alternative metal', 'brazilian groove metal', 'brazilian metal', 'brazilian thrash metal', 'death metal', 'deathrash', 'groove metal', 'hard rock', 'latin metal', 'metal', 'metal mineiro', 'nu metal', 'old school thrash', 'speed metal', 'thrash metal']",62
+Michael McDonald,"['mellow gold', 'soft rock', 'yacht rock']",57
+The Flaming Lips,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'noise pop', 'okc indie', 'singer-songwriter']",56
+Boz Scaggs,"['classic rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",57
+No Te Va Gustar,"['latin alternative', 'reggae uruguayo', 'rock en espanol', 'rock uruguayo']",71
+PXNDX,"['emo mexicano', 'latin alternative', 'latin rock', 'mexican pop punk', 'mexican rock', 'punk rock mexicano', 'rock en espanol']",68
+Arrested Youth,['modern alternative rock'],58
+Matt Mason,"['modern country pop', 'modern country rock']",54
+Fit For A King,"['christian metalcore', 'christian rock', 'melodic metalcore', 'metalcore']",56
+The Everly Brothers,"['adult standards', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']",60
+Fernandinho,"['brazilian gospel', 'rock gospel brasileiro']",71
+Badflower,"['modern alternative rock', 'post-grunge']",55
+HIM,"['dark rock', 'finnish alternative rock', 'gothic metal']",61
+Ricky Nelson,"['adult standards', 'doo-wop', 'rock-and-roll', 'rockabilly']",58
+JJ Grey & Mofro,"['jam band', 'modern blues', 'modern blues rock', 'roots rock', 'swamp rock']",54
+Little Stranger,"['reggae rock', 'south carolina indie']",53
+Relient K,"['canadian ccm', 'christian alternative rock', 'christian punk', 'pop punk']",54
+Ryan Hurd,"['contemporary country', 'country pop', 'country road', 'modern country rock']",54
+Silversun Pickups,"['alternative rock', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock']",55
+Dr. Hook,"['country rock', 'mellow gold', 'soft rock']",60
+Scissor Sisters,"['dance pop', 'dance rock']",60
+Natiruts,"['brazilian reggae', 'brazilian rock', 'reggae tuga']",71
+The Guess Who,"['album rock', 'classic canadian rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",56
+The Dresden Dolls,"['boston rock', 'dark cabaret', 'piano rock', 'steampunk']",58
+MisterWives,"['indie poptimism', 'modern rock', 'nyc pop', 'shimmer pop']",54
+Ximena Sariñana,"['cantautora mexicana', 'latin alternative', 'latin pop', 'mexican pop', 'mexican rock']",65
+TV On The Radio,"['alternative dance', 'alternative rock', 'brooklyn indie', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop']",56
+Mark Knopfler,['soft rock'],64
+Charlie Hope,"[""canadian children's music"", ""children's folk"", 'kindie rock']",56
+Warrant,"['album rock', 'glam metal', 'hard rock']",56
+Irene Cara,"['disco', 'new romantic', 'new wave pop', 'soft rock']",65
+Peter Cetera,['soft rock'],63
+Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']",54
+Kim Carnes,"['new romantic', 'new wave pop', 'soft rock']",63
+Generación 12,"['latin christian', 'latin worship', 'rock cristiano']",63
+Fine Young Cannibals,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",62
+Babasonicos,"['argentine rock', 'electronica argentina', 'latin alternative', 'latin rock', 'pop electronico', 'rock en espanol']",71
+Kero Kero Bonito,"['escape room', 'hyper-rock', 'japanese electropop']",56
+Charly García,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol']",70
+Hot Chelle Rae,"['dance rock', 'neon pop punk', 'post-teen pop']",56
+Jerry Lee Lewis,"['piano rock', 'rock-and-roll', 'rockabilly']",59
+Loverboy,"['album rock', 'classic canadian rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'soft rock']",56
+Temple Of The Dog,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'rock', 'supergroup']",56
+Laura Branigan,"['new romantic', 'new wave pop', 'soft rock', 'synthpop']",64
+Caloncho,"['guadalajara indie', 'latin alternative', 'latin rock']",66
+Gary Clark Jr.,"['electric blues', 'modern blues rock', 'rock', 'soul blues', 'texas blues']",57
+Harry Nilsson,"['classic rock', 'folk', 'folk rock', 'singer-songwriter']",59
+Todd Rundgren,"['art rock', 'country rock', 'folk rock', 'mellow gold', 'philly soul', 'power pop', 'singer-songwriter', 'soft rock', 'zolo']",55
+Derek & The Dominos,"['album rock', 'blues rock', 'british blues', 'classic rock', 'country rock', 'electric blues', 'folk rock', 'hard rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter']",58
+Player,"['soft rock', 'yacht rock']",59
+Suicidal Tendencies,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']",56
+The Cult,"['album rock', 'hard rock', 'new wave', 'rock']",59
+Rivers Cuomo,['alternative rock'],55
+Feist,"['art pop', 'canadian indie', 'canadian pop', 'chamber pop', 'indie pop', 'indie rock']",60
+Mandisa,"['ccm', 'christian alternative rock', 'christian music']",54
+Die Antwoord,"['african rock', 'south african alternative', 'south african hip hop']",61
+The Tragically Hip,"['canadian rock', 'kingston on indie', 'ontario indie', 'rock']",63
+El Tri,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'rock urbano mexicano']",64
+The Psychedelic Furs,"['alternative rock', 'new romantic', 'new wave', 'new wave pop', 'post-punk']",56
+PJ Harvey,"['alternative rock', 'art pop', 'melancholia', 'permanent wave', 'piano rock', 'singer-songwriter']",60
+Eve 6,"['alternative metal', 'pop rock', 'post-grunge']",53
+Buddy Holly,"['classic rock', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'singer-songwriter']",58
+Supergrass,"['alternative rock', 'britpop', 'oxford indie']",61
+I AM THEY,"['ccm', 'christian alternative rock']",55
+Caspar Babypants,"[""children's folk"", 'kindie rock']",54
+Donovan,"['british folk', 'british invasion', 'classic rock', 'folk', 'folk rock', 'glam rock', 'psychedelic folk', 'psychedelic rock', 'scottish singer-songwriter', 'singer-songwriter']",57
+American Football,"['alternative emo', 'dreamo', 'emo', 'math rock', 'midwest emo']",56
+Placebo,"['alternative rock', 'britpop', 'permanent wave', 'rock']",65
+DENM,['reggae rock'],53
+LANCO,"['contemporary country', 'country road', 'modern country rock']",53
+Canned Heat,"['blues', 'blues rock', 'classic rock', 'country rock', 'electric blues', 'folk rock', 'psychedelic rock', 'traditional blues']",59
+Jethro Tull,"['album rock', 'art rock', 'blues rock', 'classic rock', 'flute rock', 'folk rock', 'hard rock', 'progressive rock', 'psychedelic rock', 'rock', 'singer-songwriter', 'symphonic rock']",59
+Wolf Alice,"['indie rock', 'modern alternative rock', 'modern rock']",60
+The Avalanches,"['alternative dance', 'australian alternative rock', 'australian dance', 'collage pop', 'electronica', 'indietronica', 'new rave', 'psychedelic hip hop']",59
+Los Angeles Negros,"['chilean rock', 'nueva ola chilena', 'ranchera']",64
+Sublime With Rome,['reggae rock'],52
+Drive-By Truckers,"['alternative country', 'folk', 'new americana', 'roots rock', 'southern rock']",52
+Wet Leg,"['crank wave', 'indie rock']",58
+The Calling,"['neo mellow', 'pop rock']",63
+Wolfmother,"['alternative rock', 'australian psych', 'garage rock', 'modern blues rock', 'modern rock', 'rock']",59
+Wild Cherry,"['disco', 'funk rock']",56
+Ryan Adams,"['alternative country', 'new americana', 'roots rock', 'singer-songwriter']",57
+Foals,"['alternative dance', 'garage rock', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'neo-synthpop', 'oxford indie', 'shimmer pop']",63
+Bloc Party,"['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'new rave']",62
+Puscifer,"['alternative metal', 'industrial rock']",55
+Five For Fighting,"['neo mellow', 'piano rock', 'pop rock']",57
+Tedeschi Trucks Band,"['blues rock', 'electric blues', 'jam band', 'modern blues', 'roots rock', 'southern rock']",53
+Robert Palmer,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']",58
+Extreme,"['funk metal', 'glam metal', 'hard rock']",62
+ivri,['hyper-rock'],56
+LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",53
+Little Feat,"['blues rock', 'country rock', 'electric blues', 'folk', 'folk rock', 'jam band', 'mellow gold', 'roots rock', 'southern rock', 'swamp rock']",53
+The Naked And Famous,"['auckland indie', 'indietronica', 'kiwi rock', 'metropopolis']",57
+Dead Kennedys,"['alternative rock', 'early us punk', 'hardcore punk', 'punk']",56
+The Raconteurs,"['alternative rock', 'garage rock', 'garage rock revival', 'indie rock', 'modern blues rock', 'modern rock', 'rock', 'supergroup']",56
+Bananarama,"['girl group', 'hi-nrg', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",59
+Eddie Rabbitt,"['classic country pop', 'country', 'country rock', 'mellow gold', 'soft rock']",55
+Lustra,['pop rock'],56
+Iggy Pop,"['alternative rock', 'glam rock', 'permanent wave', 'protopunk', 'rock']",62
+Filter,"['alternative metal', 'alternative rock', 'grunge', 'industrial metal', 'nu metal', 'post-grunge']",54
+Queensrÿche,"['album rock', 'glam metal', 'hard rock', 'metal', 'progressive metal', 'us power metal']",55
+Panteon Rococo,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'ska mexicano']",66
+Red,"['alternative metal', 'christian alternative rock', 'christian rock', 'post-grunge']",55
+Bette Midler,"['adult standards', 'new wave pop', 'soft rock']",58
+Tokio Hotel,['german pop rock'],63
+Citizen Cope,['alternative rock'],54
+Los Terricolas,"['grupera', 'mexican rock-and-roll', 'ranchera']",61
+DEVO,"['alternative rock', 'art punk', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'post-punk', 'synth punk', 'synthpop', 'zolo']",55
+Drugdealer,"['indie garage rock', 'neo-psychedelic', 'psychedelic pop']",54
+The Mighty Mighty Bosstones,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']",54
+Ten Years After,"['blues rock', 'british blues', 'classic rock', 'progressive rock', 'psychedelic rock']",57
+Clutch,"['funk metal', 'modern blues rock', 'southern metal', 'stoner metal', 'stoner rock']",55
+The Expendables,['reggae rock'],51
+Broken Bells,"['chamber pop', 'indie rock', 'indietronica', 'la indie', 'modern rock']",56
+A Great Big World,"['neo mellow', 'piano rock', 'pop rock', 'viral pop']",60
+Langhorne Slim,"['anti-folk', 'indie folk', 'modern folk rock', 'new americana', 'stomp and holler']",54
+The Darkness,"['glam metal', 'hard rock']",58
+Blackberry Smoke,"['modern southern rock', 'southern rock']",56
+Echo & the Bunnymen,"['alternative rock', 'new romantic', 'new wave', 'permanent wave', 'uk post-punk']",57
+Ted Nugent,"['acid rock', 'album rock', 'blues rock', 'classic rock', 'glam metal', 'hard rock', 'rock', 'southern rock']",53
+England Dan & John Ford Coley,"['mellow gold', 'soft rock']",60
+Legião Urbana,"['mpb', 'rock brasiliense', 'rock nacional brasileiro']",70
+Tesla,"['album rock', 'glam metal', 'hard rock', 'sacramento indie']",53
+Jason Isbell,"['alternative country', 'folk', 'new americana', 'roots rock']",52
+La Ley,"['chilean rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",64
+Granger Smith,"['classic texas country', 'contemporary country', 'country road', 'modern country rock']",52
+Little Richard,"['blues', 'rock-and-roll', 'rockabilly', 'soul']",59
+The Archies,"['bubblegum pop', 'classic canadian rock', 'rock-and-roll']",58
+Local H,"['alternative rock', 'grunge', 'post-grunge']",52
+Grizzly Bear,"['art pop', 'baroque pop', 'brooklyn indie', 'indie rock', 'neo-synthpop', 'new weird america']",55
+Justin Townes Earle,"['alternative country', 'folk', 'indie folk', 'nashville americana', 'new americana', 'roots rock', 'singer-songwriter']",53
+Tal Bachman,['pop rock'],56
+Lyle Lovett,"['classic texas country', 'country rock', 'folk', 'outlaw country', 'roots rock', 'singer-songwriter']",54
+Panda Bear,"['art pop', 'chamber pop', 'chillwave', 'dream pop', 'experimental pop', 'indie rock', 'indietronica', 'noise pop']",57
+Whitey Morgan and the 78's,"['classic texas country', 'modern southern rock', 'outlaw country', 'roots americana']",52
+Roxy Music,"['art rock', 'glam rock', 'melancholia', 'new romantic', 'new wave', 'new wave pop', 'sophisti-pop']",61
+Dan Auerbach,"['garage rock', 'modern blues rock']",56
+Los Prisioneros,"['chilean hardcore', 'chilean rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska chileno']",65
+Los Auténticos Decadentes,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",67
+O Rappa,"['brazilian hip hop', 'brazilian reggae', 'brazilian rock', 'latin alternative', 'rock nacional brasileiro']",69
+ASIAN KUNG-FU GENERATION,"['anime', 'j-pop', 'j-poprock', 'j-rock', 'japanese pop punk']",62
+WATT,['modern alternative rock'],57
+KANA-BOON,"['anime', 'j-pop', 'j-rock']",62
+Frank Zappa,"['art rock', 'blues rock', 'experimental', 'instrumental rock', 'jazz fusion', 'jazz rock', 'progressive rock', 'proto-metal', 'psychedelic rock', 'symphonic rock', 'zolo']",57
+The Hives,"['alternative rock', 'garage rock', 'garage rock revival', 'modern rock', 'rock', 'swedish garage rock', 'swedish hard rock', 'swedish indie rock']",60
+Luna Li,"['canadian garage rock', 'toronto indie']",54
+The Byrds,"['album rock', 'beatlesque', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock']",56
+Philip Bailey,['yacht rock'],60
+Jerry Garcia,"['country rock', 'jam band', 'jamgrass', 'roots rock']",51
+Travis Denning,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",52
+The Band Of Heathens,"['austin americana', 'classic texas country', 'modern southern rock']",51
+Airbag,['argentine rock'],69
+Natalia Jiménez,"['latin arena pop', 'latin pop', 'spanish pop rock']",63
+Asia,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'progressive rock', 'soft rock']",55
+Thom Yorke,"['alternative rock', 'art pop', 'art rock', 'electronica', 'glitch pop', 'indie rock', 'oxford indie']",59
+Smash Into Pieces,['swedish alternative rock'],61
+"Peter, Paul and Mary","['american folk revival', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",55
+The Go-Go's,"['album rock', 'candy pop', 'classic rock', 'girl group', 'jangle pop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'singer-songwriter', 'soft rock']",53
+quannnic,"['hyper-rock', 'zoomergaze']",54
+Beach Fossils,"['brooklyn indie', 'indie garage rock', 'indie rock', 'indie surf', 'noise pop', 'popgaze', 'shoegaze']",54
+The Magnetic Fields,"['alternative rock', 'chamber pop', 'lo-fi', 'melancholia', 'metropopolis', 'permanent wave', 'tape club']",55
+Silverchair,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']",59
+SunKissed Lola,"['opm', 'pinoy indie rock']",62
+Lilly Wood and The Prick,"['french indie pop', 'french rock']",64
+Charley Pride,"['classic country pop', 'country', 'country rock', 'nashville sound']",55
+Tenth Avenue North,"['ccm', 'christian alternative rock', 'christian music']",52
+Fito Paez,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",68
+Rainbow,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",60
+Flogging Molly,"['celtic punk', 'celtic rock', 'punk']",56
+Them Dirty Roses,['modern southern rock'],52
+Unspoken,"['ccm', 'christian alternative rock', 'christian music']",52
+Dorothy,"['modern alternative rock', 'modern blues rock', 'modern hard rock']",55
+Des Rocs,"['modern alternative rock', 'rebel blues']",56
+Landon McNamara,['reggae rock'],53
+Quadeca,['hyper-rock'],54
+Eagle-Eye Cherry,['pop rock'],60
+John Fogerty,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'southern rock', 'swamp rock']",56
+Evans Blue,"['alternative metal', 'canadian rock', 'christian rock', 'nu metal', 'post-grunge']",54
+OK Go,"['chicago indie', 'modern rock', 'permanent wave']",53
+Patricio Rey y sus Redonditos de Ricota,"['argentine rock', 'post-punk argentina']",69
+Machine Head,"['alternative metal', 'groove metal', 'hard rock', 'industrial metal', 'melodic groove metal', 'metal', 'nu metal', 'progressive groove metal']",58
+Peter Frampton,"['album rock', 'british blues', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']",55
+Vilma Palma e Vampiros,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",65
+Death,"['death metal', 'dissonant death metal', 'florida death metal', 'groove metal', 'hard rock', 'metal', 'speed metal', 'technical death metal']",58
+Sweet,"['album rock', 'glam rock', 'hard rock']",57
+Soccer Mommy,"['art pop', 'bubblegrunge', 'indie pop', 'indie rock', 'small room']",53
+Mœnia,"['latin alternative', 'latin arena pop', 'latin pop', 'mexican pop', 'mexican rock']",65
+Yovie & Nuno,"['indonesian pop', 'indonesian pop rock']",69
+Widespread Panic,"['athens indie', 'jam band', 'southern rock']",50
+Butthole Surfers,"['alternative rock', 'experimental rock', 'grunge', 'noise rock', 'psychedelic punk', 'punk']",52
+Sisters of Mercy,"['corrosion', 'gothic rock', 'industrial rock']",57
+Leo Sayer,"['mellow gold', 'soft rock']",58
+Village People,"['disco', 'new wave pop', 'soft rock']",60
+Anne Murray,"['adult standards', 'canadian country', 'canadian pop', 'classic country pop', 'soft rock']",60
+Jorge Ben Jor,"['bossa nova', 'manguebeat', 'mpb', 'samba', 'samba-rock', 'tropicalia']",65
+Crazy Horse,"['country rock', 'folk rock', 'roots rock']",55
+La Mosca Tse-Tse,"['latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",63
+Cat Power,"['art pop', 'indie rock', 'melancholia', 'singer-songwriter', 'slowcore']",57
+Zayde Wølf,"['bossbeat', 'modern alternative rock', 'rebel blues']",56
+Elizabeth Mitchell,"[""children's folk"", ""children's music"", 'kindie rock']",53
+Sammy Hagar,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'rock']",52
+Bauhaus,"['alternative rock', 'dark wave', 'dream pop', 'gothic rock', 'industrial rock', 'new wave', 'post-punk', 'uk post-punk']",56
+Susan Tedeschi,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock']",53
+Jon Secada,['soft rock'],61
+Freshlyground,"['african rock', 'afropop', 'kwaito', 'south african jazz', 'south african pop', 'south african pop dance']",62
+Michael Ray,"['contemporary country', 'country road', 'modern country rock']",51
+Nazareth,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'rock']",60
+FIDLAR,"['indie garage rock', 'noise pop']",53
+Tiffany,"['new wave pop', 'soft rock']",58
+Sigur Rós,"['chamber pop', 'compositional ambient', 'dream pop', 'ethereal wave', 'icelandic rock', 'indie rock', 'melancholia', 'nordic post-rock', 'post-rock']",58
+Los Bunkers,"['chilean rock', 'concepcion indie', 'latin alternative', 'latin rock', 'rock en espanol']",67
+King Crimson,"['art rock', 'instrumental rock', 'jazz rock', 'progressive rock', 'psychedelic rock', 'symphonic rock', 'zolo']",57
+Broken Social Scene,"['alternative rock', 'baroque pop', 'canadian indie', 'canadian indie rock', 'canadian rock', 'indie rock', 'noise pop']",53
+Robert Plant,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'mellow gold', 'progressive rock', 'rock', 'singer-songwriter', 'uk americana']",56
+10 Ft. Ganja Plant,"['east coast reggae', 'reggae', 'reggae rock']",55
+Townes Van Zandt,"['alternative country', 'classic texas country', 'cosmic american', 'folk', 'outlaw country', 'roots rock', 'singer-songwriter']",53
+Yo La Tengo,"['alternative rock', 'art pop', 'dream pop', 'indie rock', 'indietronica', 'lo-fi', 'new jersey indie', 'noise pop', 'permanent wave', 'shoegaze']",54
+Anthrax,"['alternative metal', 'glam metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'old school thrash', 'rap metal', 'rock', 'speed metal', 'thrash metal']",56
+Sohodolls,"['electronic rock', 'sped up']",56
+Slash,"['hard rock', 'rock']",59
+Kurt Vile,"['art pop', 'chamber pop', 'indie rock', 'modern folk rock', 'neo-psychedelic', 'noise pop', 'philly indie', 'singer-songwriter']",54
+BUMP OF CHICKEN,"['j-pop', 'j-rock']",66
+Seventeen,['indonesian pop rock'],69
+Demon Hunter,"['christian alternative rock', 'christian metal', 'christian metalcore', 'christian rock']",53
+Cassadee Pope,"['contemporary country', 'country road', 'modern country rock', 'pop emo']",52
+Gregory Isaacs,"['lovers rock', 'reggae', 'roots reggae']",58
+Toadies,"['alternative rock', 'grunge', 'pop rock', 'post-grunge']",50
+Night Ranger,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'soft rock']",51
+Sheena Ringo,"['j-pop', 'j-rock']",63
+Katastro,['reggae rock'],50
+Joe Bonamassa,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']",57
+Jackie Wilson,"['chicago soul', 'classic soul', 'quiet storm', 'rock-and-roll', 'soul']",56

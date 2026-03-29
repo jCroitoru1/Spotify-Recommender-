@@ -1,0 +1,1001 @@
+name,genres,popularity
+David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",90
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",87
+Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']",84
+Mac DeMarco,"['edmonton indie', 'lo-fi indie', 'pov: indie', 'slacker rock']",81
+Tiësto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",85
+Diplo,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",79
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",82
+Fred again..,"['edm', 'house', 'stutter house']",80
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",82
+Zedd,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",76
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance']",79
+Skrillex,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",77
+Lost Frequencies,"['belgian edm', 'edm', 'pop dance', 'tropical house']",81
+Disclosure,"['edm', 'house', 'indietronica', 'uk dance']",77
+ILLENIUM,"['edm', 'melodic dubstep', 'pop dance']",72
+Alesso,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",77
+Swedish House Mafia,"['edm', 'pop dance', 'progressive electro house']",77
+ODESZA,"['chillwave', 'edm', 'indietronica']",69
+Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",76
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",77
+Flume,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",72
+AFROJACK,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance']",75
+Robin Schulz,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",78
+Armin van Buuren,"['dutch house', 'dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",77
+MEDUZA,"['edm', 'pop dance', 'pop house', 'uk dance']",76
+R3HAB,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",75
+Steve Aoki,"['edm', 'electro house', 'pop dance']",73
+Topic,"['german dance', 'pop dance', 'pop edm', 'uk dance']",76
+Galantis,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",71
+Chris Lake,"['bass house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'tech house', 'uk dance']",71
+deadmau5,"['canadian electronic', 'complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",68
+Loud Luxury,"['edm', 'pop dance']",68
+Sofi Tukker,['edm'],69
+Gryffin,"['edm', 'pop dance']",68
+Porter Robinson,"['complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house']",65
+Felix Jaehn,"['edm', 'german dance', 'pop dance', 'tropical house', 'uk dance']",75
+Dimitri Vegas & Like Mike,"['belgian dance', 'belgian edm', 'big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",75
+Hippie Sabotage,"['edm', 'electronic trap']",68
+W&W,"['big room', 'dutch house', 'dutch trance', 'edm', 'electro house', 'pop dance', 'progressive electro house']",74
+Kaskade,"['edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'vocal house']",65
+Vintage Culture,['brazilian edm'],74
+Jax Jones,"['dance pop', 'edm', 'house', 'pop dance', 'uk dance']",73
+Seven Lions,"['brostep', 'complextro', 'dubstep', 'edm', 'electro house', 'melodic dubstep', 'pop dance', 'progressive trance']",62
+Deorro,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'melbourne bounce international', 'pop dance', 'progressive electro house']",68
+Sam Feldt,"['edm', 'pop dance', 'tropical house']",70
+Don Diablo,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",68
+Louis The Child,"['edm', 'electropop', 'indie poptimism', 'vapor soul', 'vapor twitch']",61
+Cheat Codes,"['edm', 'pop', 'pop dance']",67
+Kungs,"['edm', 'pop dance', 'uk dance']",71
+Dimitri Vegas,"['belgian edm', 'pop dance']",72
+Regard,"['pop dance', 'pop edm', 'slap house', 'uk dance']",69
+Grey,['pop edm'],65
+Zeds Dead,"['brostep', 'canadian electronic', 'dubstep', 'edm', 'electro house', 'progressive electro house']",60
+Sigala,"['dance pop', 'edm', 'pop dance', 'uk dance']",68
+RL Grime,"['brostep', 'edm', 'electro house', 'electronic trap']",62
+Oliver Heldens,"['dutch house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",69
+Rezz,"['brostep', 'canadian electronic', 'edm', 'electra', 'electro house']",60
+Dillon Francis,"['brostep', 'edm', 'electro house', 'moombahton', 'pop dance', 'progressive electro house', 'slap house']",62
+The Blessed Madonna,"['edm', 'uk dance']",68
+ZHU,"['edm', 'electro house']",64
+Cedric Gervais,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",66
+Benny Benassi,"['dutch house', 'edm', 'electro house', 'pop dance']",67
+NOTD,"['alt z', 'electropop', 'pop dance', 'pop edm']",62
+Like Mike,['belgian edm'],70
+John Martin,['pop edm'],67
+Hardwell,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",69
+Duke Dumont,"['edm', 'house', 'pop dance', 'progressive house', 'uk dance']",67
+Dynoro,['edm'],68
+Dabin,"['canadian electronic', 'melodic dubstep', 'pop edm']",58
+NGHTMRE,"['brostep', 'edm', 'electro house', 'electronic trap']",59
+Vicetone,"['edm', 'electro house', 'pop dance', 'progressive electro house']",64
+Slushii,"['brostep', 'edm', 'future bass', 'pop dance']",63
+Above & Beyond,"['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",62
+A-Trak,"['canadian electronic', 'edm', 'electro house', 'electronic trap', 'fidget house', 'house', 'turntablism']",62
+Said The Sky,"['melodic dubstep', 'pop edm']",57
+Au/Ra,"['alt z', 'deep pop edm']",64
+SIDEPIECE,"['bass house', 'edm', 'house', 'tech house']",61
+Axwell /\ Ingrosso,"['edm', 'pop dance', 'progressive electro house']",66
+BYOR,"['pop dance', 'russian edm']",66
+Flux Pavilion,"['brostep', 'classic dubstep', 'complextro', 'edm', 'electro house']",58
+Cash Cash,"['dance pop', 'edm', 'electro house', 'electropowerpop', 'pop dance']",60
+Eric Prydz,"['edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",66
+San Holo,"['brostep', 'edm', 'electro house', 'electronic trap', 'future bass', 'pop dance']",57
+K-391,"['gaming edm', 'nordic house']",65
+VINAI,"['dutch house', 'edm', 'electro house', 'melbourne bounce international', 'pop dance', 'progressive electro house', 'slap house']",67
+Nicky Romero,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",64
+Mr. Belt & Wezol,"['dutch edm', 'house']",67
+The Magician,"['belgian edm', 'house', 'nu disco']",65
+KSHMR,"['big room', 'dutch house', 'edm', 'electro house', 'indian edm', 'pop dance', 'progressive electro house', 'slap house']",65
+Audien,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']",55
+Dubdogz,"['brazilian bass', 'brazilian edm']",68
+Yellow Claw,"['dutch house', 'edm', 'electro house', 'pop dance']",61
+Axwell,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",64
+DVBBS,"['canadian electronic', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",60
+What So Not,"['aussietronica', 'brostep', 'edm', 'electro house', 'electronic trap', 'escape room', 'vapor twitch']",56
+Martin Solveig,"['disco house', 'edm', 'electro house', 'filter house', 'house', 'pop dance', 'vocal house']",63
+Groove Dealers,"['memphis phonk', 'russian edm']",61
+William Black,"['melodic dubstep', 'pop edm']",54
+Jack Ü,"['edm', 'electro house', 'pop dance']",60
+twocolors,"['edm', 'pop dance', 'pop edm']",66
+Madeon,"['complextro', 'edm', 'electro house', 'electropop', 'filter house', 'nantes indie', 'pop dance']",56
+Öwnboss,['brazilian edm'],64
+Mako,['pop edm'],61
+NERO,"['complextro', 'edm', 'electro house', 'melodic dubstep']",57
+Surf Mesa,['pop edm'],61
+Bassnectar,"['bass music', 'breakbeat', 'brostep', 'edm', 'glitch hop']",53
+Cartoon,['gaming edm'],62
+Nevve,['pop edm'],55
+Lucas Estrada,"['deep pop edm', 'swedish tropical house']",64
+Dash Berlin,"['big room', 'dutch house', 'dutch trance', 'edm', 'pop dance', 'progressive electro house', 'progressive house', 'trance', 'uplifting trance']",63
+CVBZ,"['dark r&b', 'pop edm']",54
+Adventure Club,"['brostep', 'canadian electronic', 'complextro', 'edm', 'electro house', 'filthstep', 'pop dance']",53
+Matthew Koma,['pop edm'],57
+Trivecta,"['dubstep', 'melodic dubstep', 'pop edm']",53
+Kasbo,"['future bass', 'pop edm', 'swedish electropop', 'vapor twitch']",54
+Kill The Noise,"['brostep', 'complextro', 'edm', 'electro house', 'fidget house', 'filthstep']",55
+MOTi,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",59
+Tujamo,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house']",61
+Blasterjaxx,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",62
+Steve Angello,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",63
+Martin Jensen,"['danish electronic', 'edm', 'pop dance']",62
+Dzeko,"['canadian electronic', 'dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house']",58
+Sebastian Ingrosso,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",61
+Showtek,"['classic hardstyle', 'dutch house', 'edm', 'electro house', 'euphoric hardstyle', 'melbourne bounce', 'pop dance', 'progressive electro house']",63
+Darude,"['eurodance', 'finnish edm']",60
+Alison Wonderland,"['aussietronica', 'edm', 'electra', 'electronic trap', 'escape room', 'indietronica']",54
+Tchami,"['bass house', 'brostep', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",56
+Bassjackers,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",62
+Lost Sky,['gaming edm'],61
+Krewella,"['edm', 'electra', 'electro house', 'pop dance']",55
+ARTY,"['big room', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'russian edm']",55
+BEAUZ,['pop edm'],59
+DROELOE,"['bass trap', 'electronic trap', 'future bass', 'pop edm', 'vapor twitch']",53
+Gareth Emery,"['edm', 'pop dance', 'progressive electro house', 'progressive house', 'trance']",58
+Bingo Players,"['big room', 'dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",60
+Jauz,"['brostep', 'edm', 'electro house']",54
+Laura Brehm,"['gaming edm', 'pop edm']",57
+SRTW,"['chill house', 'pop edm']",63
+Ummet Ozcan,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",60
+Bruno Martini,"['brazilian edm', 'pop nacional']",64
+MEMBA,"['indian edm', 'traprun', 'vapor twitch']",51
+NURKO,"['melodic dubstep', 'pop edm']",51
+Antdot,['brazilian edm'],61
+NOTSOBAD,['lithuanian edm'],60
+Lucas & Steve,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",60
+Tritonal,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance']",53
+Lost Kings,"['pop dance', 'pop edm']",51
+Jason Ross,"['dubstep', 'melodic dubstep', 'pop edm', 'progressive house', 'progressive trance']",50
+MKLA,['brazilian edm'],56
+Purity Ring,"['canadian electropop', 'dark pop', 'edmonton indie', 'grave wave', 'indietronica', 'metropopolis', 'shimmer pop']",50
+Carnage,"['dutch house', 'edm', 'electro house', 'electronic trap', 'viral trap']",52
+Party Favor,"['brostep', 'edm', 'electro house', 'electronic trap']",52
+RUNN,"['melodic dubstep', 'pop edm']",50
+Knife Party,"['australian dance', 'brostep', 'complextro', 'edm', 'electro house', 'moombahton']",54
+3LAU,"['edm', 'electro house', 'mashup', 'pop dance', 'progressive electro house', 'progressive house']",52
+MitiS,"['chillstep', 'complextro', 'filthstep', 'melodic dubstep', 'pop edm']",50
+DubVision,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",56
+Lazy Jay,['belgian edm'],55
+Kiesza,"['electropop', 'pop edm']",55
+TJR,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'moombahton', 'progressive electro house', 'uk garage']",55
+CADE,['pop edm'],56
+Unknown Brain,['gaming edm'],58
+Curbi,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",54
+MUZZ,"['brostep', 'dancefloor dnb', 'gaming edm']",53
+Morgan Page,"['edm', 'electro house', 'pop dance', 'progressive house']",52
+Otto Knows,"['edm', 'electro house', 'pop dance', 'progressive electro house']",58
+Good Times Ahead,"['brostep', 'dutch house', 'edm', 'electro house', 'electronic trap', 'pop dance']",54
+Laidback Luke,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",58
+Yves V,"['belgian edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'slap house']",58
+KVSH,"['brazilian edm', 'trance brasileiro']",62
+Yotto,"['finnish edm', 'melodic house', 'progressive house']",55
+Pegboard Nerds,"['brostep', 'complextro', 'danish electronic', 'edm', 'electro house', 'glitch', 'speedrun']",52
+Fedde Le Grand,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",59
+Valentino Khan,"['brostep', 'edm', 'electro house', 'electronic trap', 'moombahton']",52
+Netsky,"['belgian edm', 'dancefloor dnb', 'drum and bass']",59
+Zomboy,"['brostep', 'edm', 'glitch']",50
+Jim Yosef,['gaming edm'],55
+MOGUAI,"['dutch house', 'edm', 'electro house', 'german techno', 'progressive electro house', 'progressive house']",57
+Captain Cuts,['pop edm'],51
+Karra,"['la pop', 'pop edm']",54
+MKJ,"['covertronica', 'finnish edm']",56
+Brooks,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",56
+Rootkit,"['chillstep', 'complextro', 'electro house', 'gaming edm', 'melodic dubstep']",49
+Ilkay Sencan,"['turkish deep house', 'turkish edm']",59
+Mahmut Orhan,"['turkish deep house', 'turkish edm']",60
+Borgeous,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",55
+ARMNHMR,"['melodic dubstep', 'pop edm']",47
+Sevenn,['brazilian edm'],57
+Syn Cole,"['deep tropical house', 'edm', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']",54
+Noisestorm,"['dancefloor dnb', 'gaming edm', 'speedrun']",51
+Retrofile,['edmonton indie'],51
+Gaullin,"['lithuanian edm', 'lithuanian electronic']",57
+Tristam,"['brostep', 'complextro', 'dancefloor dnb', 'edm', 'filthstep', 'gaming edm']",51
+NERVO,"['australian dance', 'dutch house', 'edm', 'electra', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",54
+Slow Motion,"['brazilian edm', 'relaxative']",58
+NEEDY GIRL OVERDOSE,['kawaii edm'],53
+Ian Storm,['dutch edm'],60
+Autograf,"['deep tropical house', 'pop edm', 'vapor soul', 'vapor twitch']",49
+Matisse & Sadko,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'russian edm', 'sky room']",53
+Mike Williams,"['big room', 'dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",56
+CID,"['bass house', 'deep groove house', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tech house', 'uk dance']",50
+Quintino,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",55
+Fairlane,"['melodic dubstep', 'pop edm']",48
+MAKJ,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'sky room']",53
+JOYRYDE,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap']",49
+Steve Void,"['pop edm', 'slap house']",55
+Umur Anil Gokdag,['turkish edm'],61
+Silk City,"['edm', 'uk dance']",53
+Arem Ozguc,['turkish edm'],61
+Ookay,"['brostep', 'dubstep', 'edm', 'electro house', 'electronic trap']",47
+Arman Aydin,['turkish edm'],61
+EDX,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house', 'swiss pop']",53
+Feenixpawl,"['australian dance', 'pop edm', 'progressive electro house', 'sky room']",51
+Coone,"['belgian edm', 'classic hardstyle', 'euphoric hardstyle', 'jumpstyle']",58
+Zerky,['brazilian edm'],49
+Cat Dealers,['brazilian edm'],58
+Borgore,"['brostep', 'classic dubstep', 'dubstep', 'edm', 'electro house']",49
+Firebeatz,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",53
+Conro,"['canadian electronic', 'future bass', 'pop edm']",48
+Whisnu Santika,['indonesian edm'],62
+Johnning,"['gaming edm', 'pop edm']",54
+Felix Cartal,"['canadian electronic', 'electro house', 'pop dance', 'pop edm']",49
+Clarx,['gaming edm'],51
+Tobu,['gaming edm'],52
+Feed Me,"['brostep', 'complextro', 'edm', 'electro house', 'filthstep']",48
+Malaa,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap', 'house']",49
+Dillistone,['pop edm'],54
+Codeko,"['gaming edm', 'melodic dubstep', 'pop edm']",45
+Bhaskar,"['brazilian bass', 'brazilian edm', 'brazilian house']",58
+Mesto,"['dutch edm', 'future house', 'pop dance', 'progressive electro house']",50
+Tommy Trash,"['aussietronica', 'australian dance', 'dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",53
+Elephante,"['pop dance', 'pop edm']",46
+Ritviz,"['desi hip hop', 'desi pop', 'hindi indie', 'indian edm', 'indian indie']",57
+Jessica Audiffred,"['dubstep', 'mexican edm']",44
+Trobi,"['dutch edm', 'lustrum', 'pop edm']",61
+Whales,"['bass trap', 'dubstep', 'gaming edm']",51
+Revelries,['dutch edm'],56
+LVNDSCAPE,"['deep tropical house', 'pop dance', 'pop edm']",52
+Keys N Krates,"['brostep', 'edm', 'electro house', 'electronic trap', 'livetronica']",46
+Midnight Kids,['pop edm'],45
+Far Out,"['melodic dubstep', 'pop edm', 'traprun']",47
+Filatov & Karas,"['russian dance', 'russian edm', 'russian pop']",58
+Warriyo,['belgian edm'],55
+Moksi,"['bass house', 'brostep', 'dutch edm', 'electro house', 'electronic trap']",47
+Flosstradamus,"['brostep', 'edm', 'electro house', 'electronic trap', 'mashup']",44
+Party Pupils,['pop edm'],46
+Raaban,"['deep pop edm', 'nordic house']",55
+Taska Black,"['bass trap', 'future bass', 'pop edm', 'vapor twitch']",45
+Vigiland,"['deep pop edm', 'electronic trap']",54
+Elektronomia,['gaming edm'],52
+Au5,"['brostep', 'chillstep', 'complextro', 'dubstep', 'electro house', 'filthstep', 'gaming edm', 'melodic dubstep']",45
+Justin Caruso,['pop edm'],46
+Ilkan Gunuc,"['turkish deep house', 'turkish edm']",56
+Michael Calfan,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",51
+yetep,"['melodic dubstep', 'pop edm']",42
+Diamond Eyes,['gaming edm'],49
+The Him,"['big room', 'deep tropical house', 'pop dance', 'pop edm']",47
+Third Party,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",51
+Vanic,"['bass trap', 'future bass', 'pop edm']",45
+Philip Strand,"['deep pop edm', 'tropical house']",53
+Dada Life,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Weird Genius,['indonesian edm'],53
+Aero Chord,"['bass trap', 'gaming edm']",48
+Andrew Rayel,"['dutch house', 'edm', 'moldovan pop', 'progressive house', 'trance']",50
+Liu,['brazilian edm'],56
+Janji,['gaming edm'],53
+Dirty South,"['australian dance', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Dyro,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",49
+Ekali,"['brostep', 'canadian electronic', 'edm', 'electro house', 'electronic trap', 'future bass', 'vapor twitch']",43
+Leon Leiden,"['mexican edm', 'urbano mexicano']",54
+Zaeden,"['desi pop', 'hindi indie', 'indian edm']",55
+Sick Individuals,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",50
+Young Bombs,['pop edm'],44
+SNBRN,"['edm', 'electro house', 'house', 'pop dance', 'pop edm', 'uk dance']",44
+Mat Zo,"['complextro', 'edm', 'electro house', 'progressive house']",44
+Shane 54,['pop edm'],42
+Crystal Skies,"['melodic dubstep', 'pop edm']",42
+Culture Code,"['filthstep', 'gaming edm', 'melodic dubstep', 'pop edm']",47
+Nexeri,"['russian edm', 'tropical house']",53
+illusionize,"['brazilian bass', 'brazilian edm', 'brazilian house']",56
+Bruno Be,['brazilian edm'],55
+CMC$,"['pop edm', 'vapor twitch']",52
+Mandragora,"['brazilian edm', 'mexican edm', 'trance mexicano']",56
+Stonebank,"['brostep', 'complextro', 'gaming edm']",47
+WRLD,"['complextro', 'future bass', 'gaming edm']",43
+Dimitri Vangelis & Wyman,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",49
+Sleepy Tom,"['canadian electronic', 'pop edm']",47
+MYRNE,"['future bass', 'gaming edm', 'melodic dubstep', 'pop edm', 'singaporean electronic', 'singaporean pop', 'vapor twitch']",44
+Gabriel & Dresden,"['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",47
+Marc Benjamin,"['big room', 'dutch edm', 'slap house']",49
+GATTÜSO,['pop edm'],49
+Wolfgang Gartner,"['complextro', 'edm', 'electro house', 'house', 'progressive electro house']",44
+Boston Bun,"['filter house', 'pop edm']",49
+Drenchill,['pop edm'],55
+Leah Culver,['pop edm'],43
+Embody,"['deep tropical house', 'pop edm']",50
+EQRIC,"['covertronica', 'pop edm']",51
+Different Heaven,['gaming edm'],50
+Dwin,"['lithuanian edm', 'lithuanian electronic']",50
+GOLDHOUSE,['pop edm'],44
+PSYQUI,"['kawaii edm', 'rhythm game']",49
+DallasK,"['complextro', 'dutch house', 'electro house', 'pop edm', 'progressive electro house', 'sky room']",47
+Ahrix,['gaming edm'],50
+NIVIRO,['gaming edm'],48
+Markus Schulz,"['edm', 'pop dance', 'progressive house', 'progressive trance', 'trance']",47
+Rogue,"['chillstep', 'complextro', 'filthstep', 'gaming edm', 'melodic dubstep']",42
+Ashibah,['brazilian edm'],53
+Vincent,"['future bass', 'pop edm', 'vapor twitch']",40
+MATTN,"['belgian edm', 'sky room']",52
+La Fuente,"['dutch edm', 'dutch house']",55
+FRND,['pop edm'],42
+Nitro Fun,"['gaming edm', 'speedrun']",43
+Tim Berg,"['edm', 'electro house', 'pop dance', 'progressive electro house']",51
+Braken,['gaming edm'],44
+Anna Yvette,['gaming edm'],46
+Peking Duk,"['aussietronica', 'australian electropop', 'australian indie', 'edm']",52
+Lotus,['deep pop edm'],53
+RetroVision,"['gaming edm', 'pop edm', 'sky room']",47
+SMACK,['lithuanian edm'],52
+Sander van Doorn,"['dutch house', 'dutch trance', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Amidy,"['melodic dubstep', 'pop edm']",41
+Manila Killa,"['future bass', 'pop edm', 'vapor twitch']",41
+Dirty Palm,"['gaming edm', 'melbourne bounce', 'melbourne bounce international']",47
+JØRD,['brazilian edm'],53
+BLR,['dutch edm'],48
+Tennyson,"['edmonton indie', 'future bass', 'vapor twitch']",42
+Schillist,"['brazilian bass', 'brazilian edm']",51
+Leat'eq,"['ukrainian edm', 'ukrainian electronic']",48
+Robby East,"['dutch edm', 'future house']",45
+Diviners,['gaming edm'],49
+Madison Mars,"['dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'sky room']",48
+VOLAC,"['bass house', 'brazilian edm', 'tech house']",46
+Alix Perez,"['belgian edm', 'drum and bass', 'halftime dnb', 'liquid funk']",46
+Last Heroes,"['melodic dubstep', 'pop edm']",40
+Zeus X Crona,['indian edm'],49
+Latroit,['edm'],43
+Mariana BO,['mexican edm'],51
+Julian Jordan,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",45
+Tom & Collins,['mexican edm'],48
+Hogland,"['deep pop edm', 'swedish tropical house']",51
+Ephixa,"['canadian electronic', 'chillstep', 'complextro', 'edm', 'filthstep', 'gaming edm']",41
+DLMT,['pop edm'],46
+KEAN DYSSO,"['g-house', 'lithuanian edm']",49
+Dzeko & Torres,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'sky room']",46
+CAZZETTE,"['complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house']",44
+Lujavo,['mexican edm'],50
+Axel Thesleff,"['bass trap', 'finnish edm']",47
+Direct,"['chillstep', 'gaming edm', 'melodic dubstep']",42
+Such,['kawaii edm'],47
+Steff da Campo,"['dutch house', 'electro house', 'pop edm', 'sky room']",51
+Thomas Gold,"['big room', 'dutch house', 'edm', 'electro house', 'german techno', 'pop dance', 'progressive electro house', 'progressive house']",49
+Super8 & Tab,"['finnish edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",46
+Nucleya,"['desi hip hop', 'hindi hip hop', 'indian edm', 'indian indie']",51
+Halvorsen,['gaming edm'],45
+Jay Hardway,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",47
+MBNN,['russian edm'],50
+Justin Mylo,"['dutch house', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'sky room']",46
+Krale,['gaming edm'],46
+電音部,['kawaii edm'],47
+VINNE,['brazilian edm'],47
+Joe Stone,"['deep groove house', 'house', 'pop edm']",48
+Mr FijiWiji,"['chillstep', 'complextro', 'gaming edm']",41
+Chocolate Puma,"['dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",47
+Slippy,"['gaming edm', 'melodic dubstep']",41
+Jonasu,"['dutch edm', 'uk dance']",49
+Felguk,"['brazilian bass', 'brazilian edm', 'complextro', 'electro house', 'melbourne bounce']",53
+CALVO,"['deep tropical house', 'german dance', 'pop edm', 'sky room']",48
+Pierce Fulton,"['complextro', 'pop edm', 'progressive electro house']",42
+Win and Woo,['pop edm'],39
+ROY KNOX,['gaming edm'],45
+Artem Pivovarov,"['ukrainian edm', 'ukrainian pop']",52
+Disfigure,['gaming edm'],46
+Stephen Walking,"['complextro', 'filthstep', 'gaming edm']",40
+Star Party,['gaming edm'],46
+BRKLYN,['pop edm'],40
+Brenton Mattheus,['gaming edm'],49
+Robin Hustin,"['dutch edm', 'gaming edm']",47
+Fancy Inc,"['brazilian bass', 'brazilian edm']",50
+VIVID,['japanese edm'],42
+Deaf Kev,['gaming edm'],46
+Julius Dreisig,"['gaming edm', 'traprun']",47
+Dante Klein,"['deep tropical house', 'pop edm']",45
+Andora,['kawaii edm'],42
+Man Cub,"['melodic dubstep', 'pop edm']",39
+N3WPORT,"['melodic dubstep', 'pop edm']",45
+Axel Johansson,['pop edm'],47
+Alex Skrindo,['gaming edm'],47
+Namic,"['belgian edm', 'chill house', 'tropical house']",49
+Victor Lou,"['brazilian bass', 'brazilian edm']",53
+Mau Moctezuma,['mexican edm'],47
+Disco Fries,"['pop edm', 'progressive electro house', 'sky room']",43
+Anikdote,['gaming edm'],44
+Rompasso,"['g-house', 'pop edm', 'russian edm']",48
+Spektrem,['gaming edm'],47
+Future Class,"['brazilian edm', 'brazilian house']",52
+Jack Wins,"['deep groove house', 'house', 'pop edm']",46
+Ali Bakgor,"['turkish deep house', 'turkish edm']",47
+We Are Loud,['dutch edm'],47
+Vexento,['gaming edm'],43
+Shaun Frank,"['canadian electronic', 'electro house', 'pop edm']",42
+Adam K,"['brazilian edm', 'canadian electronic']",47
+pronouncedyea,"['pop edm', 'vapor twitch']",39
+T-Mass,"['bass trap', 'gaming edm', 'melodic dubstep', 'pop edm', 'traprun']",42
+Pickle,['dutch edm'],45
+NLSN,"['chill house', 'pop edm']",48
+Miles Away,['pop edm'],46
+Gill Chang,"['future bass', 'pop edm', 'vapor twitch']",42
+Dropgun,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop edm', 'progressive electro house', 'russian edm', 'sky room']",43
+Mark With a K,"['belgian edm', 'euphoric hardstyle', 'jumpstyle']",51
+We Architects,['pop edm'],49
+Henri PFR,"['belgian edm', 'belgian pop']",50
+Wahlstedt,['pop edm'],46
+Calling All Captains,"['anthem emo', 'canadian pop punk', 'easycore', 'edmonton indie', 'kelowna bc indie', 'pop punk']",38
+JPB,['gaming edm'],45
+NALYRO,['lithuanian edm'],50
+Mr. Pig,['mexican edm'],48
+Aeroplane,"['balearic', 'belgian edm', 'filter house', 'nu disco']",46
+Bleu Clair,"['bass house', 'indonesian edm', 'tech house']",40
+Dastic,"['big room', 'pop edm']",44
+Electro-Light,"['gaming edm', 'speedrun']",44
+Dannic,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'sky room']",43
+Itro,['gaming edm'],44
+John Dahlbäck,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'swedish house']",43
+Heuse,['gaming edm'],44
+Bruno Furlan,"['brazilian edm', 'brazilian tech house', 'tech house']",45
+Steam Phunk,['pop edm'],47
+Going Deeper,"['pop edm', 'russian edm']",46
+Gabe,['brazilian edm'],50
+Travis Bretzer,"['edmonton indie', 'indie garage rock']",37
+Flakkë,"['brazilian edm', 'brazilian house']",46
+Chemical Surf,['brazilian edm'],50
+EH!DE,"['brostep', 'dubstep', 'filthstep', 'gaming dubstep', 'gaming edm']",44
+DJ Nyk,['indian edm'],50
+Lost Stories,"['hindi indie', 'indian edm', 'indian indie']",47
+Karma Fields,"['canadian electronic', 'complextro', 'gaming edm']",38
+BSW,"['hungarian edm', 'hungarian hip hop', 'hungarian pop', 'magyar trap']",52
+Swanky Tunes,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'russian edm']",45
+Riggi & Piros,"['dutch house', 'electro house', 'melbourne bounce', 'pop edm', 'progressive electro house', 'sky room']",40
+Nico Morano,['belgian edm'],46
+LVTHER,['gaming edm'],37
+Kiko Franco,['brazilian edm'],47
+Harley Bird,"['gaming edm', 'la pop']",44
+Jovani,"['lithuanian edm', 'lithuanian pop']",49
+GhostDragon,"['melodic dubstep', 'pop edm']",37
+Funkstar De Luxe,"['danish electronic', 'pop edm']",47
+WYR GEMI,"['g-house', 'russian edm']",45
+LEOWI,['lithuanian edm'],48
+Not Your Dope,"['bass trap', 'pop edm', 'traprun']",39
+Gavin Moss,"['coverchill', 'pop edm']",48
+Protostar,['gaming edm'],38
+DJ SMASH,"['russian dance', 'russian edm', 'russian pop']",48
+Futuristik,['gaming edm'],43
+Shapov,"['dutch house', 'electro house', 'progressive electro house', 'russian edm', 'sky room']",46
+PRINSH,['brazilian edm'],52
+Rain Man,['pop edm'],39
+if found,"['melodic dubstep', 'pop edm']",37
+Lulleaux,"['deep tropical house', 'pop edm']",42
+Breno Miranda,['brazilian edm'],50
+Project 46,"['complextro', 'electro house', 'pop edm', 'progressive electro house']",37
+Hysaze,['indian edm'],42
+Subtact,"['future bass', 'gaming edm', 'melodic dubstep']",37
+Stadiumx,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'sky room']",44
+LIONE,"['melodic dubstep', 'pop edm']",36
+B-Case,['pop edm'],47
+Steve James,['pop edm'],37
+Skrux,"['chillstep', 'future bass', 'melodic dubstep', 'pop edm']",36
+Wolfpack,"['belgian edm', 'big room', 'crust punk', 'dutch house']",44
+Hellberg,"['complextro', 'gaming edm']",39
+Jenil,['pinoy edm'],44
+Distrion,['gaming edm'],43
+Raven & Kreyn,"['big room', 'gaming edm', 'pop edm']",42
+Tut Tut Child,"['chillstep', 'complextro', 'filthstep', 'gaming edm', 'glitch', 'melodic dubstep']",36
+Puppet,"['future bass', 'gaming edm']",36
+Rob Gasser,"['complextro', 'gaming dubstep', 'gaming edm']",38
+Sondr,['pop edm'],40
+Mojjo,['brazilian edm'],49
+Time To Talk,['gaming edm'],40
+Monocule,['dutch edm'],41
+Santti,"['brazilian edm', 'pop nacional']",48
+KEPIK,"['melodic dubstep', 'pop edm']",34
+Zack Martino,['pop edm'],37
+Lensko,['gaming edm'],42
+Landis,['pop edm'],39
+JJD,['gaming edm'],41
+DESERT STAR,['gaming edm'],36
+Boss Doms,"['brostep', 'edm']",50
+Omnia,"['progressive house', 'progressive trance', 'trance', 'ukrainian edm', 'uplifting trance']",41
+Chuckie,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'progressive electro house']",42
+Manse,"['big room', 'pop edm', 'progressive electro house', 'sky room']",41
+Wisp X,['kawaii edm'],37
+Caslow,"['melodic dubstep', 'pop edm']",35
+Paris Blohm,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'sky room']",39
+Over Easy,['pop edm'],35
+Droplex,"['hard minimal techno', 'hungarian edm', 'hungarian techno', 'melbourne bounce international']",47
+Emrah Turken,['turkish edm'],44
+RudeLies,"['future bounce', 'gaming edm', 'pop edm']",41
+Tatsunoshin,['japanese edm'],44
+Jetlag Music,['brazilian edm'],48
+Almanac,"['brazilian edm', 'trance brasileiro']",48
+Deniz Koyu,"['dutch house', 'edm', 'electro house', 'german techno', 'pop dance', 'progressive electro house', 'progressive house', 'sky room']",39
+twoloud,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'sky room']",41
+Tuna,['turkish edm'],43
+Razihel,['gaming edm'],38
+Tyron Hapi,"['melbourne bounce', 'pop edm', 'sky room']",40
+Florian Picasso,"['dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'sky room']",42
+Andre VII,"['mexican edm', 'mexican techno']",43
+Kirara Magic,['kawaii edm'],38
+SaberZ,"['belgian edm', 'big room', 'sky room']",43
+DEAMN,['pop edm'],44
+Shapeless,['brazilian edm'],45
+Zookëper,"['electro house', 'pop edm']",34
+Tempo Giusto,"['finnish edm', 'tech trance', 'trance', 'uplifting trance']",42
+Tezzy,['viet edm'],45
+DJ Cobra Monterrey,"['mexican edm', 'perreo', 'reggaeton mexicano']",44
+ONEIL,"['g-house', 'russian edm']",44
+ayiko,['kawaii edm'],35
+Qrion,"['japanese edm', 'japanese house', 'melodic house']",37
+Make U Sweat,['brazilian edm'],48
+Jay Aliyev,['turkish edm'],42
+Sinego,['mexican edm'],40
+Desmeon,['gaming edm'],39
+Xillions,['pop edm'],44
+Zekk,"['kawaii edm', 'rhythm game']",38
+nanobii,"['gaming edm', 'kawaii future bass']",36
+Prince Fox,"['nyc pop', 'pop edm']",33
+Prince Husein,['indonesian edm'],48
+Ryllz,['dutch edm'],42
+Melano,['gaming edm'],34
+Meca,['brazilian edm'],44
+The First Station,['russian edm'],43
+Mike Cervello,"['dutch edm', 'dutch house', 'electro house']",38
+Dreweybear,['pop edm'],38
+Laura van Dam,['dutch edm'],40
+Nyarons,['kawaii edm'],37
+KOTONOHOUSE,"['kawaii edm', 'kawaii future bass']",40
+Laszlo,"['dutch edm', 'gaming edm']",35
+APEK,"['pop edm', 'sky room']",35
+Denis Kenzo,"['progressive house', 'progressive trance', 'russian edm', 'russian trance', 'trance', 'uplifting trance']",38
+LZRD,['pop edm'],34
+Double MZK,['brazilian edm'],44
+Nightro,['indian edm'],32
+Ridney,"['australian dance', 'finnish edm']",41
+Duumu,"['future bass', 'gaming edm']",33
+With Løve,['pop edm'],33
+Axol,['gaming edm'],40
+Chester Young,"['future house', 'russian edm']",41
+Jopin,"['brazilian edm', 'brazilian house']",47
+Maxximal,['brazilian edm'],46
+Sj,['pop edm'],33
+Xan Griffin,"['future bass', 'melodic dubstep', 'pop edm']",33
+3rd Prototype,['gaming edm'],38
+GHOSTT,['brazilian edm'],45
+More Plastic,['gaming edm'],37
+Moses,['turkish edm'],44
+Pixl,"['complextro', 'gaming edm']",33
+Tim Hox,"['big room', 'dutch edm']",41
+Majka,"['hungarian edm', 'hungarian pop']",47
+Glacier,"['future bass', 'gaming edm']",32
+Sumix,['pop edm'],35
+RANASOL,['japanese edm'],36
+Breaking Beattz,['brazilian edm'],42
+*Luna,"['kawaii edm', 'vocaloid']",43
+Regi,"['belgian dance', 'belgian edm']",46
+Breno Rocha,['brazilian edm'],45
+Aloma Steele,['gaming edm'],35
+PIKASONIC,['kawaii edm'],39
+Los Dutis,"['mexican edm', 'moombahton']",36
+TV Noise,"['dutch edm', 'electro house', 'progressive electro house']",36
+Watzgood,['brazilian edm'],45
+SENSE,['lithuanian edm'],43
+Raphael Siqueira,['brazilian edm'],37
+Groove Delight,['brazilian edm'],45
+Outwild,"['gaming edm', 'melodic dubstep', 'pop edm']",32
+James Mercy,['pop edm'],37
+Gazzo,['pop edm'],34
+Astronaut,"['complextro', 'filthstep', 'gaming edm']",33
+KSUKE,['japanese edm'],35
+Selva,['brazilian edm'],41
+Kaan Pars,"['g-house', 'turkish edm']",40
+Draper,"['chillstep', 'complextro', 'filthstep', 'gaming edm', 'melodic dubstep']",32
+Audioscribe,['gaming edm'],39
+Yusuf Ekşioğlu,['turkish edm'],42
+Jonny Rose,"['deep r&b', 'gaming edm']",34
+Steerner,"['deep pop edm', 'progressive electro house']",39
+Anki,"['future bass', 'melodic dubstep', 'pop edm']",31
+Case & Point,"['complextro', 'gaming edm']",32
+JETFIRE,"['belgian edm', 'dutch house', 'electro house', 'melbourne bounce', 'progressive electro house', 'sky room']",38
+Awakend,"['melodic dubstep', 'pop edm']",32
+Urbøi,['mexican edm'],41
+SØNIN,"['finnish edm', 'melodic house']",36
+Ytram,['dutch edm'],37
+Summer Was Fun,['gaming edm'],32
+AURIq,['lithuanian edm'],41
+Alvaro,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'progressive electro house', 'sky room']",36
+RQntz,"['brazilian edm', 'brazilian tech house']",45
+Tom Swoon,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'sky room']",36
+Ramzoid,"['future bass', 'gaming edm']",32
+Sagan,"['future house', 'ukrainian edm']",34
+Thomas Hayes,"['pop edm', 'sky room']",32
+Bali Bandits,"['dutch edm', 'future house', 'progressive electro house', 'sky room']",34
+Exede,['pop edm'],32
+Evokings,"['brazilian edm', 'brazilian house']",43
+West Coast Massive,['pop edm'],31
+Arlow,['gaming edm'],35
+Pep & Rash,"['dutch edm', 'dutch house', 'electro house', 'future house', 'house', 'progressive electro house']",36
+Rico & Miella,"['nyc pop', 'pop edm', 'sky room']",31
+The Velveteins,"['edmonton indie', 'indie garage rock']",30
+Voost,['dutch edm'],38
+Dubdisko,['brazilian edm'],43
+Ricky Razu,['belgian edm'],38
+Brannco,['brazilian edm'],44
+The Spacies,['pop edm'],31
+Carola,['brazilian edm'],39
+Vitor Bueno,['brazilian edm'],44
+Ahxello,['gaming edm'],35
+Murdock,"['belgian dnb', 'belgian edm', 'dancefloor dnb']",40
+Malifoo,"['brazilian edm', 'brazilian house']",44
+Skinny Days,['pop edm'],41
+Roisto,['finnish edm'],36
+Natalie Gioia,"['ukrainian edm', 'vocal trance']",38
+D'Angello & Francis,"['belgian edm', 'sky room']",39
+Rich Edwards,['gaming edm'],33
+Not Kiddin,['lithuanian edm'],39
+Jo Cohen,['gaming edm'],37
+Richard Caddock,['gaming edm'],30
+DJ Shaan,['indian edm'],34
+Quentyn,['dutch edm'],36
+Flux Zone,['brazilian edm'],44
+DotEXE,"['complextro', 'filthstep', 'gaming edm']",31
+Televisor,"['complextro', 'gaming edm']",31
+M()RE,"['russian edm', 'russian electronic', 'russian witch house']",38
+Uplink,['gaming edm'],37
+Kolombo,['belgian edm'],43
+TwoThirds,"['chillstep', 'gaming edm']",32
+Jane XØ,['pop edm'],32
+Jonas Aden,['pop edm'],36
+The Royal Foundry,"['edmonton indie', 'indiecoustica']",32
+EmoCosine,['kawaii edm'],34
+Eka Gustiwana,['indonesian edm'],44
+TRITICUM,['russian edm'],39
+Anevo,"['deep uplifting trance', 'gaming edm']",32
+DJ Kantik,['turkish edm'],41
+Royal Tusk,"['edmonton indie', 'modern alternative rock']",31
+Wild Cards,['pop edm'],31
+DJ Licious,['belgian edm'],39
+Basto,"['belgian edm', 'progressive electro house']",41
+WildVibes,"['pop edm', 'sky room']",35
+LOOJAN,"['mexican edm', 'perreo', 'reggaeton mexicano']",42
+Adam Pearce,"['canadian electronic', 'melodic dubstep', 'pop edm']",29
+Dashdot,['brazilian edm'],42
+TOFIE,['kawaii edm'],30
+DJ Red Core,['pinoy edm'],41
+Oomloud,['dutch edm'],33
+Maxim Lany,['belgian edm'],38
+KVR,['dutch edm'],37
+SDJM,['pop edm'],34
+Faunts,['edmonton indie'],30
+LOthief,['brazilian edm'],42
+Xd,['lithuanian edm'],39
+Sennzai,['kawaii edm'],33
+Griffin Stoller,['pop edm'],28
+Valentina Franco,['gaming edm'],36
+RUD,['gaming edm'],34
+Ralk,['brazilian edm'],43
+7 Minutes Dead,"['complextro', 'gaming edm']",29
+Insan3lik3,"['complextro', 'gaming edm']",29
+Karencitta,"['pinoy edm', 'pinoy r&b', 'pinoy trap']",42
+Lucette,"['edmonton indie', 'new americana']",30
+Allen Mock,['japanese edm'],30
+Capchii,"['kawaii edm', 'vocaloid']",33
+Ampyx,"['gaming edm', 'speedrun']",33
+Raygun Cowboys,"['canadian rockabilly', 'edmonton indie', 'psychobilly']",31
+Floatinurboat,['gaming edm'],32
+Joy Corporation,['brazilian edm'],42
+Dogus Cabakcor,['turkish edm'],43
+Volkoder,"['brazilian edm', 'brazilian tech house']",36
+WOAK,"['brazilian edm', 'brazilian house']",39
+Mendum,['gaming edm'],33
+Kovan,['gaming edm'],35
+Payin' Top Dolla,"['g-house', 'russian edm']",36
+Sickflip,"['indian edm', 'indian electronic', 'indian indie']",38
+Visage Music,['brazilian edm'],41
+Twoxi,['russian edm'],34
+Malive,"['brazilian bass', 'brazilian edm']",40
+Vaance,['pop edm'],29
+Molly Ann,['gaming edm'],34
+Efemero,['turkish edm'],38
+Aice room,['kawaii edm'],33
+Mert Can,"['covertronica', 'turkish edm']",40
+IZECOLD,['gaming edm'],34
+Juicy M,"['ukrainian edm', 'ukrainian electronic']",37
+RITHMAL,['sinhala edm'],38
+Billy Taner,['indonesian edm'],43
+Contacreast,['gaming edm'],35
+Pontifexx,['brazilian edm'],39
+Bougenvilla,"['dutch house', 'electro house', 'house', 'pop edm', 'progressive electro house', 'sky room']",35
+soupandreas,['gaming edm'],28
+Onur Atli,"['covertronica', 'turkish edm']",40
+Dj Mehmet Tekin,"['turkce remix', 'turkish edm']",43
+Gurbax,['indian edm'],35
+Crossnaders,"['big room', 'dutch edm', 'sky room']",32
+Project Skylate,['kawaii edm'],30
+Fancy Cars,"['pop edm', 'progressive electro house']",33
+Beowülf,['brazilian edm'],40
+Fractal,"['complextro', 'gaming edm', 'melodic dubstep']",29
+GSPR,['pop edm'],32
+picco,['kawaii edm'],37
+Danell Arma,['lithuanian edm'],36
+Vanze,['gaming edm'],35
+Mameyudoufu,['kawaii edm'],32
+Noro,['lithuanian edm'],38
+Lazy Bear,"['brazilian edm', 'brazilian house']",39
+Robbie Mendez,"['big room', 'dutch edm', 'future bounce']",38
+Linius,"['g-house', 'lithuanian edm']",36
+Halcyon,['gaming edm'],34
+Big Z,['pop edm'],35
+GIO DARA,['ukrainian edm'],32
+Cazt,['brazilian edm'],39
+Phantom Sage,['gaming edm'],31
+Morimori Atsushi,"['j-core', 'kawaii edm']",32
+My Buddy Mike,['pop edm'],31
+Ralph Felix,['dutch edm'],32
+MC Mota,['belgian edm'],32
+Aeden,['dutch edm'],32
+MRVLZ,['pop edm'],29
+Sander Kleinenberg,"['classic progressive house', 'dutch edm', 'tribal house']",32
+Rocksted,['brazilian edm'],39
+Bsno,['mexican edm'],35
+Droptek,"['chillstep', 'complextro', 'filthstep', 'gaming edm', 'halftime dnb']",30
+Joe Erickson,['gaming edm'],30
+Sekai,['gaming edm'],29
+Didrick,['gaming edm'],28
+Beatcore,"['melodic dubstep', 'pop edm']",28
+Chapeleiro,['brazilian edm'],41
+Kasger,"['danish electronic', 'gaming edm']",32
+Leon Lour,['pop edm'],29
+rejection,['kawaii edm'],32
+Severo,['pop edm'],29
+DANNE,['brazilian edm'],41
+Kage,['dutch edm'],31
+LODATO,['pop edm'],31
+Eminence,"['chillstep', 'gaming edm']",28
+Hakan Akkus,"['turkish deep house', 'turkish edm']",38
+Joe Kinni,['brazilian edm'],39
+The Otherz,"['brazilian edm', 'brazilian house']",39
+CEVITH,['brazilian edm'],37
+Lowderz,"['brazilian bass', 'brazilian edm']",39
+Armağan Oruç,['turkish edm'],41
+SUER,['turkish edm'],39
+FractaLL,['brazilian edm'],37
+DJ Glen,['brazilian edm'],38
+Kosling,"['pop edm', 'sky room']",32
+MKJAY,"['brazilian bass', 'brazilian edm']",33
+mikanzil,['kawaii edm'],30
+Rodrigo Luca,['brazilian edm'],41
+HIDDN,['belgian edm'],35
+Midsplit,"['pop edm', 'slap house']",29
+Masayoshi Iimori,"['japanese edm', 'japanese electronic']",35
+Axollo,['dutch edm'],31
+Dapa Deep,"['groove room', 'lithuanian edm', 'lithuanian electronic']",36
+Going Quantum,"['complextro', 'filthstep', 'gaming edm']",28
+Ghosted,['pop edm'],28
+SAVI,['pop edm'],29
+Tomatow,['indonesian edm'],29
+Sihk,['indonesian edm'],34
+tokiwa,['kawaii edm'],32
+INTERCOM,['gaming edm'],28
+Rezonate,"['chillstep', 'complextro', 'gaming edm']",27
+Guz Zanotto,"['brazilian edm', 'brazilian house']",40
+Dropout,['pop edm'],28
+DOLF,"['dutch edm', 'pop edm', 'speed house']",32
+Hard Rock Sofa,"['dutch house', 'electro house', 'progressive electro house', 'russian edm']",31
+Sterium,['brazilian edm'],36
+Osvaldorio,['indonesian edm'],30
+Holt 88,"['brazilian bass', 'brazilian edm']",38
+Jasted,"['future bounce', 'future house', 'russian edm']",31
+Miscris,"['lithuanian edm', 'lithuanian electronic']",37
+Furkan Soysal,"['turkish edm', 'turkish trap']",40
+Martin Kerr,"['bahai', 'edmonton indie']",29
+Deon Custom,"['future bass', 'gaming edm']",25
+Kenn Colt,['belgian edm'],34
+Angger Dimas,['indonesian edm'],32
+King CAAN,['pop edm'],35
+TRIBU,['belgian edm'],31
+Massive Vibes,['hungarian edm'],28
+Sözer Sepetçi,"['turkce remix', 'turkish edm']",40
+Gabriel Boni,"['brazilian edm', 'brazilian house']",40
+The Brig,"['complextro', 'dubstep', 'filthstep', 'gaming edm']",27
+X-TOF,['belgian edm'],34
+Jensation,['gaming edm'],32
+KMNZ,"['japanese vtuber', 'kawaii edm', 'rhythm game']",33
+Le Twins,['mexican edm'],28
+Damaui,['dutch edm'],33
+LFZ,['gaming edm'],32
+Orkidea,"['finnish edm', 'progressive house', 'trance', 'uplifting trance']",32
+Bobina,"['progressive house', 'russian edm', 'russian trance', 'trance', 'uplifting trance']",34
+somunia,"['japanese vtuber', 'kawaii edm']",35
+Whale and the Wolf,['edmonton indie'],26
+DM Galaxy,['gaming edm'],28
+Chemical Disco,['brazilian edm'],38
+Debris,['gaming edm'],31
+Tough Art,"['brazilian bass', 'brazilian edm']",37
+Andros,['mexican edm'],33
+ALIUS,['pop edm'],30
+Ronko,['dutch edm'],32
+Dani Corbalan,"['groove room', 'turkish edm']",35
+Triple M,['finnish edm'],31
+Domastic,['gaming edm'],31
+Noah Neiman,"['pop edm', 'progressive uplifting trance']",27
+Hyleo,['kawaii edm'],26
+Jecin George,['indian edm'],39
+Natania,['indian edm'],36
+Joakim Lundell,"['deep pop edm', 'melodipop']",37
+Keepsake,"['gaming edm', 'warrington indie']",26
+RICCI,['brazilian edm'],35
+Broz Rodriguez,['mexican edm'],33
+SUBB,['brazilian edm'],36
+DJ Free,['hungarian edm'],37
+Hermanez,"['belgian edm', 'organic house']",37
+ReauBeau,['dutch edm'],31
+Kohen,['brazilian edm'],38
+OOTORO,['indonesian edm'],27
+Inukshuk,['gaming edm'],27
+Leonid Rudenko,"['russian dance pop', 'russian edm']",36
+Lucky Rose,['pop edm'],30
+Muffler,"['drum and bass', 'finnish edm', 'liquid funk']",32
+Denis First,['russian edm'],35
+Khalil Alcontin,['pinoy edm'],37
+Zuffo,"['brazilian bass', 'brazilian edm']",36
+Barlas & Mert,"['g-house', 'turkish edm']",33
+Dazzo,"['brazilian edm', 'trance brasileiro']",38
+Samhara,"['brazilian edm', 'pop nacional']",39
+TEMPLIME,"['japanese vtuber', 'kawaii edm']",34
+Strong R.,['hungarian edm'],37
+Bloom & Bridge,['pop edm'],26
+Tom & Jame,"['dutch edm', 'dutch house', 'electro house', 'progressive electro house', 'sky room']",30
+Cory Friesenhan,['gaming edm'],29
+Nickobella,['turkish edm'],38
+Alva Gracia,"['future bounce', 'indonesian edm']",29
+Dj Antonio,"['dubsteppe', 'russian edm']",35
+Valentina Moretti,['mexican edm'],24
+YUTO,['japanese edm'],38
+Peter Luts,['belgian edm'],30
+The Fish House,"['brazilian edm', 'brazilian house']",37
+Hoost,"['brazilian bass', 'brazilian edm']",38
+Ben Van Kuringen,['dutch edm'],32
+Manimal,['brazilian edm'],38
+Stahl,['gaming edm'],30
+Elliot Berger,"['chillstep', 'gaming edm']",26
+Melsen,['dutch edm'],33
+Alper Eğri,['turkish edm'],39
+Willcox,['hungarian edm'],37
+Kenneyon,['kawaii edm'],28
+OLWIK,['gaming edm'],31
+Stessie,['kawaii edm'],26
+iMeiden,['kawaii edm'],28
+DUX,['brazilian edm'],38
+Wave Meow,['kawaii edm'],25
+AKI-HIRO,"['deep big room', 'japanese edm']",37
+Mountkid,['gaming edm'],30
+Moonbeam,['russian edm'],31
+Ricky West,"['dutch edm', 'speed house']",27
+Khrebto,['russian edm'],28
+Gregor Potter,['belgian edm'],32
+Defqwop,['gaming edm'],29
+Devochka,['brazilian edm'],38
+Conor Ross,"['future bounce', 'pop edm']",29
+Inward Universe,"['groove room', 'russian edm']",32
+Boye & Sigvardt,"['danish electronic', 'pop edm']",32
+Tom Fall,"['finnish edm', 'progressive house', 'progressive trance', 'progressive trance house']",29
+Sam F,['pop edm'],25
+B3RROR,['dutch edm'],27
+Elekfantz,['brazilian edm'],37
+Reezer,['brazilian edm'],37
+Lowriderz,"['belgian edm', 'jumpstyle']",37
+Kesh,['pop edm'],31
+Soulero,"['complextro', 'gaming edm']",24
+Sharapov,"['groove room', 'russian edm']",33
+KYANOS,"['bury st edmunds indie', 'east anglia indie']",25
+VIRTU,['pop edm'],22
+Venemy,"['gaming edm', 'melodic dubstep']",26
+SirensCeol,"['complextro', 'gaming edm']",25
+Doozie,['brazilian edm'],34
+Ozgun,"['deep big room', 'turkish edm']",32
+Almost Weekend,['pop edm'],32
+tofû,['pop edm'],24
+Guy Didden,"['dutch edm', 'future house', 'melodic house']",28
+Krys Talk,['gaming edm'],28
+uma,"['j-core', 'kawaii edm']",29
+Captain Tractor,"['canadian celtic', 'canadian indie', 'celtic rock', 'edmonton indie']",26
+Diskover,['brazilian edm'],36
+Paul Flint,['gaming edm'],29
+ANICIO,['brazilian edm'],38
+VIET.,"['viet edm', 'vinahouse']",34
+ElementD,['gaming edm'],31
+Club2Tokyo,['kawaii edm'],24
+Sterbinszky,['hungarian edm'],35
+Zephyrtone,['indian edm'],34
+Adem & Murat,['turkish edm'],32
+Trungg I.U,['viet edm'],35
+Mischa Daniels,['dutch edm'],31
+Kisma,['gaming edm'],32
+Alex Kunnari,['finnish edm'],30
+DJ TORA,['japanese edm'],34
+FASSounds,['indonesian edm'],29
+Pixa,"['hungarian edm', 'hungarian pop']",38
+Mick Mazoo,['dutch edm'],28
+Couple N,['kawaii edm'],27
+Le P,['deep pop edm'],32
+Y3MR$,['turkish edm'],35
+BUNNY,['japanese edm'],26
+HOT-Q,['brazilian edm'],36
+VIPP Code,['brazilian edm'],37
+Purebeat,['hungarian edm'],36
+Bart B More,['dutch edm'],29
+Volant,['gaming edm'],23
+Gaffa Tape Sandy,"['bury st edmunds indie', 'east anglia indie', 'english indie rock']",28
+Dan Port,['lithuanian edm'],32
+Gustavo Mota,['brazilian edm'],34
+Polar Youth,"['belgian edm', 'vapor twitch']",26
+Limitless,['gaming edm'],28
+YOU,['kawaii edm'],27
+Shamil,['indian edm'],28
+Darrell Story,['lithuanian edm'],34
+Tontario,['finnish edm'],26
+STARLYTE,['gaming edm'],26
+Thomas Nan,['dutch edm'],29
+Alexa Lusader,['gaming edm'],28
+Michael Rault,['edmonton indie'],22
+Nick Ledesma,"['melodic dubstep', 'pop edm']",22
+Flay!,['indonesian edm'],25
+Dj Quba,['ukrainian edm'],33
+hirihiri,['japanese edm'],32
+Medii,['pop edm'],27
+Yves Paquet,['belgian edm'],33
+Wolf Player,['brazilian edm'],35
+Nippandab,"['covertronica', 'indian edm', 'slap house']",31
+Prince Woods,['pop edm'],23
+ÉWN,['gaming edm'],29
+Tom Field,['belgian edm'],32
+Lux-Inspira,['indonesian edm'],28
+Airia,"['pop edm', 'vapor soul']",22
+ginkiha,"['kawaii edm', 'rhythm game']",25
+Synchronice,"['future bass', 'pop edm']",23
+Speaker Of The House,['pop edm'],23
+Spagbo,['viet edm'],32
+Evergreen,['edmonton indie'],26
+irucaice,"['kawaii edm', 'vocaloid']",28
+Lea Rue,"['belgian edm', 'belgian pop']",33
+C-Show,"['j-core', 'kawaii edm']",26
+Grant Bowtie,['gaming edm'],21
+Slider & Magnit,['russian edm'],33
+Mikayla,['deep pop edm'],27
+One Bit,['pop edm'],28
+Tommy Baynen,['finnish edm'],25
+Scenic Route to Alaska,"['canadian indie', 'edmonton indie']",25
+Martell,['deep pop edm'],31
+Aivarask,['lithuanian edm'],32
+Herbalistek,['japanese edm'],22
+MARC,['deep pop edm'],25
+Rico,"['hungarian edm', 'hungarian hip hop', 'hungarian pop']",36
+Tyler Fiore,['gaming edm'],26
+gaburyu,"['japanese vtuber', 'kawaii edm']",29
+Subfer,['pop edm'],21
+Orbiter,['gaming edm'],21
+ShiShi,['indian edm'],26
+NGTY,['belgian edm'],27
+Prince Paris,"['pop edm', 'progressive electro house']",27
+MEHÍLOVE,"['progressive trance house', 'ukrainian edm', 'ukrainian electronic']",25
+Le Dib,['brazilian edm'],34
+Lucas Borchardt,"['brazilian edm', 'brazilian house']",35
+Winter Kid,['ukrainian edm'],27
+Sebastian Wibe,['pop edm'],29
+WOLFHOWL,['pop edm'],26
+Ivan NAVI,"['ukrainian edm', 'ukrainian pop']",32
+Doctor Vox,['gaming edm'],23
+Gianni Marino,['dutch edm'],33
+Michael White,['gaming edm'],25
+neutral.,['pop edm'],20
+TWK,['indian edm'],33
+MADDOW,['hungarian edm'],25
+Foria,['gaming edm'],21
+Youth In Circles,['mexican edm'],21
+TBX,"['mexican edm', 'perreo']",30
+André Sarate,['brazilian edm'],34
+Dan K,['brazilian edm'],33
+Compuphonic,"['belgian edm', 'deep disco house']",31
+Sanso Nakamura,['kawaii edm'],24
+Pavel Khvaleev,['russian edm'],29
+Tim van Werd,['dutch edm'],29
+Winning Team,"['deep big room', 'finnish dance pop', 'finnish edm']",30
+Protocleus,"['covertronica', 'pinoy edm']",30
+HYLO,['gaming edm'],25
+LIHO,['belgian edm'],21
+Tetrix Bass,"['deep filthstep', 'gaming edm']",25
+Slow Sense,"['brazilian edm', 'brazilian house']",33
+Holl & Rush,"['dutch edm', 'progressive electro house', 'sky room']",26
+Still Young,"['pop edm', 'progressive electro house', 'sky room']",26
+Rogers & Dean,['gaming edm'],26
+Meron Ryan,['gaming edm'],27

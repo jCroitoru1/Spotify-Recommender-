@@ -1,0 +1,1001 @@
+name,genres,popularity
+Taylor Swift,['pop'],100
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",96
+Sabrina Carpenter,['pop'],95
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96
+Billie Eilish,"['art pop', 'pop']",96
+Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",92
+Chappell Roan,['indie pop'],90
+SZA,"['pop', 'r&b', 'rap']",90
+Bruno Mars,"['dance pop', 'pop']",94
+Lana Del Rey,"['art pop', 'pop']",92
+Noah Kahan,"['pov: indie', 'singer-songwriter pop']",87
+Ariana Grande,['pop'],92
+Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",92
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",87
+Lady Gaga,"['art pop', 'dance pop', 'pop']",91
+Charli xcx,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",89
+Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",87
+Olivia Rodrigo,['pop'],89
+Coldplay,"['permanent wave', 'pop']",92
+Justin Bieber,"['canadian pop', 'pop']",91
+Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",87
+Feid,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",92
+Rauw Alejandro,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90
+Doja Cat,"['dance pop', 'pop']",87
+Jelly Roll,"['country rap', 'modern country pop', 'nashville hip hop', 'tennessee hip hop']",82
+Beyoncé,"['pop', 'r&b']",87
+Kali Uchis,['colombian pop'],85
+Benson Boone,['singer-songwriter pop'],86
+Imagine Dragons,"['modern rock', 'pop', 'rock']",89
+Khalid,"['pop', 'pop r&b']",85
+David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",90
+Tate McRae,['pop'],85
+Ty Dolla $ign,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",85
+Jimin,['k-pop'],89
+The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop']",86
+Megan Thee Stallion,"['houston rap', 'pop', 'rap', 'trap queen']",83
+Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",89
+JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",85
+Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",82
+Clairo,"['bedroom pop', 'indie pop', 'pov: indie']",82
+Cigarettes After Sex,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",86
+Katy Perry,['pop'],87
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",88
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",87
+Twenty One Pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",84
+Maroon 5,['pop'],87
+Pitbull,"['dance pop', 'miami hip hop', 'pop']",86
+Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",82
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",88
+Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']",84
+USHER,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",83
+Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",87
+50 Cent,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",85
+Snoop Dogg,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",84
+beabadoobee,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",81
+Shakira,"['colombian pop', 'dance pop', 'latin pop', 'pop']",88
+BTS,"['k-pop', 'k-pop boy group', 'pop']",87
+Harry Styles,['pop'],84
+Megan Moroney,"['contemporary country', 'modern country pop']",77
+OneRepublic,"['piano rock', 'pop']",85
+Cody Johnson,"['classic texas country', 'contemporary country', 'modern country pop']",77
+Shaboozey,"['modern country pop', 'pop rap']",81
+Justin Timberlake,"['dance pop', 'pop']",83
+Wiz Khalifa,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",83
+Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",80
+The Lumineers,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",80
+Stray Kids,"['k-pop', 'k-pop boy group', 'pop']",85
+DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",79
+Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",82
+Miley Cyrus,['pop'],84
+Fall Out Boy,"['emo', 'modern rock', 'pop', 'rock']",80
+Jung Kook,['k-pop'],87
+T-Pain,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",79
+Romeo Santos,"['bachata', 'latin hip hop', 'latin pop', 'trap latino', 'urbano latino']",84
+mgk,"['ohio hip hop', 'pop rap']",79
+Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",79
+Cardi B,"['pop', 'rap']",81
+Maluma,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",86
+Dominic Fike,"['alternative pop rock', 'pov: indie']",79
+Lainey Wilson,"['contemporary country', 'modern country pop']",76
+Phoebe Bridgers,"['indie pop', 'la indie', 'pov: indie']",79
+NF,"['hip hop', 'pop rap']",79
+blink-182,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",80
+HARDY,"['contemporary country', 'modern country pop']",76
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85
+Riley Green,"['contemporary country', 'modern country pop']",76
+Treaty Oak Revival,"['modern country pop', 'texas country']",75
+Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",80
+Akon,['dance pop'],83
+Bailey Zimmerman,"['contemporary country', 'modern country pop']",76
+Pharrell Williams,"['dance pop', 'pop']",81
+Sam Smith,"['pop', 'uk pop']",84
+Ne-Yo,"['dance pop', 'pop', 'r&b', 'urban contemporary']",83
+Tiësto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",85
+Paramore,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",79
+Kesha,"['dance pop', 'pop']",80
+Britney Spears,"['dance pop', 'pop']",83
+Koe Wetzel,"['classic texas country', 'modern country pop']",75
+Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",84
+Sia,['pop'],85
+Melanie Martinez,"['alt z', 'electropop', 'pop']",80
+The Marías,"['bedroom pop', 'la indie']",77
+The Chainsmokers,['pop'],83
+Gucci Mane,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",77
+P!nk,"['dance pop', 'pop']",82
+Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",78
+Jessie Murph,"['modern country pop', 'singer-songwriter pop']",76
+My Chemical Romance,"['emo', 'modern rock', 'pop punk', 'pov: indie', 'rock']",79
+NewJeans,"['k-pop', 'k-pop girl group']",82
+Bon Iver,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",79
+d4vd,"['bedroom pop', 'bedroom r&b']",79
+Panic! At The Disco,['pop'],78
+Conan Gray,"['bedroom pop', 'pop', 'pov: indie']",80
+Don Omar,"['latin hip hop', 'puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",84
+Diplo,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",79
+Jack Harlow,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",80
+Camila Cabello,"['dance pop', 'pop']",82
+Ludacris,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79
+Joji,['viral pop'],80
+Pierce The Veil,"['modern rock', 'pop punk', 'screamo']",75
+Selena Gomez,"['pop', 'post-teen pop']",82
+2 Chainz,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+JID,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",78
+Alicia Keys,"['neo soul', 'pop', 'r&b']",81
+Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",81
+Kehlani,"['pop', 'r&b', 'rap']",77
+Weezer,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",76
+Manuel Turizo,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",84
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",82
+LE SSERAFIM,['k-pop girl group'],82
+Lorde,"['art pop', 'metropopolis', 'nz pop', 'pop']",78
+Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",77
+Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",73
+Troye Sivan,"['australian pop', 'pop', 'viral pop']",79
+FINNEAS,"['alt z', 'la indie', 'pop', 'pov: indie']",72
+Russ,"['hawaiian hip hop', 'pop rap']",76
+Aventura,"['bachata', 'bachata dominicana', 'latin hip hop', 'latin pop', 'tropical', 'urbano latino']",82
+Eyedress,"['noise pop', 'pov: indie']",77
+PinkPantheress,['bedroom pop'],77
+Black Eyed Peas,"['dance pop', 'pop', 'pop rap']",81
+Meghan Trainor,"['hip pop', 'pop']",80
+Warren Zeiders,['modern country pop'],74
+Tems,"['afro r&b', 'afrobeats', 'alte', 'nigerian pop']",78
+ABBA,"['europop', 'swedish pop']",82
+Zach Top,['modern country pop'],72
+T.I.,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+Faye Webster,"['atlanta indie', 'indie pop']",74
+Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",79
+ERNEST,['modern country pop'],73
+Tyga,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79
+The Offspring,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",79
+Bebe Rexha,"['dance pop', 'pop']",81
+Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",74
+Gigi Perez,['bedroom pop'],77
+Timbaland,"['dance pop', 'pop', 'pop rap']",79
+G-Eazy,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",78
+Ellie Goulding,"['indietronica', 'metropopolis', 'pop', 'uk pop']",80
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",82
+The Cranberries,"['irish rock', 'pop rock', 'rock']",78
+Alex Warren,"['gen z singer-songwriter', 'singer-songwriter pop']",78
+Logic,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",75
+Lewis Capaldi,"['pop', 'uk pop']",81
+Sean Paul,"['dance pop', 'dancehall', 'pop', 'pop rap']",82
+Gavin Adcock,['modern country pop'],71
+ENHYPEN,"['anime', 'k-pop boy group']",81
+Madonna,"['dance pop', 'pop']",81
+Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",74
+ROSALÍA,"['pop', 'r&b en espanol']",83
+Lizzy McAlpine,"['alt z', 'boston folk', 'indie pop', 'singer-songwriter pop']",75
+Nelly,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",76
+ScHoolboy Q,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+Florence + The Machine,"['baroque pop', 'modern rock', 'neo mellow', 'uk alternative pop']",78
+girl in red,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",78
+Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+Jeremih,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",75
+Connor Price,['singer-songwriter pop'],75
+The Red Clay Strays,['modern country pop'],72
+Charlie Puth,"['pop', 'viral pop']",82
+JVKE,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",77
+Christina Aguilera,"['dance pop', 'pop']",79
+Luis Miguel,"['bolero', 'latin pop']",84
+The 1975,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie', 'rock']",78
+Avril Lavigne,"['canadian pop', 'candy pop', 'dance pop', 'pop']",78
+blackbear,"['alt z', 'pop']",75
+Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",76
+Myles Smith,['singer-songwriter pop'],79
+Hotel Ugly,['modern indie pop'],76
+Chance the Rapper,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",75
+Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",72
+Nate Smith,"['contemporary country', 'modern country pop']",74
+YG,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+Demi Lovato,"['pop', 'post-teen pop']",78
+Ava Max,['pop'],80
+Tucker Wetmore,['modern country pop'],72
+Jason Derulo,"['dance pop', 'pop']",79
+Becky G,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",79
+Macklemore,"['pop rap', 'seattle hip hop']",78
+Mustard,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+wave to earth,['korean city pop'],78
+Gregory Alan Isakov,"['indie folk', 'pop folk', 'stomp and flutter', 'stomp and holler']",73
+Nelly Furtado,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",78
+Willie Nelson,"['classic country pop', 'classic texas country', 'country', 'country rock', 'nashville sound', 'outlaw country', 'singer-songwriter']",73
+Dolly Parton,"['classic country pop', 'country', 'country dawn']",75
+Camilo,"['colombian pop', 'latin pop', 'latin viral pop', 'reggaeton colombiano', 'urbano latino']",81
+Zedd,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",76
+LISA,['k-pop'],82
+Vance Joy,"['folk-pop', 'modern rock']",77
+Adrianne Lenker,"['countrygaze', 'indie pop', 'small room']",73
+Alec Benjamin,"['alt z', 'pop', 'pov: indie']",76
+DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",75
+SEVENTEEN,"['k-pop', 'k-pop boy group']",81
+Rex Orange County,['bedroom pop'],76
+Ella Langley,['modern country pop'],72
+Juicy J,"['crunk', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance']",79
+*NSYNC,"['boy band', 'dance pop', 'pop']",78
+Lil Jon,"['atl hip hop', 'crunk', 'dance pop', 'dirty south rap', 'old school atlanta hip hop', 'pop rap', 'southern hip hop', 'trap']",75
+5 Seconds of Summer,"['boy band', 'pop']",77
+Skrillex,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",77
+James Arthur,"['pop', 'talent show', 'uk pop']",81
+Sade,"['british soul', 'sophisti-pop']",77
+aespa,['k-pop girl group'],81
+Tainy,"['pop reggaeton', 'reggaeton', 'trap latino', 'urbano latino']",79
+Labrinth,"['indie poptimism', 'pop']",78
+Måneskin,"['indie rock italiano', 'italian pop']",81
+Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",82
+Burna Boy,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81
+TOMORROW X TOGETHER,"['k-pop', 'k-pop boy group']",78
+The Goo Goo Dolls,"['neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",76
+Anitta,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']",82
+BLACKPINK,"['k-pop', 'k-pop girl group', 'pop']",81
+David Kushner,"['gen z singer-songwriter', 'singer-songwriter pop']",77
+Noah Cyrus,"['alt z', 'pop']",75
+Whitney Houston,"['dance pop', 'pop']",77
+A$AP Ferg,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",73
+Maggie Rogers,['indie pop'],71
+Beach House,"['art pop', 'baltimore indie', 'dream pop', 'dreamo', 'indie rock', 'indietronica', 'modern dream pop', 'pov: indie']",74
+Lost Frequencies,"['belgian edm', 'edm', 'pop dance', 'tropical house']",81
+John Legend,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",77
+Wizkid,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']",78
+The Beach Boys,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter', 'sunshine pop']",73
+Tom Odell,['chill pop'],80
+Sam Barber,['modern country pop'],71
+Djo,"['pov: indie', 'psychedelic pop']",76
+Bryan Martin,['modern country pop'],70
+Gwen Stefani,"['dance pop', 'pop']",74
+Jonas Brothers,"['boy band', 'pop']",76
+Niall Horan,['pop'],76
+Chance Peña,['singer-songwriter pop'],74
+Enrique Iglesias,"['dance pop', 'latin pop', 'mexican pop']",79
+Mark Ronson,['pop soul'],77
+Maná,"['latin arena pop', 'latin pop', 'latin rock', 'mexican pop', 'mexican rock', 'rock en espanol']",79
+Parker McCollum,"['classic texas country', 'contemporary country', 'modern country pop', 'texas country']",68
+ILLENIUM,"['edm', 'melodic dubstep', 'pop dance']",72
+French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+TWICE,"['k-pop', 'k-pop girl group', 'pop']",79
+Trey Songz,"['dance pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",71
+Tove Lo,"['dance pop', 'metropopolis', 'pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",74
+Wale,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",71
+Wyatt Flores,"['modern country pop', 'oklahoma country']",68
+The Script,"['celtic rock', 'pop']",78
+Tinashe,"['alternative r&b', 'dance pop', 'metropopolis', 'pop', 'r&b']",74
+Kelly Clarkson,"['dance pop', 'pop', 'talent show']",74
+ZAYN,"['pop', 'uk pop']",77
+Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",70
+JENNIE,['k-pop'],80
+Sech,"['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",80
+Michael Bublé,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",76
+Suki Waterhouse,['indie pop'],72
+Prince Royce,"['bachata', 'latin hip hop', 'latin pop', 'urbano latino']",77
+Ciara,"['dance pop', 'hip pop', 'pop', 'r&b', 'urban contemporary']",72
+Missy Elliott,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'rap', 'urban contemporary', 'virginia hip hop']",72
+Tech N9ne,"['detroit hip hop', 'kansas city hip hop', 'pop rap']",70
+WILLOW,"['afrofuturism', 'pop', 'post-teen pop', 'pov: indie']",72
+Sebastian Yatra,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",80
+RAYE,"['uk contemporary r&b', 'uk pop']",78
+Natasha Bedingfield,"['dance pop', 'pop', 'post-teen pop']",76
+Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",72
+Marc Anthony,"['latin pop', 'modern salsa', 'salsa', 'tropical']",77
+Chase Matthew,['modern country pop'],69
+B.o.B,"['atl hip hop', 'dance pop', 'pop rap', 'rap', 'southern hip hop']",74
+Alesso,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",77
+Kim Petras,"['alt z', 'dance pop', 'pop', 'transpop']",76
+Men I Trust,"['indie pop', 'pov: indie']",72
+Lauv,['pop'],76
+Zara Larsson,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",78
+Backstreet Boys,"['boy band', 'dance pop', 'pop']",78
+Omar Apollo,"['bedroom pop', 'bedroom soul']",70
+A Day To Remember,"['alternative metal', 'metalcore', 'neon pop punk', 'pop punk', 'screamo']",70
+Addison Rae,['social media pop'],74
+Cavetown,"['bedroom pop', 'indie pop', 'pov: indie']",71
+ATEEZ,"['k-pop', 'k-pop boy group']",74
+Morat,"['colombian pop', 'latin viral pop']",83
+Pusha T,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",72
+MARINA,"['metropopolis', 'pop', 'pov: indie', 'uk alternative pop']",74
+Tears For Fears,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",75
+Mark Ambor,['singer-songwriter pop'],76
+Maria Becerra,"['pop argentino', 'urbano latino']",82
+Rema,"['afrobeats', 'nigerian pop']",79
+Big Thief,"['art pop', 'brooklyn indie', 'chamber pop', 'countrygaze', 'indie pop', 'indie rock', 'pov: indie', 'small room']",71
+Anne-Marie,['pop'],79
+Reik,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton', 'urbano latino']",79
+The Fray,"['neo mellow', 'piano rock', 'pop', 'pop rock']",73
+Marco Antonio Solís,"['grupera', 'latin pop', 'musica mexicana', 'ranchera']",76
+will.i.am,"['dance pop', 'pop']",75
+Swedish House Mafia,"['edm', 'pop dance', 'progressive electro house']",77
+Bastille,"['metropopolis', 'modern rock', 'pop']",75
+Mazzy Star,"['dream pop', 'melancholia', 'shoegaze', 'slowcore']",72
+Mary J. Blige,"['dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",72
+Julia Michaels,['pop'],74
+Remi Wolf,"['indie pop', 'modern alternative pop']",69
+Diddy,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap']",74
+Sum 41,"['alternative metal', 'canadian pop punk', 'canadian punk', 'modern rock', 'pop punk', 'post-grunge', 'punk', 'rock']",74
+Rise Against,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']",72
+Calum Scott,['pop'],77
+Dean Lewis,"['australian pop', 'pop']",76
+Ashanti,"['dance pop', 'hip pop', 'r&b', 'urban contemporary']",72
+Alok,"['electro house', 'pop nacional', 'slap house']",80
+Still Woozy,"['bedroom pop', 'oakland indie', 'pov: indie']",69
+TLC,"['atl hip hop', 'contemporary r&b', 'dance pop', 'girl group', 'hip pop', 'r&b', 'urban contemporary']",72
+Jamie Foxx,"['contemporary r&b', 'hip pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",71
+Norah Jones,"['contemporary vocal jazz', 'jazz pop', 'neo mellow', 'vocal jazz']",74
+Jennifer Lopez,"['dance pop', 'pop', 'urban contemporary']",77
+Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",71
+All Time Low,"['modern rock', 'neon pop punk', 'pop punk']",71
+Madison Beer,['pop'],75
+Clean Bandit,"['pop', 'uk dance', 'uk funky']",77
+George Ezra,"['folk-pop', 'neo-singer-songwriter']",75
+Matchbox Twenty,"['neo mellow', 'pop rock', 'post-grunge']",69
+Ovy On The Drums,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",78
+Lily-Rose Depp,['pop'],77
+Father John Misty,"['art pop', 'chamber pop', 'indie rock', 'singer-songwriter', 'stomp and holler']",71
+Shania Twain,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']",73
+Dove Cameron,['pop'],73
+Cults,"['experimental pop', 'indie surf', 'pov: indie']",72
+Andy Grammer,"['neo mellow', 'post-teen pop']",71
+Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",76
+Juan Luis Guerra 4.40,"['bachata', 'latin pop', 'tropical']",77
+Muscadine Bloodline,['modern country pop'],67
+Selena,"['mexican pop', 'tejano']",72
+The Paper Kites,"['acoustic pop', 'australian indie folk', 'indie anthem-folk', 'indie folk', 'stomp and flutter', 'stomp and holler']",71
+Kany García,"['latin pop', 'puerto rican pop']",77
+Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",73
+Bryan Adams,"['canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",77
+Josh Meloy,"['classic oklahoma country', 'modern country pop', 'oklahoma country', 'texas country']",67
+Juan Gabriel,"['cancion melodica', 'latin pop', 'mariachi', 'musica mexicana', 'ranchera']",77
+Dylan Gossett,['modern country pop'],68
+Busta Rhymes,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']",72
+Joyner Lucas,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",69
+KATSEYE,['5th gen k-pop'],74
+Céline Dion,['canadian pop'],77
+The All-American Rejects,"['alternative metal', 'modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",68
+AURORA,"['art pop', 'norwegian pop']",75
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",77
+Strawberry Guy,['bedroom pop'],70
+Danny Ocean,"['pop venezolano', 'reggaeton', 'trap latino', 'urbano latino']",78
+Sachin-Jigar,"['filmi', 'gujarati pop', 'modern bollywood']",83
+Henrik,['singer-songwriter pop'],70
+TINI,"['latin pop', 'latin viral pop', 'pop argentino']",79
+Asake,"['afrobeats', 'nigerian pop']",78
+benny blanco,['pop'],73
+AFROJACK,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance']",75
+Internet Money,"['pop rap', 'trap']",70
+Nipsey Hussle,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",68
+Cuco,"['bedroom pop', 'dream pop']",70
+Aaliyah,"['contemporary r&b', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",69
+(G)I-DLE,['k-pop girl group'],76
+Destiny's Child,"['dance pop', 'girl group', 'pop', 'r&b', 'urban contemporary']",73
+Robin Schulz,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",78
+X Ambassadors,"['modern alternative rock', 'modern rock', 'stomp pop']",72
+The Game,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",72
+Soulja Boy,"['atl hip hop', 'chicago bop', 'dance pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",70
+Armin van Buuren,"['dutch house', 'dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",77
+Quinn XCII,['indie pop rap'],66
+Matt Hansen,"['gen z singer-songwriter', 'singer-songwriter pop']",72
+Keyshia Cole,"['hip pop', 'r&b', 'urban contemporary']",71
+Lucy Dacus,"['art pop', 'indie pop']",69
+Jimmy Eat World,"['alternative metal', 'alternative rock', 'emo', 'modern power pop', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge', 'punk', 'rock']",69
+Corey Kent,"['modern country pop', 'texas country']",66
+ROLE MODEL,"['alt z', 'bedroom pop', 'pov: indie']",68
+Magdalena Bay,['la pop'],69
+Vansire,"['bedroom pop', 'rochester mn indie']",69
+Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",70
+Blxst,"['pop rap', 'westcoast flow']",69
+MEDUZA,"['edm', 'pop dance', 'pop house', 'uk dance']",76
+Macklemore & Ryan Lewis,"['pop rap', 'seattle hip hop']",73
+Alejandro Fernández,"['latin arena pop', 'latin pop', 'mariachi', 'mexican pop', 'musica mexicana', 'ranchera']",77
+Enya,"['celtic', 'gregorian dance', 'operatic pop']",73
+Emilia,['pop argentino'],81
+Jacquees,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']",69
+Ado,['japanese teen pop'],75
+Nic D,['singer-songwriter pop'],68
+Juanes,"['colombian pop', 'latin pop', 'mexican pop', 'rock en espanol']",77
+Mike Posner,"['dance pop', 'pop', 'pop dance', 'pop rap']",71
+George Michael,"['new wave pop', 'soft rock']",74
+Cordae,"['hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",68
+Sufjan Stevens,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",72
+John Denver,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",70
+Karan Aujla,"['desi hip hop', 'punjabi pop']",81
+Shaggy,"['dance pop', 'pop rap', 'reggae fusion']",73
+Tyler Hubbard,"['contemporary country', 'modern country pop']",66
+Daya,"['alt z', 'pop']",72
+Sean Kingston,"['dance pop', 'miami hip hop', 'pop']",72
+Duster,"['corecore', 'dream pop', 'pov: indie', 'slowcore']",68
+Carly Rae Jepsen,"['canadian pop', 'dance pop', 'pop']",73
+Counting Crows,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",70
+Jason Mraz,"['acoustic pop', 'dance pop', 'neo mellow', 'pop']",73
+Beach Bunny,"['bubblegrunge', 'chicago indie', 'indie pop', 'pov: indie']",70
+Wild Rivers,['folk-pop'],67
+Bleachers,"['indie pop', 'modern rock', 'pov: indie']",69
+R3HAB,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",75
+WALK THE MOON,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",72
+Lloyd,"['hip pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",68
+Bazzi,['pop'],70
+Waka Flocka Flame,"['atl hip hop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",67
+James Blake,"['art pop', 'indie soul', 'indietronica', 'uk alternative pop']",71
+Third Eye Blind,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge']",66
+No Doubt,"['dance pop', 'dance rock', 'permanent wave', 'pop rock', 'rock']",70
+Ricardo Arjona,"['cantautor', 'latin arena pop', 'latin pop']",77
+Vampire Weekend,"['baroque pop', 'chamber pop', 'garage rock', 'indie rock', 'indietronica', 'modern rock']",68
+Dido,"['dance pop', 'europop', 'lilith', 'neo mellow', 'pop rock']",76
+Jess Glynne,"['dance pop', 'pop', 'uk pop']",74
+Julieta Venegas,"['cantautora mexicana', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",77
+Milky Chance,"['german pop', 'modern rock']",74
+Sleeping With Sirens,"['neon pop punk', 'pop emo', 'pop punk', 'screamo']",67
+Ole 60,['modern country pop'],65
+LANY,"['la pop', 'opm']",77
+Blood Orange,"['alternative r&b', 'art pop', 'escape room', 'indie soul', 'indietronica', 'metropopolis']",69
+Lupe Fiasco,"['chicago rap', 'conscious hip hop', 'hip hop', 'political hip hop', 'pop rap', 'rap', 'southern hip hop']",68
+Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",74
+Julien Baker,"['ambient folk', 'indie pop']",68
+Sofia Carson,['pop'],72
+Fergie,"['dance pop', 'pop']",70
+Diljit Dosanjh,"['filmi', 'modern bollywood', 'punjabi pop']",80
+SiR,"['alternative r&b', 'la pop']",67
+Fitz and The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",68
+Jon Bellion,['indie pop rap'],67
+The Cars,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']",68
+SYML,['modern indie pop'],73
+Natalia Lafourcade,"['cantautora mexicana', 'latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'veracruz indie']",74
+Orion Sun,"['alternative r&b', 'bedroom pop']",67
+Matt Maltese,"['indie anthem-folk', 'indie pop', 'pov: indie']",69
+Charles Wesley Godwin,['modern country pop'],65
+Ana Gabriel,"['latin pop', 'mariachi', 'ranchera']",74
+The Mamas & The Papas,"['classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'sunshine pop']",70
+Carlos Vives,"['colombian pop', 'latin pop', 'vallenato']",75
+Ray Dalton,['pop dance'],75
+Josh Ross,['modern country pop'],66
+Billy Idol,"['album rock', 'classic rock', 'dance rock', 'hard rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",71
+YOASOBI,"['j-pop', 'japanese teen pop']",76
+Ja Rule,"['dance pop', 'east coast hip hop', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'queens hip hop', 'rap', 'urban contemporary']",70
+Ethel Cain,"['countrygaze', 'indie pop', 'modern dream pop']",68
+Cyndi Lauper,"['dance pop', 'new wave pop', 'permanent wave', 'soft rock']",73
+Pabllo Vittar,"['dance pop', 'funk carioca', 'funk pop', 'pop lgbtq+ brasileira', 'pop nacional']",77
+Luis Fonsi,"['latin pop', 'puerto rican pop']",75
+Ricky Montgomery,"['la indie', 'pop', 'pov: indie']",71
+Yuridia,"['latin arena pop', 'latin pop', 'mexican pop']",76
+Dave Matthews Band,"['jam band', 'neo mellow', 'pop rock']",64
+Red Velvet,"['k-pop', 'k-pop girl group']",73
+James Bay,"['neo mellow', 'pop', 'uk pop']",72
+The Cardigans,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']",70
+Heart,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",69
+Grimes,"['art pop', 'canadian electropop', 'grave wave', 'indietronica', 'metropopolis', 'neo-synthpop']",69
+KISS OF LIFE,"['5th gen k-pop', 'k-pop girl group']",73
+Kate Bush,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",72
+Keri Hilson,"['dance pop', 'hip pop', 'r&b', 'urban contemporary']",71
+24kGoldn,"['cali rap', 'pop rap']",71
+Duran Duran,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",71
+boygenius,"['indie pop', 'pov: indie']",67
+Chayanne,"['latin pop', 'puerto rican pop']",76
+Sheryl Crow,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'singer-songwriter']",68
+Udit Narayan,"['chutney', 'filmi', 'odia pop']",81
+Zendaya,"['pop', 'post-teen pop']",71
+Yot Club,['bedroom pop'],68
+Christina Perri,['pop'],72
+Sixpence None The Richer,"['lilith', 'pop rock']",70
+Fiona Apple,"['art pop', 'chamber pop', 'dark pop', 'lilith', 'permanent wave', 'piano rock', 'singer-songwriter']",67
+Nessa Barrett,"['alt z', 'social media pop']",69
+Tyler Braden,['modern country pop'],66
+Little Mix,"['girl group', 'pop', 'talent show', 'uk pop']",74
+Dreamville,"['hip hop', 'pop rap', 'rap']",66
+Redferrin,['modern country pop'],65
+Brandy,"['contemporary r&b', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",69
+Keane,"['neo mellow', 'piano rock', 'pop rock']",75
+mike.,"['indie pop rap', 'rhode island rap']",65
+NEEDTOBREATHE,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop']",64
+Oh Wonder,"['electropop', 'indie poptimism', 'pov: indie']",68
+alt-J,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'rock', 'shimmer pop']",71
+Camila,"['latin arena pop', 'latin pop']",75
+Steve Aoki,"['edm', 'electro house', 'pop dance']",73
+Topic,"['german dance', 'pop dance', 'pop edm', 'uk dance']",76
+a-ha,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",74
+Owl City,"['indietronica', 'pop']",69
+Lady A,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",67
+Mrs. GREEN APPLE,"['anime rock', 'j-pop', 'j-rock']",81
+Modest Mouse,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'washington indie']",64
+Jul,"['french hip hop', 'pop urbaine', 'rap marseille']",82
+Jordana,['modern indie pop'],66
+The Outfield,['power pop'],71
+Aminé,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",67
+Annie Lennox,"['new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'synthpop']",72
+NATTI NATASHA,"['latin pop', 'rap latina', 'reggaeton', 'urbano latino']",73
+Of Monsters and Men,"['folk-pop', 'metropopolis', 'modern rock', 'stomp and holler']",69
+Ana Castela,"['agronejo', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",81
+Fabolous,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'trap', 'urban contemporary']",66
+Galantis,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",71
+Neon Trees,"['modern rock', 'neo mellow', 'pop rock', 'pov: indie']",66
+IVE,['k-pop girl group'],74
+GIMS,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap conscient']",80
+Yseult,"['french pop', 'r&b francais']",76
+Chris Lake,"['bass house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'tech house', 'uk dance']",71
+Kimbra,"['bergen indie', 'electropop', 'nz pop']",72
+Creepy Nuts,['j-pop'],73
+Bas,"['queens hip hop', 'sudanese hip hop', 'sudanese pop', 'underground hip hop']",67
+Daughtry,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",66
+Iggy Azalea,"['australian hip hop', 'dance pop', 'pop']",70
+Kylie Minogue,"['australian dance', 'australian pop', 'dance pop', 'eurodance', 'new wave pop']",73
+Mario,"['dance pop', 'r&b', 'southern hip hop', 'urban contemporary']",69
+Kenia OS,"['latin viral pop', 'urbano mexicano']",76
+Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",81
+HIXTAPE,['modern country pop'],64
+Jay Chou,"['c-pop', 'mandopop', 'taiwan pop', 'zhongguo feng']",75
+311,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'nu metal', 'pop rock', 'rap rock', 'reggae fusion']",63
+Ray LaMontagne,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'stomp and holler']",66
+Blondie,"['candy pop', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'synthpop']",71
+deadmau5,"['canadian electronic', 'complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",68
+BØRNS,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pov: indie']",67
+Gotye,['australian pop'],72
+Atif Aslam,"['classic pakistani pop', 'filmi', 'modern bollywood', 'sufi']",80
+Rita Ora,"['dance pop', 'pop', 'uk pop']",72
+Zerb,['pop dance'],74
+Jessie J,"['dance pop', 'pop']",72
+Kenny Rogers,"['classic country pop', 'country', 'nashville sound', 'soft rock']",71
+Normani,"['pop', 'r&b']",69
+Loud Luxury,"['edm', 'pop dance']",68
+Becky Hill,"['pop dance', 'pop house', 'uk dance', 'uk pop']",74
+Gryffin,"['edm', 'pop dance']",68
+Stellar,['social media pop'],68
+Jesse & Joy,"['latin arena pop', 'latin pop', 'mexican pop']",76
+Carla Morrison,"['cantautora mexicana', 'mexican pop']",73
+Ha*Ash,"['latin arena pop', 'latin pop', 'mexican pop']",76
+Neil Diamond,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",69
+Yeah Yeah Yeahs,"['alternative dance', 'alternative rock', 'art pop', 'dance-punk', 'garage rock', 'indie rock', 'modern rock', 'neo-synthpop', 'new rave']",68
+Jonas Blue,"['pop', 'pop dance', 'tropical house', 'uk dance']",74
+Zac Efron,"['hollywood', 'movie tunes', 'post-teen pop']",70
+Amaarae,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",69
+fun.,"['baroque pop', 'metropopolis', 'neo mellow']",69
+Porter Robinson,"['complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house']",65
+Good Charlotte,"['alternative metal', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",67
+Nicky Youre,['singer-songwriter pop'],70
+Alanis Morissette,"['canadian pop', 'canadian singer-songwriter', 'lilith', 'neo mellow', 'pop rock', 'singer-songwriter']",69
+Fat Joe,"['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",69
+Alejandro Sanz,"['cantautor', 'latin arena pop', 'latin pop', 'mexican pop']",76
+Sleeping At Last,"['acoustic pop', 'ambient worship', 'chamber pop']",69
+ILLIT,['5th gen k-pop'],72
+Simple Plan,"['canadian pop punk', 'canadian punk', 'canadian rock', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock']",70
+Piso 21,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",75
+Livingston,['singer-songwriter pop'],67
+Ginuwine,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",67
+LECADE,['modern country pop'],63
+CAKE,"['alternative rock', 'pop rock', 'post-grunge', 'sacramento indie']",64
+Bayker Blankenship,['modern country pop'],64
+Skylar Grey,"['piano rock', 'viral pop']",69
+Tori Kelly,"['pop', 'post-teen pop']",67
+The Temper Trap,"['indietronica', 'modern rock', 'shimmer pop']",69
+Kameron Marlowe,"['contemporary country', 'modern country pop']",63
+Gym Class Heroes,"['dance pop', 'pop rap']",70
+Felix Jaehn,"['edm', 'german dance', 'pop dance', 'tropical house', 'uk dance']",75
+Dimitri Vegas & Like Mike,"['belgian dance', 'belgian edm', 'big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",75
+Dermot Kennedy,"['folk-pop', 'irish pop', 'uk pop']",71
+Cocteau Twins,"['alternative rock', 'art pop', 'dream pop', 'ethereal wave', 'melancholia', 'new wave', 'scottish indie', 'scottish shoegaze', 'shoegaze', 'synthpop']",66
+Marisela,"['latin pop', 'ranchera']",73
+Fleet Foxes,"['chamber pop', 'folk', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'singer-songwriter', 'stomp and holler']",65
+j-hope,"['k-pop', 'k-rap']",73
+La Oreja de Van Gogh,"['latin arena pop', 'latin pop', 'mexican pop', 'spanish pop', 'spanish pop rock']",76
+Milli Vanilli,"['freestyle', 'new jack swing', 'new wave pop']",69
+Chri$tian Gate$,"['sad rap', 'singer-songwriter pop']",66
+Ryan Mack,"['irish pop', 'singer-songwriter pop']",68
+Los Enanitos Verdes,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'mexican pop', 'rock en espanol', 'ska argentino']",74
+Lauren Spencer Smith,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",68
+Wham!,"['new romantic', 'new wave', 'new wave pop', 'soft rock']",70
+VOILÀ,"['dark r&b', 'la pop', 'singer-songwriter pop']",67
+Smash Mouth,"['pop rock', 'post-grunge']",68
+Tanishk Bagchi,"['desi pop', 'filmi', 'modern bollywood']",78
+The Head And The Heart,"['folk-pop', 'seattle indie', 'stomp and holler']",63
+Oliver Anthony Music,['modern country pop'],64
+Kenshi Yonezu,"['anime', 'j-pop']",76
+NCT DREAM,['k-pop boy group'],75
+GRAHAM,['singer-songwriter pop'],66
+Nayer,['deep dance pop'],71
+Jeremy Zucker,"['alt z', 'electropop', 'pop']",69
+Jessie Reyez,"['canadian contemporary r&b', 'canadian pop']",68
+The-Dream,"['dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",65
+Taio Cruz,"['dance pop', 'pop', 'pop rap']",71
+Lykke Li,"['art pop', 'electropop', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",70
+FLETCHER,"['alt z', 'pop']",66
+Glee Cast,"['glee club', 'post-teen pop']",70
+XG,['k-pop girl group'],71
+Matheus & Kauan,"['agronejo', 'arrocha', 'pop nacional', 'sertanejo', 'sertanejo universitario']",80
+Two Feet,"['indie poptimism', 'modern rock']",71
+Kelly Rowland,"['atl hip hop', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",70
+Janet Jackson,"['dance pop', 'r&b', 'urban contemporary']",67
+Death Cab for Cutie,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'seattle indie', 'washington indie']",64
+Ella Henderson,"['dance pop', 'pop dance', 'talent show', 'uk pop']",74
+Ke Personajes,['cumbia pop'],78
+Her's,"['indie pop', 'liverpool indie', 'pov: indie']",65
+Fireboy DML,"['afrobeats', 'nigerian pop']",74
+Paris Paloma,['singer-songwriter pop'],68
+Men At Work,"['album rock', 'australian rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",70
+Taking Back Sunday,"['emo', 'neon pop punk', 'pop punk', 'post-hardcore', 'screamo']",63
+112,"['atl hip hop', 'boy band', 'contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",68
+Timmy Trumpet,"['australian dance', 'big room', 'melbourne bounce', 'melbourne bounce international', 'pop dance']",73
+Hot Mulligan,"['alternative emo', 'emo', 'pop punk']",63
+Dave Stewart,"['new wave pop', 'rock keyboard']",71
+Olivia Dean,['pop soul'],70
+Rick Springfield,"['album rock', 'australian rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'yacht rock']",64
+Hailee Steinfeld,['pop'],68
+AP Dhillon,"['desi hip hop', 'desi pop', 'punjabi hip hop', 'punjabi pop']",77
+The Pussycat Dolls,"['dance pop', 'girl group', 'pop']",70
+Brandi Carlile,"['acoustic pop', 'ectofolk', 'folk', 'indie folk', 'lilith', 'modern folk rock', 'new americana']",64
+MØ,"['dance pop', 'danish pop', 'electropop', 'pop dance']",72
+Eurythmics,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",71
+"Dream, Ivory",['modern dream pop'],67
+Sara Bareilles,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",65
+Joel Corry,"['dance pop', 'pop dance', 'uk dance']",73
+Vishal Mishra,"['desi pop', 'filmi', 'modern bollywood']",78
+Sugar Ray,"['alternative metal', 'funk metal', 'pop rock', 'post-grunge']",63
+Hugo & Guilherme,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",78
+Ricky Martin,"['latin pop', 'mexican pop', 'puerto rican pop']",73
+Conway Twitty,"['arkansas country', 'classic country pop', 'country', 'country rock']",63
+Sting,"['permanent wave', 'soft rock', 'sophisti-pop']",73
+Cassie,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",68
+Kenny Loggins,"['album rock', 'classic rock', 'mellow gold', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']",68
+Yellowcard,"['alternative metal', 'pop punk', 'post-grunge', 'socal pop punk']",64
+Phoenix,"['alternative dance', 'indie rock', 'modern rock', 'new rave', 'rock independant francais', 'shimmer pop']",69
+George Jones,"['classic country pop', 'country', 'country rock', 'honky tonk']",62
+Vitamin String Quartet,['bow pop'],65
+SDM,"['french hip hop', 'pop urbaine', 'r&b francais']",80
+Davido,"['afrobeats', 'afropop', 'azontobeats', 'ghanaian hip hop', 'nigerian pop']",73
+W&W,"['big room', 'dutch house', 'dutch trance', 'edm', 'electro house', 'pop dance', 'progressive electro house']",74
+3OH!3,"['dance pop', 'electropowerpop', 'pop punk', 'pop rap', 'post-teen pop']",64
+Haze,"['latin pop', 'trap latino', 'urbano latino']",72
+Flawed Mangoes,"['chill pop', 'corecore']",68
+BABYMONSTER,['5th gen k-pop'],74
+Sidhu Moose Wala,"['desi hip hop', 'pakistani hip hop', 'punjabi hip hop', 'punjabi pop']",78
+Del Water Gap,"['deep new americana', 'indie pop', 'pov: indie']",63
+Lamp,['japanese alternative pop'],66
+Ian Munsick,"['modern country pop', 'wyoming roots']",62
+Eve,"['contemporary r&b', 'dance pop', 'hip pop', 'philly rap', 'r&b', 'urban contemporary']",68
+Asking Alexandria,"['alternative metal', 'metalcore', 'pop punk', 'post-grunge', 'trancecore', 'uk metalcore']",66
+Tiakola,"['french hip hop', 'pop urbaine']",79
+Kaskade,"['edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'vocal house']",65
+The National,"['chamber pop', 'indie folk', 'indie rock', 'indietronica', 'modern rock']",67
+Andrea Bocelli,"['classical tenor', 'italian tenor', 'operatic pop']",72
+Colbie Caillat,"['dance pop', 'neo mellow', 'pop']",68
+Pablo Alborán,"['latin arena pop', 'latin pop', 'spanish pop']",75
+Passenger,"['folk-pop', 'neo mellow']",72
+Selena Gomez & The Scene,['pop'],69
+CeeLo Green,"['atl hip hop', 'pop rap']",66
+IU,"['k-pop', 'pop']",71
+Bryce Vine,['indie pop rap'],62
+LUDMILLA,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']",78
+MAX,"['singer-songwriter pop', 'teen pop', 'viral pop']",67
+Cher,"['dance pop', 'pop']",70
+Spice Girls,"['dance pop', 'girl group', 'pop']",70
+Jay Webb,['modern country pop'],62
+Sin Bandera,"['latin arena pop', 'latin pop', 'mexican pop']",73
+Baby Bash,"['chicano rap', 'latin hip hop', 'pop rap', 'southern hip hop', 'texas latin rap', 'urban contemporary']",63
+Will Smith,"['hip hop', 'pop rap']",68
+Lukas Graham,"['danish pop', 'scandipop']",71
+Roxette,"['europop', 'swedish pop', 'synthpop']",74
+Iron & Wine,"['acoustic pop', 'chamber pop', 'indie folk', 'indie rock', 'stomp and holler']",65
+Snow Patrol,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']",71
+FIFTY FIFTY,['k-pop girl group'],69
+Lindsey Stirling,"['bow pop', 'pop violin']",66
+Juicy Luicy,['indonesian pop'],80
+Icona Pop,"['candy pop', 'dance pop', 'electropop', 'metropopolis', 'swedish electropop', 'swedish synthpop']",68
+Imanbek,"['electro house', 'pop dance', 'slap house']",71
+Coco Jones,['pop r&b'],64
+The Used,"['alternative metal', 'neon pop punk', 'pop emo', 'post-grunge', 'post-hardcore', 'screamo']",63
+Ninho,"['french hip hop', 'pop urbaine']",79
+The Red Jumpsuit Apparatus,"['alternative metal', 'neon pop punk', 'pop punk', 'post-grunge', 'screamo']",65
+INXS,"['album rock', 'australian rock', 'dance rock', 'funk rock', 'new romantic', 'new wave', 'new wave pop', 'rock']",71
+Frankie Valli & The Four Seasons,"['adult standards', 'bubblegum pop', 'doo-wop', 'lounge', 'northern soul', 'rock-and-roll', 'rockabilly']",65
+Leo Dan,"['bolero', 'cancion melodica', 'latin pop', 'ranchera']",72
+Jax Jones,"['dance pop', 'edm', 'house', 'pop dance', 'uk dance']",73
+Hombres G,"['latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'spanish rock']",73
+Yebba,['pop soul'],67
+Dr. Dog,"['chamber pop', 'indie rock', 'modern folk rock', 'philly indie', 'pov: indie', 'seattle indie', 'stomp and holler']",65
+Rocío Dúrcal,"['cancion melodica', 'latin pop', 'ranchera']",72
+Uncle Kracker,"['country', 'pop rock', 'post-grunge']",63
+Lifehouse,"['neo mellow', 'pop rock', 'post-grunge']",65
+Tones And I,['australian pop'],70
+Darshan Raval,"['desi pop', 'filmi', 'gujarati pop', 'modern bollywood']",77
+St. Vincent,"['art pop', 'etherpop', 'indie rock', 'indietronica', 'metropopolis', 'neo-synthpop']",65
+Young Money,"['dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",62
+Collective Soul,"['alternative rock', 'grunge', 'nu metal', 'pop rock', 'post-grunge', 'rock']",63
+Filipe Ret,['pop rap brasileiro'],79
+MKTO,"['pop', 'post-teen pop']",66
+charlieonnafriday,['singer-songwriter pop'],64
+Nancy Sinatra,"['lounge', 'sunshine pop']",67
+Fifth Harmony,"['girl group', 'pop', 'talent show']",69
+Lit,"['alternative metal', 'nu metal', 'pop punk', 'pop rock', 'rap rock', 'socal pop punk']",62
+LMFAO,"['dance pop', 'pop', 'pop rap']",68
+Fujii Kaze,['japanese teen pop'],74
+Looking Glass,['sunshine pop'],62
+Beartooth,"['melodic metalcore', 'metalcore', 'pop punk']",64
+Alphaville,"['new romantic', 'new wave pop', 'synthpop']",73
+Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",79
+Ofenbach,['pop dance'],74
+Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",79
+Mase,"['contemporary r&b', 'gangster rap', 'hardcore hip hop', 'harlem hip hop', 'hip hop', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",65
+Juelz Santana,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']",65
+The Japanese House,"['indie pop', 'indietronica', 'modern dream pop', 'pov: indie', 'vapor soul']",64
+Mandy Moore,"['dance pop', 'hollywood', 'neo mellow', 'post-teen pop']",65
+Birdy,"['neo mellow', 'uk pop', 'viral pop']",71
+Nick Jonas,"['dance pop', 'pop']",66
+Hootie & The Blowfish,"['pop rock', 'post-grunge']",62
+The Last Dinner Party,['indie pop'],67
+Sage The Gemini,"['hyphy', 'pop rap', 'southern hip hop', 'trap']",65
+Lil' Kim,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap queen', 'urban contemporary']",65
+Gente De Zona,"['cubaton', 'electro latino', 'latin hip hop', 'latin pop', 'reparto']",70
+Emei,"['alt z', 'singer-songwriter pop']",64
+ITZY,"['k-pop', 'k-pop girl group']",70
+SWV,"['contemporary r&b', 'girl group', 'hip pop', 'new jack swing', 'r&b', 'urban contemporary']",63
+Jay Sean,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",68
+Gloria Trevi,"['latin arena pop', 'latin pop', 'mexican pop']",73
+Hoobastank,"['alternative metal', 'funk metal', 'nu metal', 'pop rock', 'post-grunge']",68
+Frankie Valli,"['adult standards', 'bubblegum pop', 'lounge']",66
+Dylan Marlowe,['modern country pop'],61
+John Newman,['dance pop'],71
+The Shins,"['albuquerque indie', 'alternative rock', 'canadian indie', 'chamber pop', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'seattle indie', 'stomp and holler']",63
+Jaden,"['pop rap', 'rap']",67
+Bowling For Soup,"['neon pop punk', 'pop punk', 'pop rock', 'texas pop punk']",63
+Seven Lions,"['brostep', 'complextro', 'dubstep', 'edm', 'electro house', 'melodic dubstep', 'pop dance', 'progressive trance']",62
+Elyanna,['palestinian pop'],72
+Pat Benatar,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",64
+Kid Ink,"['pop rap', 'rap', 'southern hip hop', 'trap']",67
+YEONJUN,['5th gen k-pop'],69
+Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",79
+Huey Lewis & The News,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",65
+Melendi,"['spanish pop', 'spanish pop rock']",76
+NCT 127,"['k-pop', 'k-pop boy group']",69
+mxmtoon,"['alt z', 'bedroom pop', 'indie pop', 'pov: indie']",64
+Monica,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",65
+Ryan Lewis,['pop rap'],68
+AFI,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'punk', 'screamo']",62
+Cooper Alan,['modern country pop'],64
+DNCE,"['dance pop', 'pop']",68
+Jervis Campbell,['christian pop'],61
+Deorro,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'melbourne bounce international', 'pop dance', 'progressive electro house']",68
+The Piano Guys,['bow pop'],63
+James Hype,"['deep groove house', 'house', 'pop dance', 'uk dance']",71
+Far East Movement,"['asian american hip hop', 'dance pop', 'pop rap']",67
+Lauana Prado,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",78
+Bea Miller,"['alt z', 'pop', 'talent show']",66
+BOYNEXTDOOR,['5th gen k-pop'],70
+Bonnie Tyler,"['europop', 'new wave pop', 'soft rock']",70
+Tai Verdes,"['modern indie pop', 'singer-songwriter pop']",64
+Pentatonix,"['a cappella', 'viral pop']",65
+D.O.D,"['electro house', 'house', 'pop dance', 'uk dance']",70
+Escape the Fate,"['alternative metal', 'metalcore', 'neon pop punk', 'pixie', 'pop punk', 'post-grunge', 'screamo']",63
+Slowdive,"['alternative rock', 'dream pop', 'reading indie', 'shoegaze']",65
+NMIXX,"['k-pop', 'k-pop girl group']",69
+Kenya Grace,['singer-songwriter pop'],69
+Kidd G,['modern country pop'],60
+The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",66
+Jazmine Sullivan,"['hip pop', 'neo soul', 'r&b', 'urban contemporary']",62
+The xx,"['downtempo', 'dream pop', 'indietronica']",68
+Sam Feldt,"['edm', 'pop dance', 'tropical house']",70
+Sub Urban,['modern indie pop'],67
+Bomba Estéreo,"['cumbia', 'latin alternative', 'latin rock', 'pop electronico', 'tropical alternativo']",70
+Don Diablo,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",68
+American Authors,"['modern rock', 'pop rock']",65
+Atlus,['modern country pop'],61
+Hayley Williams,['art pop'],65
+Jay Park,"['k-pop', 'k-rap', 'korean r&b']",67
+Vincent Mason,['modern country pop'],60
+Plain White T's,"['modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock']",64
+Young Stoner Life,['pop rap'],63
+Natalie Jane,['singer-songwriter pop'],65
+MAGIC!,"['pop', 'reggae fusion']",69
+Kacy Hill,"['la pop', 'modern alternative pop']",64
+KYLE,"['deep underground hip hop', 'indie pop rap', 'meme rap', 'pop rap', 'viral trap']",62
+Faith Evans,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",67
+P1Harmony,"['k-pop', 'k-pop boy group']",66
+The Oh Hellos,"['folk-pop', 'pov: indie', 'san marcos tx indie', 'stomp and holler']",63
+ヨルシカ,['j-pop'],74
+Pecos & the Rooftops,"['modern country pop', 'red dirt']",59
+Toro y Moi,"['chillwave', 'hypnagogic pop', 'indie soul', 'indietronica']",63
+Sheck Wes,"['pop rap', 'rap', 'trap']",63
+Carlos Rivera,"['latin arena pop', 'latin pop', 'mexican pop', 'musica tlaxcalteca']",73
+Louis The Child,"['edm', 'electropop', 'indie poptimism', 'vapor soul', 'vapor twitch']",61
+Jaani,"['desi pop', 'punjabi pop']",76
+Hoodie Allen,['indie pop rap'],62
+Franco De Vita,"['latin arena pop', 'latin pop']",71
+Luísa Sonza,"['funk carioca', 'pop nacional']",77
+Cheat Codes,"['edm', 'pop', 'pop dance']",67
+Kungs,"['edm', 'pop dance', 'uk dance']",71
+EXO,"['k-pop', 'k-pop boy group']",70
+Brando,"['dance pop', 'pop dance', 'uk dance']",66
+Dhruv,['nyc pop'],70
+Maiara & Maraisa,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",77
+Ashley Cooke,"['contemporary country', 'country pop', 'modern country pop']",61
+Olivia O'Brien,"['alt z', 'pop']",66
+Austin Williams,['modern country pop'],60
+Sir Chloe,"['indie pop', 'pov: indie']",63
+Penelope Scott,"['alt z', 'modern indie pop', 'pov: indie']",62
+Dimitri Vegas,"['belgian edm', 'pop dance']",72
+Conner Smith,['modern country pop'],60
+Seeb,['pop dance'],68
+JAWNY,"['bedroom pop', 'pov: indie']",65
+Chayce Beckham,['modern country pop'],62
+Soft Cell,"['new romantic', 'new wave', 'new wave pop', 'synthpop']",66
+Jamiroquai,['dance pop'],69
+Bobby V.,"['contemporary r&b', 'dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",63
+Regard,"['pop dance', 'pop edm', 'slap house', 'uk dance']",69
+ANNA,"['italian hip hop', 'italian pop']",77
+Grey,['pop edm'],65
+BINI,"['opm', 'p-pop', 'pinoy idol pop']",76
+Belinda,"['latin arena pop', 'latin pop', 'mexican pop']",72
+Carole King,"['brill building pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",64
+BENEE,"['alt z', 'nz pop']",65
+The Foundations,['bubblegum pop'],64
+Of Mice & Men,"['alternative metal', 'melodic metalcore', 'metalcore', 'pop punk', 'post-grunge']",62
+Blind Melon,"['alternative metal', 'alternative rock', 'grunge', 'pop rock', 'rock']",62
+Kyle Hume,['singer-songwriter pop'],62
+RADWIMPS,"['j-pop', 'j-rock', 'visual kei']",74
+JIN,['k-pop'],73
+Lily Allen,"['dance pop', 'electropop', 'neo mellow']",68
+Black Veil Brides,"['alternative metal', 'pop punk']",63
+Kodaline,"['irish pop', 'modern rock', 'neo mellow']",69
+Rudimental,"['pop dance', 'uk dance', 'uk funky']",72
+DAY6,"['k-pop', 'k-pop boy group']",71
+The Story So Far,"['alternative emo', 'emo', 'pop punk']",61
+Sophie Ellis-Bextor,"['dance pop', 'europop', 'new wave pop']",69
+Arcade Fire,"['alternative rock', 'baroque pop', 'canadian indie', 'canadian indie rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'permanent wave', 'quebec indie', 'rock']",65
+Indila,['french pop'],72
+AWOLNATION,"['la indie', 'modern alternative rock', 'modern rock', 'rock', 'stomp pop']",63
+Sonny Fodera,"['house', 'pop dance', 'uk dance']",70
+Simple Minds,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']",68
+Memphis May Fire,"['melodic metalcore', 'metalcore', 'pop punk']",63
+Julio Iglesias,['latin pop'],71
+KC & The Sunshine Band,"['disco', 'mellow gold', 'new wave pop', 'soft rock', 'soul']",65
+Glen Campbell,"['adult standards', 'arkansas country', 'classic country pop', 'folk rock', 'mellow gold', 'nashville sound', 'singer-songwriter', 'soft rock']",62
+Semicenk,['turkish pop'],77
+Laura Pausini,"['europop', 'italian adult pop', 'latin arena pop', 'mexican pop']",73
+Chris Webby,['indie pop rap'],61
+The Sundays,"['dream pop', 'lilith']",61
+August Alsina,"['pop r&b', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",62
+AYLIVA,['german pop'],77
+Iyaz,"['dance pop', 'pop rap', 'post-teen pop']",68
+Maisie Peters,"['alt z', 'uk pop']",64
+Pedro Capó,"['latin pop', 'puerto rican pop']",69
+Victony,"['afrobeats', 'nigerian pop']",71
+Teyana Taylor,"['alternative r&b', 'hip pop', 'r&b', 'urban contemporary']",62
+Kizz Daniel,"['afrobeats', 'afropop', 'azontobeats', 'nigerian pop']",71
+BAEKHYUN,['k-pop'],68
+K.Flay,"['escape room', 'hip pop', 'modern alternative rock']",64
+The La Planta,['cumbia pop'],74
+Cristian Castro,"['latin arena pop', 'latin pop']",72
+Rahat Fateh Ali Khan,"['classic pakistani pop', 'filmi', 'modern bollywood', 'qawwali', 'sufi']",75
+Starship,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'synthpop']",67
+Big Time Rush,"['boy band', 'pop', 'post-teen pop']",65
+We Came As Romans,"['christian rock', 'melodic metalcore', 'metalcore', 'pop punk', 'trancecore']",62
+Robyn,"['dance pop', 'electropop', 'neo-synthpop', 'scandipop', 'swedish electropop', 'swedish pop']",65
+Ace of Base,"['eurodance', 'europop', 'new wave pop']",69
+Ella Eyre,"['dance pop', 'talent show', 'uk dance', 'uk pop']",68
+Why Don't We,"['boy band', 'pop']",67
+Stromae,"['belgian pop', 'g-house']",72
+MNEK,"['house', 'pop dance', 'uk contemporary r&b', 'uk dance', 'uk pop']",69
+FKA twigs,"['afrofuturism', 'alternative r&b', 'art pop', 'escape room', 'experimental r&b', 'trip hop']",65
+Corinne Bailey Rae,"['british soul', 'neo soul', 'pop soul', 'soul']",65
+Sigala,"['dance pop', 'edm', 'pop dance', 'uk dance']",68
+Mahalini,['indonesian pop'],77
+Jaymes Young,['indie poptimism'],68
+Caroline Polachek,"['art pop', 'escape room', 'indie pop', 'indietronica']",63
+NAYEON,['k-pop'],68
+Seafret,['folk-pop'],69
+Panchiko,"['diy emo', 'dream pop', 'zoomergaze']",61
+Eric Bellinger,"['pop r&b', 'r&b']",63
+Mackenzy Mackay,['singer-songwriter pop'],65
+JACKBOYS,['pop rap'],66
+Oliver Heldens,"['dutch house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",69
+Boza,"['panamanian pop', 'reggaeton', 'urbano latino']",71
+Jack Stauber,"['hypnagogic pop', 'pittsburgh indie', 'pov: indie']",62
+The Monkees,"['album rock', 'beatlesque', 'bubblegum pop', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'rock-and-roll', 'singer-songwriter', 'soft rock', 'sunshine pop']",64
+Griff,"['alt z', 'uk pop']",65
+Aitana,"['latin talent show', 'latin viral pop', 'spanish pop']",74
+Pet Shop Boys,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",69
+Werenoi,"['french hip hop', 'pop urbaine']",77
+ONE OK ROCK,"['j-pop', 'j-rock']",73
+RIIZE,['5th gen k-pop'],70
+Vaundy,"['j-pop', 'japanese soul']",73
+Nothing But Thieves,"['alternative pop rock', 'modern alternative rock', 'modern rock']",68
+Jet,"['garage rock', 'modern rock', 'pop rock']",65
+Rob Thomas,"['neo mellow', 'pop rock', 'post-grunge']",62
+Mayday Parade,"['neon pop punk', 'pop emo', 'pop punk']",61
+Elvis Crespo,"['latin pop', 'salsa', 'tropical']",66
+Mel McDaniel,"['classic country pop', 'classic oklahoma country', 'country']",59
+Hannah Montana,"['pop', 'post-teen pop']",64
+Channel Tres,"['escape room', 'indie soul', 'la pop']",64
+Sammie,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",62
+JP Saxe,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']",66
+ZEROBASEONE,['5th gen k-pop'],69
+Underoath,"['christian metal', 'christian metalcore', 'melodic metalcore', 'metalcore', 'pop punk', 'post-hardcore', 'screamo', 'tampa indie']",60
+Tamia,"['canadian pop', 'contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",63
+Hindia,['indonesian pop'],76
+Gavin DeGraw,"['neo mellow', 'pop rock']",62
+Ben Rector,"['acoustic pop', 'indiecoustica', 'lds youth', 'neo mellow', 'piano rock']",59
+The Home Team,['pop punk'],59
+back number,"['j-pop', 'j-rock']",76
+Bruno Major,['singer-songwriter pop'],67
+Anuv Jain,"['desi pop', 'hindi indie', 'indian indie', 'indian singer-songwriter']",75
+Fonseca,"['colombian pop', 'latin pop']",70
+FAST BOY,"['hypertechno', 'pop dance']",69
+Pavement,"['alternative rock', 'chamber pop', 'indie rock', 'lo-fi', 'shoegaze', 'slacker rock']",61
+Regina Spektor,"['indie pop', 'lilith', 'piano rock']",63
+LiSA,"['anime', 'anime rock', 'j-pixie', 'j-pop']",68
+Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']",63
+cassö,"['hypertechno', 'pop dance']",70
+Robin Thicke,"['dance pop', 'neo soul', 'pop rap', 'r&b', 'urban contemporary']",64
+BIBI,"['k-pop', 'korean r&b']",66
+Morray,['pop rap'],60
+Barenaked Ladies,"['canadian pop', 'canadian rock', 'pop rock', 'post-grunge']",60
+SAULT,"['alternative r&b', 'indie soul', 'pop soul']",66
+Wheatus,['pop rock'],64
+Lane 8,"['gauze pop', 'melodic house', 'progressive house']",62
+MK,"['house', 'pop dance']",68
+Arash,['persian pop'],71
+Thalia,"['latin pop', 'mexican pop']",70
+Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",65
+Everclear,"['alternative metal', 'alternative rock', 'nu metal', 'permanent wave', 'pop rock', 'post-grunge']",59
+Salt-N-Pepa,"['girl group', 'golden age hip hop', 'hip hop', 'hip pop', 'old school hip hop', 'queens hip hop']",62
+Queen Naija,"['pop r&b', 'r&b']",60
+Jessica Pratt,"['ambient folk', 'art pop', 'freak folk']",62
+Bnxn,"['afrobeats', 'nigerian pop']",71
+Belanova,"['latin arena pop', 'latin pop', 'mexican pop']",70
+Lil Dicky,"['comedy rap', 'indie pop rap', 'pop rap']",61
+Edward Maya,"['romanian house', 'romanian pop']",69
+BOYS LIKE GIRLS,"['neon pop punk', 'pop punk']",62
+Grouper,"['ambient', 'ambient pop', 'art pop', 'dream pop', 'drone', 'electra', 'experimental ambient', 'experimental pop', 'modern dream pop', 'spectra']",63
+Chinmayi,"['filmi', 'marathi pop']",74
+Dillon Francis,"['brostep', 'edm', 'electro house', 'moombahton', 'pop dance', 'progressive electro house', 'slap house']",62
+Neck Deep,"['pop punk', 'uk pop punk']",66
+Madison Ryann Ward,['pop soul'],61
+We The Kings,"['neon pop punk', 'piano rock', 'pop punk']",61
+Mau y Ricky,"['latin pop', 'pop venezolano', 'reggaeton', 'urbano latino']",69
+Loco,"['k-pop', 'k-rap', 'korean r&b']",68
+Emmanuel,"['latin pop', 'mexican pop', 'ranchera']",70
+CHVRCHES,"['indietronica', 'metropopolis', 'neo-synthpop', 'shimmer pop']",63
+Don Williams,"['classic country pop', 'country']",62
+DDG,"['pop rap', 'trap']",61
+Café Tacvba,"['latin alternative', 'latin pop', 'latin rock', 'mexican rock', 'rock en espanol']",69
+Miguel Bosé,"['latin pop', 'mexican pop']",71
+BETWEEN FRIENDS,"['indie pop', 'la pop', 'pov: indie']",60
+Dadju,"['french hip hop', 'pop urbaine', 'r&b francais']",74
+Brand New,"['emo', 'pop punk', 'post-hardcore', 'screamo']",58
+Toni Braxton,"['contemporary r&b', 'dance pop', 'r&b', 'urban contemporary']",65
+Lawrence,"['nyc pop', 'retro soul']",60
+KSI,"['social media pop', 'uk hip hop']",66
+Larry Fleet,['modern country pop'],59
+Cedric Gervais,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",66
+Kiki Dee,['classic uk pop'],65
+B Praak,"['desi pop', 'filmi', 'punjabi pop']",74
+José González,"['chamber pop', 'gothenburg indie', 'indie folk', 'stomp and holler', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",67
+Movements,"['alternative emo', 'dreamo', 'emo', 'midwest emo', 'pop punk', 'socal pop punk']",59
+Alexander Stewart,['singer-songwriter pop'],64
+Manuel Medrano,['colombian pop'],72
+Guilherme & Benuto,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",75
+Tayc,"['pop urbaine', 'r&b francais']",74
+Portishead,"['alternative rock', 'art pop', 'dark pop', 'electronica', 'laboratorio', 'trip hop']",65
+The Wanted,"['boy band', 'dance pop', 'pop', 'post-teen pop']",65
+Phillip Phillips,"['folk-pop', 'neo mellow', 'pop rock']",61
+Benny Benassi,"['dutch house', 'edm', 'electro house', 'pop dance']",67
+Hopsin,"['conscious hip hop', 'indie pop rap']",60
+Omarion,"['dance pop', 'hip pop', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",62
+Ruel,"['alt z', 'australian alternative pop', 'singer-songwriter pop']",63
+David Morris,['modern country pop'],58
+INNA,"['dance pop', 'romanian house', 'romanian pop']",72
+Live,"['grunge', 'pop rock', 'post-grunge']",62
+Tom Misch,"['indie soul', 'jazz pop']",67
+Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76
+NOFX,"['punk', 'skate punk', 'socal pop punk']",63
+Riton,"['house', 'pop dance', 'uk dance']",67
+Andrew Gold,['underground power pop'],60
+King Gnu,['j-pop'],71
+Waterparks,"['neon pop punk', 'pixie', 'pop punk', 'pov: indie', 'texas pop punk']",59
+Greeicy,"['colombian pop', 'latin pop', 'r&b en espanol', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",70
+NOTD,"['alt z', 'electropop', 'pop dance', 'pop edm']",62
+Gazo,"['drill francais', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",75
+Jarabe De Palo,"['latin alternative', 'latin rock', 'rock en espanol', 'spanish pop', 'spanish rock']",71
+EDEN,['indie poptimism'],61
+Searows,"['indie pop', 'modern indie folk']",60
+Guè,"['italian hip hop', 'italian pop']",76
+Vince Guaraldi,"['jazz piano', 'space age pop']",57
+Austin Snell,['modern country pop'],58
+Aya Nakamura,"['basshall', 'pop urbaine', 'r&b francais']",73
+Björn Skifs,['classic swedish pop'],62
+Jerry Rivera,"['latin pop', 'puerto rican pop', 'salsa', 'salsa puertorriquena', 'tropical']",68

@@ -1,0 +1,724 @@
+name,genres,popularity
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",92
+Nirvana,"['grunge', 'permanent wave', 'rock']",84
+Nickelback,"['alternative metal', 'canadian rock', 'post-grunge']",80
+Three Days Grace,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge', 'rock']",78
+Korn,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",78
+Alice In Chains,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']",75
+Foo Fighters,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",78
+The Offspring,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",79
+The Smashing Pumpkins,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']",75
+Creed,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",74
+Limp Bizkit,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",77
+Shinedown,"['alternative metal', 'nu metal', 'post-grunge']",72
+Pearl Jam,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'permanent wave', 'rock']",76
+Breaking Benjamin,"['alternative metal', 'nu metal', 'post-grunge']",72
+The Goo Goo Dolls,"['neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",76
+Seether,"['alternative metal', 'nu metal', 'post-grunge', 'south african rock']",71
+3 Doors Down,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",72
+TOOL,"['alternative metal', 'art rock', 'nu metal', 'post-grunge', 'progressive metal', 'progressive rock', 'rock']",71
+Incubus,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'modern rock', 'nu metal', 'post-grunge', 'rock']",71
+Rob Zombie,"['alternative metal', 'hard rock', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",70
+I Prevail,"['alternative metal', 'nu-metalcore', 'post-grunge']",71
+Sum 41,"['alternative metal', 'canadian pop punk', 'canadian punk', 'modern rock', 'pop punk', 'post-grunge', 'punk', 'rock']",74
+Rise Against,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']",72
+Godsmack,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",69
+Matchbox Twenty,"['neo mellow', 'pop rock', 'post-grunge']",69
+Stone Temple Pilots,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'post-grunge', 'rock']",69
+Rage Against The Machine,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'hard rock', 'nu metal', 'political hip hop', 'post-grunge', 'rap metal', 'rap rock', 'rock']",72
+Staind,"['alternative metal', 'nu metal', 'post-grunge']",68
+The All-American Rejects,"['alternative metal', 'modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",68
+Soundgarden,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'rock']",70
+Marilyn Manson,"['alternative metal', 'hard rock', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",72
+Hollywood Undead,"['alternative metal', 'modern rock', 'post-grunge', 'rap metal', 'rap rock']",69
+Jimmy Eat World,"['alternative metal', 'alternative rock', 'emo', 'modern power pop', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge', 'punk', 'rock']",69
+Chevelle,"['alternative metal', 'christian rock', 'nu metal', 'post-grunge']",66
+Counting Crows,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",70
+Third Eye Blind,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge']",66
+Nine Inch Nails,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",68
+Queens of the Stone Age,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']",71
+Audioslave,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'permanent wave', 'post-grunge', 'rock', 'supergroup']",70
+Thirty Seconds To Mars,"['modern rock', 'post-grunge']",70
+Title Fight,"['dreamo', 'emo', 'grungegaze', 'spacegrunge', 'zoomergaze']",65
+Daughtry,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",66
+Bad Wolves,"['alternative metal', 'metal', 'post-grunge']",67
+Puddle Of Mudd,"['alternative metal', 'nu metal', 'post-grunge']",65
+Good Charlotte,"['alternative metal', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",67
+CAKE,"['alternative rock', 'pop rock', 'post-grunge', 'sacramento indie']",64
+Smash Mouth,"['pop rock', 'post-grunge']",68
+Theory of a Deadman,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge']",64
+NOTHING MORE,['post-grunge'],64
+Superheaven,"['dreamo', 'post-grunge', 'spacegrunge', 'zoomergaze']",65
+Bullet For My Valentine,"['alternative metal', 'nu metal', 'post-grunge', 'uk metalcore', 'welsh metal']",68
+Flyleaf,"['alternative metal', 'christian alternative rock', 'nu metal', 'post-grunge']",63
+Sugar Ray,"['alternative metal', 'funk metal', 'pop rock', 'post-grunge']",63
+Yellowcard,"['alternative metal', 'pop punk', 'post-grunge', 'socal pop punk']",64
+Asking Alexandria,"['alternative metal', 'metalcore', 'pop punk', 'post-grunge', 'trancecore', 'uk metalcore']",66
+Bush,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge', 'rock']",63
+Drowning Pool,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",65
+The Used,"['alternative metal', 'neon pop punk', 'pop emo', 'post-grunge', 'post-hardcore', 'screamo']",63
+Halestorm,"['alternative metal', 'nu metal', 'post-grunge']",65
+Crossfade,"['alternative metal', 'nu metal', 'post-grunge']",62
+The Red Jumpsuit Apparatus,"['alternative metal', 'neon pop punk', 'pop punk', 'post-grunge', 'screamo']",65
+Finger Eleven,"['alternative metal', 'canadian rock', 'funk metal', 'nu metal', 'post-grunge']",63
+Uncle Kracker,"['country', 'pop rock', 'post-grunge']",63
+Killswitch Engage,"['alternative metal', 'boston metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge']",65
+Lifehouse,"['neo mellow', 'pop rock', 'post-grunge']",65
+Collective Soul,"['alternative rock', 'grunge', 'nu metal', 'pop rock', 'post-grunge', 'rock']",63
+Hootie & The Blowfish,"['pop rock', 'post-grunge']",62
+Hoobastank,"['alternative metal', 'funk metal', 'nu metal', 'pop rock', 'post-grunge']",68
+Hinder,"['alternative metal', 'nu metal', 'post-grunge']",63
+AFI,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'punk', 'screamo']",62
+Escape the Fate,"['alternative metal', 'metalcore', 'neon pop punk', 'pixie', 'pop punk', 'post-grunge', 'screamo']",63
+In This Moment,"['alternative metal', 'nu metal', 'post-grunge']",62
+Stone Sour,"['alternative metal', 'nu metal', 'post-grunge']",65
+Of Mice & Men,"['alternative metal', 'melodic metalcore', 'metalcore', 'pop punk', 'post-grunge']",62
+Blind Melon,"['alternative metal', 'alternative rock', 'grunge', 'pop rock', 'rock']",62
+Hole,"['alternative rock', 'grunge', 'riot grrrl']",63
+Rob Thomas,"['neo mellow', 'pop rock', 'post-grunge']",62
+My Darkest Days,"['alternative metal', 'post-grunge']",60
+Barenaked Ladies,"['canadian pop', 'canadian rock', 'pop rock', 'post-grunge']",60
+Everclear,"['alternative metal', 'alternative rock', 'nu metal', 'permanent wave', 'pop rock', 'post-grunge']",59
+Highly Suspect,"['modern alternative rock', 'modern rock', 'post-grunge']",60
+10 Years,"['alternative metal', 'nu metal', 'post-grunge']",59
+From Ashes to New,"['post-grunge', 'rap rock']",61
+Buckcherry,"['alternative metal', 'glam metal', 'hard rock', 'nu metal', 'post-grunge', 'sleaze rock']",59
+Trapt,"['alternative metal', 'nu metal', 'post-grunge']",59
+Live,"['grunge', 'pop rock', 'post-grunge']",62
+New Medicine,['post-grunge'],60
+All That Remains,"['alternative metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge']",59
+Primus,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'grunge', 'nu metal']",59
+The Presidents Of The United States Of America,"['alternative rock', 'grunge', 'pop rock']",59
+Everlast,['post-grunge'],60
+Blues Traveler,"['jam band', 'pop rock', 'post-grunge']",57
+Atreyu,"['alternative metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge', 'screamo']",59
+Trivium,"['alternative metal', 'groove metal', 'melodic metalcore', 'melodic thrash', 'metal', 'metalcore', 'nu metal', 'post-grunge']",62
+julie,"['grungegaze', 'zoomergaze']",58
+White Zombie,"['alternative metal', 'hard rock', 'industrial metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",57
+Pop Evil,"['alternative metal', 'nu metal', 'post-grunge']",57
+Gin Blossoms,"['permanent wave', 'pop rock', 'post-grunge', 'tempe indie']",57
+Marcy Playground,"['alternative rock', 'grunge', 'pop rock', 'post-grunge']",57
+Fuel,"['alternative metal', 'nu metal', 'post-grunge']",57
+Spin Doctors,"['pop rock', 'post-grunge']",61
+Static-X,"['alternative metal', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rap metal']",59
+Alien Ant Farm,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge']",61
+Eddie Vedder,"['acoustic rock', 'grunge', 'permanent wave']",63
+Saving Abel,"['alternative metal', 'nu metal', 'post-grunge']",56
+The Wallflowers,"['pop rock', 'post-grunge']",58
+Danzig,"['alternative metal', 'groove metal', 'grunge', 'hard rock', 'industrial rock', 'metal', 'nu metal', 'punk']",59
+Candlebox,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge']",55
+Chris Cornell,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'post-grunge', 'rock']",60
+Semisonic,"['pop rock', 'post-grunge']",59
+Glare,"['atlanta indie', 'grungegaze', 'nu gaze', 'texasgaze', 'zoomergaze']",57
+Adelitas Way,"['alternative metal', 'christian rock', 'post-grunge']",57
+Jane's Addiction,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'grunge', 'nu metal', 'permanent wave', 'rock']",56
+Faith No More,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",62
+Fleshwater,"['grungegaze', 'zoomergaze']",55
+Tonic,"['pop rock', 'post-grunge']",55
+Whirr,"['american shoegaze', 'dreamgaze', 'dreamo', 'grungegaze', 'indie shoegaze', 'nu gaze', 'shoegaze', 'zoomergaze']",56
+Crazy Town,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap rock']",61
+SICK PUPPIES,"['alternative metal', 'nu metal', 'post-grunge']",57
+Badflower,"['modern alternative rock', 'post-grunge']",55
+Alter Bridge,"['alternative metal', 'nu metal', 'post-grunge']",60
+Temple Of The Dog,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'rock', 'supergroup']",56
+HELLYEAH,"['alternative metal', 'groove metal', 'industrial metal', 'nu metal', 'post-grunge', 'southern metal']",54
+Eve 6,"['alternative metal', 'pop rock', 'post-grunge']",53
+Filter,"['alternative metal', 'alternative rock', 'grunge', 'industrial metal', 'nu metal', 'post-grunge']",54
+Red,"['alternative metal', 'christian alternative rock', 'christian rock', 'post-grunge']",55
+Sixx:A.M.,"['alternative metal', 'post-grunge']",55
+Local H,"['alternative rock', 'grunge', 'post-grunge']",52
+Silverchair,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']",59
+Balance And Composure,"['alternative emo', 'anthem emo', 'dreamo', 'emo', 'grungegaze', 'philly indie', 'pop punk', 'progressive post-hardcore']",52
+Evans Blue,"['alternative metal', 'canadian rock', 'christian rock', 'nu metal', 'post-grunge']",54
+Butthole Surfers,"['alternative rock', 'experimental rock', 'grunge', 'noise rock', 'psychedelic punk', 'punk']",52
+Toadies,"['alternative rock', 'grunge', 'pop rock', 'post-grunge']",50
+Harvey Danger,"['pop rock', 'post-grunge']",51
+Seven Mary Three,"['alternative metal', 'nu metal', 'post-grunge']",50
+Soul Asylum,"['alternative rock', 'grunge', 'permanent wave', 'pop rock', 'post-grunge']",57
+Sister Hazel,"['neo mellow', 'pop rock', 'post-grunge']",51
+Better Than Ezra,"['pop rock', 'post-grunge']",50
+Narrow Head,"['american shoegaze', 'dreamo', 'grungegaze', 'spacegrunge', 'texasgaze']",51
+Corey Taylor,"['alternative metal', 'alternative rock', 'nu metal', 'post-grunge']",55
+Vertical Horizon,"['neo mellow', 'pop rock', 'post-grunge']",52
+Black Stone Cherry,"['alternative metal', 'modern hard rock', 'post-grunge']",54
+Shaman's Harvest,['post-grunge'],51
+Fastball,"['pop rock', 'post-grunge']",51
+Cold,"['alternative metal', 'industrial metal', 'nu metal', 'post-grunge']",50
+Saint Asonia,"['alternative metal', 'post-grunge']",51
+Our Lady Peace,"['canadian rock', 'post-grunge']",54
+Velvet Revolver,"['alternative metal', 'alternative rock', 'glam metal', 'grunge', 'hard rock', 'nu metal', 'post-grunge', 'rock', 'supergroup']",54
+Kurt Cobain,"['acoustic rock', 'grunge']",53
+Helmet,"['alternative metal', 'alternative rock', 'groove metal', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore']",51
+Days Of The New,"['alternative metal', 'grunge', 'nu metal', 'post-grunge']",49
+Egypt Central,"['christian rock', 'post-grunge', 'rap rock']",52
+Mad Season,"['alternative metal', 'alternative rock', 'blues rock', 'grunge', 'supergroup']",51
+Smile Empty Soul,"['alternative metal', 'nu metal', 'post-grunge']",48
+Orgy,"['alternative metal', 'electronic rock', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge']",50
+Cracker,"['alternative rock', 'permanent wave', 'pop rock', 'post-grunge']",48
+Spacehog,"['glam rock', 'pop rock', 'post-grunge']",50
+Hum,"['countrygaze', 'dreamo', 'grungegaze', 'post-hardcore', 'spacegrunge']",47
+Rev Theory,"['alternative metal', 'nu metal', 'post-grunge', 'rebel blues']",51
+TRUSTcompany,"['alabama metal', 'nu metal', 'post-grunge']",48
+Kyuss,"['alternative metal', 'grunge', 'palm desert scene', 'sludge metal', 'stoner metal', 'stoner rock']",52
+Veruca Salt,"['alternative pop', 'alternative rock', 'grunge', 'lilith', 'riot grrrl']",47
+Melvins,"['alternative metal', 'alternative rock', 'grunge', 'post-hardcore', 'punk', 'sludge metal', 'stoner metal']",49
+The Verve Pipe,"['pop rock', 'post-grunge']",47
+Default,"['alternative metal', 'canadian rock', 'post-grunge']",47
+Meat Puppets,"['alternative rock', 'cowpunk', 'grunge', 'punk']",46
+Crash Test Dummies,"['canadian rock', 'pop rock', 'post-grunge']",53
+L7,"['alternative rock', 'grunge', 'punk', 'riot grrrl']",48
+Tantric,"['alternative metal', 'nu metal', 'post-grunge']",44
+Dishwalla,"['pop rock', 'post-grunge']",49
+Split Chain,"['grungegaze', 'zoomergaze']",46
+Taproot,"['alternative metal', 'industrial metal', 'nu metal', 'post-grunge']",45
+Gemini Syndrome,"['gymcore', 'post-grunge']",45
+Otherwise,"['gymcore', 'post-grunge']",47
+Red Sun Rising,"['modern hard rock', 'post-grunge']",45
+12 Stones,"['alternative metal', 'christian hard rock', 'christian rock', 'nu metal', 'post-grunge']",47
+The Veer Union,"['gymcore', 'post-grunge']",46
+Adema,"['alternative metal', 'industrial metal', 'nu metal', 'post-grunge', 'rap metal']",45
+trauma ray,"['american shoegaze', 'doomgaze', 'fort worth indie', 'grungegaze', 'nu gaze', 'texasgaze', 'zoomergaze']",44
+Ra,"['alternative metal', 'nu metal', 'post-grunge']",43
+Jerry Cantrell,"['alternative metal', 'grunge', 'post-grunge']",46
+Nothing,"['american shoegaze', 'dreamgaze', 'dreamo', 'grungegaze', 'nu gaze', 'pennsylvania shoegaze', 'philly indie', 'shoegaze']",44
+Screaming Trees,"['alternative rock', 'grunge']",45
+Sponge,"['grunge', 'post-grunge']",42
+Art Of Dying,"['alternative metal', 'christian rock', 'gymcore', 'post-grunge']",46
+Like A Storm,"['gymcore', 'post-grunge']",44
+Mudhoney,"['alternative rock', 'grunge', 'punk']",45
+Cathedral Bells,"['american shoegaze', 'chill dream pop', 'grungegaze', 'nu gaze']",44
+Mother Love Bone,"['alternative rock', 'funk metal', 'grunge']",43
+Through Fire,"['gymcore', 'post-grunge']",44
+Porno for Pyros,"['alternative rock', 'funk metal', 'post-grunge']",42
+The Flys,['post-grunge'],39
+Soul Blind,"['american shoegaze', 'dreamo', 'grungegaze']",40
+Blessid Union Of Souls,"['cowpunk', 'pop rock', 'post-grunge']",40
+The Jesus Lizard,"['alternative rock', 'experimental rock', 'grunge', 'noise rock', 'post-hardcore']",42
+Devour the Day,"['gymcore', 'post-grunge']",40
+Gleemer,"['5th wave emo', 'american shoegaze', 'dreamo', 'grungegaze']",40
+Wipers,"['alternative rock', 'grunge', 'hardcore punk', 'no wave', 'portland punk', 'post-hardcore', 'post-punk', 'punk']",41
+The Exies,['post-grunge'],41
+all under heaven,"['grungegaze', 'zoomergaze']",39
+Leaving Time,['grungegaze'],40
+Oleander,"['post-grunge', 'sacramento indie']",38
+Grey Daze,['post-grunge'],45
+Babes In Toyland ,"['grunge', 'minneapolis punk', 'riot grrrl']",40
+Teenage Wrist,"['dreamo', 'grungegaze', 'modern alternative rock', 'post-grunge']",40
+Keep,"['american shoegaze', 'grungegaze', 'virginia indie']",38
+Hurt,['post-grunge'],38
+Submersed,"['hard alternative', 'post-grunge']",40
+Life On Venus,"['dreamgaze', 'grungegaze', 'nu gaze', 'russian shoegaze']",39
+Revis,['post-grunge'],37
+Hundredth,"['dreamo', 'grungegaze', 'melodic hardcore', 'screamocore']",38
+Deepfield,"['gymcore', 'hard alternative', 'post-grunge']",38
+Cavo,['post-grunge'],36
+Catherine Wheel,"['dream pop', 'grungegaze', 'nu gaze', 'shoegaze', 'spacegrunge']",36
+Hotline TNT,"['brooklyn indie', 'grungegaze', 'new york shoegaze', 'slacker rock']",35
+Greet Death,"['countrygaze', 'diy emo', 'dreamo', 'grungegaze']",34
+Bathe Alone,"['dreamgaze', 'grungegaze']",38
+Holy Fawn,"['american post-rock', 'doomgaze', 'grungegaze']",36
+Blanket,['grungegaze'],34
+Slow Crush,"['belgian indie rock', 'belgian post-rock', 'dreamo', 'grungegaze', 'nu gaze', 'shoegaze']",35
+32 Leaves,"['hard alternative', 'post-grunge']",34
+Aranda,"['hard alternative', 'post-grunge']",36
+Pity Sex,"['alternative emo', 'ann arbor indie', 'bubblegrunge', 'dreamo', 'emo', 'grungegaze', 'indie punk', 'shoegaze']",32
+Institute,['grunge pop'],34
+Tomahawk,"['grunge', 'industrial rock']",36
+Swervedriver,"['grungegaze', 'nu gaze', 'shoegaze', 'spacegrunge']",33
+Lunachicks,"['riot grrrl', 'underground grunge']",33
+GRAZER,"['chill dream pop', 'grungegaze']",34
+ASkySoBlack,['grungegaze'],30
+NVM,['grungegaze'],31
+Dark new Day,"['hard alternative', 'post-grunge']",31
+The Gits,"['chicano punk', 'oi', 'riot grrrl', 'underground grunge']",31
+Fangclub,"['english indie rock', 'grunge revival', 'irish indie rock', 'modern alternative rock', 'post-grunge']",32
+Black Lab,['grunge pop'],35
+Scott Weiland,"['grunge', 'post-grunge']",32
+Seaweed,['underground grunge'],31
+Tad,['grunge'],31
+Downward,"['diy emo', 'grungegaze', 'tulsa indie']",29
+Green River,['grunge'],31
+Day Aches,['grungegaze'],29
+Jet Black Stare,"['hard alternative', 'post-grunge']",31
+Marvelous 3,['grunge pop'],27
+Cloakroom,"['american shoegaze', 'countrygaze', 'dreamo', 'grungegaze', 'nu gaze', 'spacegrunge']",27
+The Nixons,['post-grunge'],29
+Matt Cameron,"['grunge', 'rock drums']",31
+Superbloom,['grungegaze'],30
+Heavenward,['grungegaze'],29
+Edgewater,"['hard alternative', 'post-grunge']",28
+7 Year Bitch,"['riot grrrl', 'underground grunge']",29
+Paw,"['grunge', 'underground grunge']",29
+Brad,['grunge'],31
+Strata,['grunge pop'],27
+Splender,['grunge pop'],33
+Iress,"['doomgaze', 'grungegaze']",29
+Tabitha's Secret,['grunge pop'],27
+Ridgeway,"['american shoegaze', 'dreamo', 'grungegaze']",26
+Grivo,"['american shoegaze', 'doomgaze', 'grungegaze', 'texasgaze']",27
+Course Of Nature,"['grunge pop', 'hard alternative']",29
+Dust For Life,['grunge pop'],25
+Flipper,"['early us punk', 'experimental rock', 'grunge', 'hardcore punk', 'noise rock', 'post-hardcore', 'post-punk', 'punk']",26
+Mascara,['grungegaze'],25
+Gruntruck,"['funk metal', 'grunge', 'underground grunge']",27
+Hayien,"['german shoegaze', 'grungegaze']",27
+Scratch Acid,"['art punk', 'grunge', 'noise rock', 'post-hardcore', 'texas punk']",25
+Love Battery,"['grunge', 'underground grunge']",27
+Skin Yard,"['grunge', 'underground grunge']",26
+Fang,"['grunge', 'hardcore punk']",25
+Forty Foot Echo,"['canadian rock', 'grunge pop', 'oth indie']",27
+Caroline's Spine,['grunge pop'],22
+Joyous Wolf,"['modern hard rock', 'post-grunge']",25
+Deafcult,"['australian shoegaze', 'brisbane indie', 'grungegaze', 'nu gaze', 'shoegaze']",24
+Oversize,['grungegaze'],26
+cursetheknife,['grungegaze'],24
+Spotlights,"['doomgaze', 'grungegaze', 'nyc metal', 'post-metal']",25
+Dexter Freebish,['grunge pop'],22
+Warm,"['american shoegaze', 'doomgaze', 'grungegaze']",23
+Operator,['grunge pop'],24
+Daisy Chainsaw,"['grebo', 'riot grrrl', 'underground grunge']",22
+Full Devil Jacket,"['alternative metalcore', 'grunge pop', 'hard alternative']",22
+Dosser,['grungegaze'],23
+Socialburn,"['grunge pop', 'hard alternative']",21
+The Daysleepers,"['american shoegaze', 'buffalo ny indie', 'dreamgaze', 'grungegaze', 'indie shoegaze', 'nu gaze', 'shoegaze']",24
+Sign Language,"['grungegaze', 'zoomergaze']",21
+3rd Secret,['grunge'],25
+For Love Not Lisa,['underground grunge'],23
+Malfunkshun,"['funk metal', 'grunge']",22
+Animal Ghosts,"['cascadia shoegaze', 'grungegaze', 'nu gaze', 'shoegaze']",21
+Doubledrive,['grunge pop'],21
+Ingram Hill,"['acoustic pop', 'grunge pop']",20
+velora,"['grungegaze', 'zoomergaze']",20
+Treepeople,"['gbvfi', 'grunge', 'lo-fi']",19
+Deserta,"['grungegaze', 'nu gaze', 'shoegaze']",22
+Luna Halo,['grunge pop'],23
+Flickerstick,"['denton tx indie', 'grunge pop']",18
+Catherine,"['grungegaze', 'spacegrunge']",20
+Seer Believer,['grungegaze'],19
+Big Spring,"['modern alternative rock', 'post-grunge']",23
+Audiobaton,"['grungegaze', 'texasgaze']",19
+J.R. Richards,['grunge pop'],23
+Creepoid,"['grungegaze', 'indie punk']",19
+The Gutter Twins,"['grunge', 'supergroup']",24
+Fastbacks,['grunge'],20
+Blush Response,"['adelaide indie', 'australian shoegaze', 'grungegaze']",19
+Pure Hex,['grungegaze'],18
+Athenaeum,"['grunge pop', 'modern uplift']",19
+Kicking Harold,['grunge revival'],22
+Injected,['grunge pop'],18
+Eleven,['grunge'],22
+Downface,"['grunge', 'underground grunge']",21
+Blood Circus,['underground grunge'],19
+Flowerbed,"['grungegaze', 'texasgaze']",15
+U-Men,"['grunge', 'underground grunge']",17
+Sinch,"['grunge pop', 'philly indie', 'progressive alternative']",19
+Paloalto,['grunge pop'],19
+Smile,['underground grunge'],16
+Bam Bam,"['black punk', 'underground grunge']",17
+Satchel,['grunge'],18
+Sugartooth,['grunge'],16
+Stir,['grunge pop'],14
+Greenwheel,['grunge pop'],15
+Killdozer,"['grunge', 'noise rock', 'post-hardcore']",15
+Vonray,['grunge pop'],23
+Big Chief,"['funk metal', 'grunge']",13
+Seventh Dose,"['grungegaze', 'zoomergaze']",16
+8stops7,['grunge pop'],15
+Big Dismal,['grunge pop'],15
+No Sun,"['american shoegaze', 'grungegaze', 'slc indie']",15
+Hammerbox,"['grunge', 'underground grunge']",17
+Bloody Knees,"['cambridgeshire indie', 'english indie rock', 'post-grunge']",17
+kairo.,['grungegaze'],13
+Mondaze,['grungegaze'],16
+Gas Huffer,"['grunge', 'underground grunge']",15
+LOCKSTEP,['grungegaze'],14
+Dig,['grunge'],14
+Hazel,"['grunge', 'portland punk', 'underground grunge']",13
+Die Trying,['grunge pop'],13
+Pond,"['grunge', 'underground grunge']",14
+Dandelion,"['grunge', 'philly indie', 'underground grunge']",14
+Stereo Fuse,['grunge pop'],12
+Epidemic,['grunge pop'],13
+Sweet Water,['underground grunge'],12
+Neve,['grunge pop'],16
+Closure,"['grunge pop', 'hard alternative', 'heavy alternative']",15
+July For Kings,['grunge pop'],14
+Hater,"['grunge', 'underground grunge']",14
+AM Radio,['grunge pop'],17
+Bliss 66,['grunge pop'],13
+Low Millions,['grunge pop'],13
+Smelter,"['grungegaze', 'zoomergaze']",11
+The Nymphs,"['grunge', 'underground grunge']",13
+Lucy's Fur Coat,['underground grunge'],12
+Modern Day Zero,"['grunge pop', 'hard alternative']",12
+Jeff Ament,['grunge'],16
+Truly,"['grunge', 'underground grunge']",15
+Coffin Break,"['grunge', 'underground grunge']",12
+Piratas Siderais,"['grunge brasileiro', 'novo rock gaucho']",26
+Stompbox,['underground grunge'],11
+Adiós Cometa,['grungegaze'],20
+Goodness,['grunge'],9
+Mixed Up Everything,['grunge revival'],18
+Anorexia Isan,['grunge revival'],16
+My Sister's Machine,['underground grunge'],12
+Chout,['grunge revival'],11
+Neon Cathedral,['grungegaze'],10
+Memento,['grunge pop'],11
+Home Town Hero,['grunge pop'],9
+Wellwater Conspiracy,['grunge'],12
+Rein Sanction,"['grunge', 'underground grunge']",10
+Flop,['grunge'],11
+Clearbody,['grungegaze'],9
+Only Sibling,['grungegaze'],9
+Lacing,"['american shoegaze', 'chattanooga indie', 'grungegaze']",9
+SouthFM,['grunge pop'],8
+10 Minute Warning,['underground grunge'],9
+Violet Soda,"['brazilian rock', 'grunge brasileiro']",17
+Feedtime,"['noise punk', 'underground grunge']",10
+Comes With The Fall,['grunge'],10
+Bad Bloom,"['5th wave emo', 'grungegaze', 'new york shoegaze']",10
+Senium,['grunge revival'],10
+XO,['grungegaze'],8
+Green Apple Quick Step,['underground grunge'],9
+Glia,"['chill dream pop', 'grungegaze', 'texasgaze']",8
+Jeremiah Freed,"['grunge pop', 'maine indie']",6
+Midnight To Twelve,"['grunge pop', 'modern uplift']",8
+Janitor Joe,['underground grunge'],8
+Alcohol Funnycar,"['grunge', 'underground grunge']",8
+Inger Lorre,['underground grunge'],8
+Noiseheads,['grunge revival'],8
+Cinder Road,"['grunge pop', 'heavy alternative']",8
+Collapsis,['grunge pop'],5
+No Address,['grunge pop'],6
+Iris,"['canadian shoegaze', 'grungegaze']",7
+Guzzard,"['grunge', 'noise rock']",7
+Kerbdog,"['irish rock', 'post-grunge', 'underground grunge']",19
+The Know,['grungegaze'],11
+False Advertising,"['manchester indie', 'post-grunge']",10
+Lubricated Goat,"['noise punk', 'underground grunge']",8
+Gumball,['underground grunge'],8
+Mono men,['underground grunge'],5
+Holy Figures,['grungegaze'],5
+Thread,['underground grunge'],5
+The Monkeywrench,['underground grunge'],5
+Wool,['grunge'],6
+The Fluid,['underground grunge'],5
+Napalm Beach,"['grunge', 'portland punk', 'underground grunge']",5
+Dead Rituals,['grungegaze'],7
+Thrillhammer,['underground grunge'],6
+The Rising,['grunge pop'],6
+Mono men,['underground grunge'],5
+Black Sunshine,"['grunge pop', 'heavy alternative', 'instrumental soul']",6
+Bundle Of Hiss,"['grunge', 'underground grunge']",6
+Swirlpool,"['german shoegaze', 'grungegaze']",7
+Urbanites,"['grunge brasileiro', 'pop rock brasileiro']",13
+Familiar 48,['grunge pop'],4
+Averi,['grunge pop'],4
+Dogman,"['brazilian stoner rock', 'grunge brasileiro', 'rock goiano']",15
+BIGGER,"['argentine alternative rock', 'grunge argentina']",15
+Connor Questa,"['argentine alternative rock', 'grunge argentina']",15
+Union Youth,['grunge revival'],9
+A VOID,['grunge revival'],9
+Justincase,['grunge pop'],5
+Dakona,['grunge pop'],5
+YGGL,['grunge revival'],7
+Bullet Lavolta,['underground grunge'],6
+Lever,"['chicago pop punk', 'grunge revival']",5
+Flour,['underground grunge'],5
+Cay,['underground grunge'],7
+Valentiine,['grunge revival'],7
+The Seafoams,['grunge revival'],5
+Prime STH,['grunge pop'],7
+Simmer,['grungegaze'],5
+Bonehead,['grunge pop'],6
+Flowerhead,['underground grunge'],3
+Daddy Hate Box,['underground grunge'],4
+Spore,"['boston rock', 'underground grunge']",4
+Fivespeed,['grunge pop'],3
+April's Motel Room,['underground grunge'],4
+Honeymoon,['grungegaze'],3
+The Vanished,['grunge pop'],4
+The Color Red,['grunge pop'],3
+The Rockfords,['grunge'],4
+Honestly,['grunge pop'],3
+Reveries,"['american shoegaze', 'grungegaze']",3
+Crease,['grunge pop'],3
+Voodoo Gearshift,['underground grunge'],4
+Sprinkler,['underground grunge'],4
+Big City Rock,['grunge pop'],2
+Small,['underground grunge'],3
+Girl Trouble,['grunge'],4
+Crimeny,['underground grunge'],4
+Before Braille,['grunge pop'],2
+Pay The Girl,['grunge pop'],4
+Big 10-4,['grunge pop'],2
+Seven Channels,['grunge pop'],4
+Deep Red,"['grungegaze', 'texasgaze']",4
+Stick,['underground grunge'],2
+Sharp Nine,['underground grunge'],4
+Silvercrush,['grunge pop'],3
+Dharma Bums,['underground grunge'],3
+Sloth,['grunge pop'],3
+Timelost,['grungegaze'],3
+Underwhelmed,"['grunge pop', 'hard alternative', 'modern uplift']",3
+Animal Bag,['underground grunge'],4
+Mad Sneaks,['grunge brasileiro'],11
+Bored,"['australian alternative rock', 'underground grunge']",10
+Shattered Blooms,['grunge revival'],10
+Dx Aneurysm,['grunge revival'],10
+La Cruda,['grunge argentina'],11
+Unfortunate Sons,['grunge revival'],8
+Radio Front,['grunge brasileiro'],8
+Deb and The Mentals,"['brazilian rock', 'grunge brasileiro']",5
+Jack Endino,['underground grunge'],5
+Nape,['grunge revival'],5
+Sunstinger,"['grungegaze', 'scottish indie rock', 'scottish shoegaze']",6
+Cazacuervos,['grunge argentina'],5
+Zuckerbaby,['grunge pop'],5
+Echo 7,['grunge pop'],1
+Jhon Mutante,['grunge argentina'],0
+Smoke & Mirrors,['grunge revival'],0
+Dotzd,['grungegaze'],1
+Jonestown,['underground grunge'],0
+Nasty Bomb,['grunge argentina'],1
+Slumgudgeon,['underground grunge'],0
+Svelt,['underground grunge'],1
+Spiritual Rebel,['grunge argentina'],1
+Raw Plastic,"['grungegaze', 'polish shoegaze']",3
+Nebulosa,"['grunge brasileiro', 'rock nacional feminino']",0
+Sinister Six,['underground grunge'],0
+Icky Joey,['underground grunge'],1
+2crazyband,"['grunge brasileiro', 'rock sergipano']",0
+Shoe Shine Six,"['grungegaze', 'russian shoegaze']",0
+Rattle Cloud,"['grunge pop', 'modern uplift']",0
+Deadman Dance,['grunge brasileiro'],0
+Drunk Tank,['underground grunge'],0
+Sanskrit,['grunge revival'],0
+Separable,['grungegaze'],3
+Motherweiser,['grunge argentina'],0
+LuvBugs,"['brazilian lo-fi rock', 'grunge brasileiro', 'shoegaze brasileiro']",1
+Sadartha,['grunge revival'],0
+Jacken Lacar,['grunge argentina'],2
+Smoking Rats,['grunge brasileiro'],0
+Furia,['grunge argentina'],0
+Made in Rock,['grunge brasileiro'],0
+Hullabaloo,['underground grunge'],1
+Mostarda Preta,['grunge brasileiro'],0
+Shiny Beast,['underground grunge'],0
+Noisetape,"['grunge brasileiro', 'rock nacional feminino']",0
+Time Travel Ban,['grungegaze'],0
+Gargoyl,['grunge revival'],2
+Mesh StL,['grunge pop'],1
+YOKOY,['grunge argentina'],1
+Das Damen,['underground grunge'],3
+Río Místico,['grunge argentina'],0
+Chemistry Set,['underground grunge'],1
+Flowerland,['underground grunge'],0
+Mike Garrigan,"['grunge pop', 'modern uplift']",2
+OMELET,['grunge argentina'],4
+Strange Celebrity,['grunge pop'],1
+Radford,['grunge pop'],1
+Loveslug,['underground grunge'],0
+El Triangulo,"['argentine metal', 'grunge argentina']",0
+Pajaro Negro,['grunge argentina'],0
+Big Brown House,['underground grunge'],0
+Dirt Nap,['grunge revival'],0
+Cuarto Morbo,['grunge argentina'],0
+Satisfire,['grunge brasileiro'],0
+Willard,['underground grunge'],2
+Helltrout,['underground grunge'],0
+The Thrown Ups,['underground grunge'],2
+Vapor,['grunge brasileiro'],0
+Horses Without Makeup,['grunge revival'],0
+Hog Molly,['underground grunge'],2
+CrowHead Music,['grunge brasileiro'],0
+Respect Your Mom,['grunge revival'],2
+The Mercy House,['grunge revival'],0
+Forgodsake,['underground grunge'],0
+Paranoid Pictures,['grunge revival'],0
+Casino Garden,"['german shoegaze', 'grungegaze']",4
+Forte Norte,"['brazilian post-hardcore', 'brazilian rock', 'grunge brasileiro', 'rock alternativo brasileiro']",3
+Free Recovery,['grunge revival'],0
+Atomic 61,['underground grunge'],0
+Plan Secreto,['grunge argentina'],0
+Langluá,['grunge argentina'],0
+Distorch,['grunge brasileiro'],1
+KHAN,['grunge argentina'],2
+Basilios,"['grunge brasileiro', 'rock abc paulista']",1
+Appearance,['grunge pop'],0
+Minaxi,"['grungegaze', 'new york shoegaze']",3
+GLUM,['grunge revival'],1
+21 Gramos,['grunge argentina'],1
+Alien Boys,['underground grunge'],0
+SadBoots,"['grunge brasileiro', 'rock mineiro']",0
+Jess Coram,['grunge revival'],0
+Crackerbash,"['grunge', 'underground grunge']",1
+Send No Flowers,['underground grunge'],4
+Cuarto de Fondo,['grunge argentina'],0
+Flannel,['grunge argentina'],0
+2fuzz,"['grunge brasileiro', 'rock cearense']",3
+Turfboy,['grunge revival'],1
+Recreator,['grunge revival'],2
+Bay of Pigs,['underground grunge'],0
+Gutterflower,['grunge revival'],0
+Hollow Vandals,"['grunge revival', 'warrington indie']",1
+Corduroy,"['grungegaze', 'nordic shoegaze']",2
+Final Coil,['grunge revival'],3
+The Meantime,['grunge revival'],0
+RAW,['grunge brasileiro'],0
+Senzu,['grunge argentina'],0
+Demian Leví,['grunge argentina'],1
+Sun Carriage,['underground grunge'],0
+Joe Hedges,['grunge pop'],1
+Un Sueño Kamikaze,['grunge argentina'],0
+Grisly Fiction,['underground grunge'],0
+War Baby,"['grunge revival', 'vancouver punk']",2
+Thin Men,['underground grunge'],0
+Tape Shapes,['grunge revival'],0
+Teen Angels,['underground grunge'],1
+Dry,"['brazilian stoner rock', 'grunge brasileiro', 'rock goiano']",1
+Bloodloss,['underground grunge'],2
+Andes,['grunge brasileiro'],0
+All Taken,['grunge revival'],0
+Tomie Swan,['grunge brasileiro'],3
+Tipo Idiota,['grunge argentina'],0
+Vir GO,"['grunge brasileiro', 'rock nacional feminino']",0
+Mr. Epp and the Calculations,['underground grunge'],0
+IDjiT,['grunge revival'],2
+Gusanos De Marte,['grunge argentina'],0
+Still Rain,['underground grunge'],1
+Just Like Heaven,"['alabama hardcore', 'grungegaze']",2
+Deadspot,['underground grunge'],0
+Sangre Activa,['grunge argentina'],2
+Echo Jet,['grunge pop'],1
+Zipgun,['underground grunge'],0
+Speedball,['grunge argentina'],0
+Crunchbird,['underground grunge'],0
+Lado D,['grunge argentina'],1
+Saliva Tree,['underground grunge'],0
+Dirtclodfight,['underground grunge'],0
+Big Trouble House,['underground grunge'],0
+Sleepfire,['grunge revival'],1
+Nudz,['grunge brasileiro'],0
+The Purdins,['underground grunge'],0
+Evan Schoenfeld,['underground grunge'],0
+Blesterbol,['grunge argentina'],0
+Still Rain,['underground grunge'],1
+Plan Secreto,['grunge argentina'],0
+OMELET,['grunge argentina'],4
+Where It Sleeps,['grungegaze'],0
+Teen Angels,['underground grunge'],1
+Álister,['grunge brasileiro'],0
+Oime,['grunge argentina'],0
+Dry,"['brazilian stoner rock', 'grunge brasileiro', 'rock goiano']",1
+Beerjuice,['grunge brasileiro'],0
+Devilhead,['underground grunge'],1
+Frogslake,['grunge brasileiro'],1
+Room Nine,['underground grunge'],0
+Inedia,['grunge revival'],3
+Respect Your Mom,['grunge revival'],2
+Porn Orchard,['underground grunge'],0
+Andes,['grunge brasileiro'],0
+RAW,['grunge brasileiro'],0
+Limbo,['grunge argentina'],0
+Alunacy,"['grunge argentina', 'indie cordoba']",0
+Sow Belly,['underground grunge'],0
+Face Cream,"['argentine alternative rock', 'grunge argentina']",3
+God And Texas,['underground grunge'],0
+Shine,['grungegaze'],2
+Argos Boa,['grunge argentina'],0
+Outcrowd,['underground grunge'],0
+Sinister Six,['underground grunge'],0
+Lollygadget,['underground grunge'],0
+Chicken Scratch,['underground grunge'],0
+EnferMa,['grunge argentina'],0
+Gusanos De Marte,['grunge argentina'],0
+Summer Psychosis,['grunge revival'],0
+Sleepfire,['grunge revival'],1
+Just Like Heaven,"['alabama hardcore', 'grungegaze']",2
+Eleven Pictures,['underground grunge'],2
+Mad Chicken,['grunge brasileiro'],2
+Walleater,"['grunge revival', 'grungegaze']",2
+Melo45,['grunge argentina'],2
+Pajaro Negro,['grunge argentina'],0
+Demian Leví,['grunge argentina'],1
+Lava Dórr,['grunge brasileiro'],0
+The Derelicts,['underground grunge'],1
+Imperfection,['grunge brasileiro'],1
+Los Astros Mienten,['grunge argentina'],0
+Tape Shapes,['grunge revival'],0
+Las Ruinas de Santo Espiritu,['grunge argentina'],0
+Pop Sickle,['underground grunge'],1
+Tensionautas,['grunge argentina'],0
+Castillo,['grunge argentina'],0
+Nuclear Moms,['grunge revival'],2
+Lonely Moans,['underground grunge'],1
+Fairday,"['grunge pop', 'modern uplift']",0
+Soro,['grunge brasileiro'],4
+Stumpy Joe,['underground grunge'],1
+Shopvac,['grungegaze'],0
+Domestic Junkies,['grunge brasileiro'],0
+The Whirlees,['underground grunge'],1
+Danger Bunny,['underground grunge'],0
+King Snake Roost,['underground grunge'],0
+Deadman Dance,['grunge brasileiro'],0
+Shiny Beast,['underground grunge'],0
+Chemistry Set,['underground grunge'],1
+Vertigo,['underground grunge'],1
+Big Brown House,['underground grunge'],0
+Cuarto Morbo,['grunge argentina'],0
+Pandora´s Bliss,['grunge revival'],4
+Deadspot,['underground grunge'],0
+The Violet Stones,['grunge revival'],2
+Distorch,['grunge brasileiro'],1
+LuvBugs,"['brazilian lo-fi rock', 'grunge brasileiro', 'shoegaze brasileiro']",1
+Wonderpub,['grunge argentina'],0
+Mike Garrigan,"['grunge pop', 'modern uplift']",2
+Loveslug,['underground grunge'],0
+Strange Celebrity,['grunge pop'],1
+Uncomely,['grunge revival'],0
+Joe Hedges,['grunge pop'],1
+INVITRO,['grunge argentina'],0
+Inner Kings,['grunge brasileiro'],0
+Mark Kano,['grunge pop'],1
+I-94,"['grunge pop', 'modern uplift']",3
+Tierra Tribal,['grunge argentina'],1
+War Baby,"['grunge revival', 'vancouver punk']",2
+Mudrive,['grunge revival'],0
+Capping Day,['underground grunge'],0
+Authora,['grunge brasileiro'],0
+My Eye,['underground grunge'],0
+Dirtclodfight,['underground grunge'],0
+Stellabella,['grunge brasileiro'],2
+pata,"['grunge brasileiro', 'rock mineiro']",0
+Levianos,['grunge brasileiro'],0
+Pure Joy,['underground grunge'],1
+Bloodloss,['underground grunge'],2
+Stripminers,['underground grunge'],0
+All Taken,['grunge revival'],0
+Vir GO,"['grunge brasileiro', 'rock nacional feminino']",0
+Tomie Swan,['grunge brasileiro'],3
+Paradox,"['cork indie', 'grunge revival']",0
+My Name,['underground grunge'],1
+Conto Dayoko,['grunge brasileiro'],0
+Icky Joey,['underground grunge'],1
+IDjiT,['grunge revival'],2
+Paper Street Saints,['grunge pop'],3
+Gardener,['underground grunge'],4
+Solarist,['grunge revival'],0
+One Second 2 Late,['grunge pop'],2
+Crunchbird,['underground grunge'],0
+Ñudrop,['grunge argentina'],0
+Dirt Fishermen,['underground grunge'],1
+Dos Pilas,['underground grunge'],1
+Big Trouble House,['underground grunge'],0
+Croxoma,['grunge argentina'],0
+Cable35,['grunge revival'],3
+Greatness In Tragedy,['grunge pop'],1
+Bril,['grunge pop'],0
+Cidade Muda,['grunge brasileiro'],0
+Tipo Idiota,['grunge argentina'],0
+Milk Money,['grunge revival'],0
+Los Yacu Bien Palanca,['grunge argentina'],0
+Dropline,['grunge pop'],3
+EXPLOTA MARTE,['grunge argentina'],0

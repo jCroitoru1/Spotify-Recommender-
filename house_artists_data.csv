@@ -1,0 +1,1001 @@
+name,genres,popularity
+Travis Scott,"['rap', 'slap house']",94
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",87
+Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']",84
+Tiësto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",85
+Diplo,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",79
+Daft Punk,"['electro', 'filter house', 'rock']",82
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",82
+Fred again..,"['edm', 'house', 'stutter house']",80
+Alan Walker,['electro house'],82
+Lost Frequencies,"['belgian edm', 'edm', 'pop dance', 'tropical house']",81
+John Summit,['house'],74
+FISHER,"['australian house', 'house']",79
+Disclosure,"['edm', 'house', 'indietronica', 'uk dance']",77
+Alesso,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",77
+Swedish House Mafia,"['edm', 'pop dance', 'progressive electro house']",77
+Alok,"['electro house', 'pop nacional', 'slap house']",80
+Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",76
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",77
+AFROJACK,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance']",75
+Robin Schulz,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",78
+Armin van Buuren,"['dutch house', 'dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",77
+MEDUZA,"['edm', 'pop dance', 'pop house', 'uk dance']",76
+R3HAB,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",75
+HUGEL,['deep house'],77
+Keinemusik,['melodic house'],77
+Adam Port,['melodic house'],77
+Dom Dolla,"['australian house', 'deep groove house', 'house']",70
+Steve Aoki,"['edm', 'electro house', 'pop dance']",73
+Galantis,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",71
+Gabry Ponte,"['eurodance', 'italo dance', 'slap house']",76
+Chris Lake,"['bass house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'tech house', 'uk dance']",71
+Lavern,['stutter house'],71
+deadmau5,"['canadian electronic', 'complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",68
+Becky Hill,"['pop dance', 'pop house', 'uk dance', 'uk pop']",74
+Jonas Blue,"['pop', 'pop dance', 'tropical house', 'uk dance']",74
+Porter Robinson,"['complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house']",65
+SAINt JHN,"['melodic rap', 'slap house']",69
+Felix Jaehn,"['edm', 'german dance', 'pop dance', 'tropical house', 'uk dance']",75
+Dimitri Vegas & Like Mike,"['belgian dance', 'belgian edm', 'big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",75
+Justice,"['alternative dance', 'dance-punk', 'electronica', 'filter house', 'indietronica', 'new rave']",68
+W&W,"['big room', 'dutch house', 'dutch trance', 'edm', 'electro house', 'pop dance', 'progressive electro house']",74
+Purple Disco Machine,"['deep house', 'house']",74
+FKJ,"['filter house', 'indie soul']",69
+Kaskade,"['edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'vocal house']",65
+Imanbek,"['electro house', 'pop dance', 'slap house']",71
+Jax Jones,"['dance pop', 'edm', 'house', 'pop dance', 'uk dance']",73
+berlioz,['jazz house'],68
+Seven Lions,"['brostep', 'complextro', 'dubstep', 'edm', 'electro house', 'melodic dubstep', 'pop dance', 'progressive trance']",62
+Deorro,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'melbourne bounce international', 'pop dance', 'progressive electro house']",68
+James Hype,"['deep groove house', 'house', 'pop dance', 'uk dance']",71
+D.O.D,"['electro house', 'house', 'pop dance', 'uk dance']",70
+Sam Feldt,"['edm', 'pop dance', 'tropical house']",70
+Don Diablo,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",68
+Bob Sinclar,"['disco house', 'filter house']",73
+BUNT.,['stutter house'],69
+Regard,"['pop dance', 'pop edm', 'slap house', 'uk dance']",69
+Zeds Dead,"['brostep', 'canadian electronic', 'dubstep', 'edm', 'electro house', 'progressive electro house']",60
+Sonny Fodera,"['house', 'pop dance', 'uk dance']",70
+Emmit Fenn,"['chill house', 'vapor soul']",66
+Bakermat,"['minimal tech house', 'tropical house']",70
+Azealia Banks,"['escape room', 'hip house', 'lgbtq+ hip hop', 'trap queen']",65
+Ben Böhmer,['melodic house'],68
+Stromae,"['belgian pop', 'g-house']",72
+MNEK,"['house', 'pop dance', 'uk contemporary r&b', 'uk dance', 'uk pop']",69
+RL Grime,"['brostep', 'edm', 'electro house', 'electronic trap']",62
+Anyma,['stutter house'],70
+Oliver Heldens,"['dutch house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",69
+Rezz,"['brostep', 'canadian electronic', 'edm', 'electra', 'electro house']",60
+RSCL,['stutter house'],66
+Gigamesh,"['filter house', 'nu disco']",63
+Lane 8,"['gauze pop', 'melodic house', 'progressive house']",62
+MK,"['house', 'pop dance']",68
+La Bouche,"['diva house', 'eurodance', 'europop', 'german techno']",69
+Edward Maya,"['romanian house', 'romanian pop']",69
+Dillon Francis,"['brostep', 'edm', 'electro house', 'moombahton', 'pop dance', 'progressive electro house', 'slap house']",62
+nimino,['melodic house'],66
+ZHU,"['edm', 'electro house']",64
+Cedric Gervais,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",66
+Peggy Gou,"['electra', 'float house']",68
+Benny Benassi,"['dutch house', 'edm', 'electro house', 'pop dance']",67
+Lynnic,['chill house'],67
+INNA,"['dance pop', 'romanian house', 'romanian pop']",72
+Riton,"['house', 'pop dance', 'uk dance']",67
+Tinlicker,['melodic house'],67
+Matt Sassari,"['french tech house', 'french techno', 'tech house']",68
+Kavinsky,['filter house'],67
+Hardwell,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",69
+Aaron Smith,['chicago house'],66
+Duke Dumont,"['edm', 'house', 'pop dance', 'progressive house', 'uk dance']",67
+Disco Lines,['stutter house'],60
+TWOPILOTS,['tropical house'],69
+Mau P,['tech house'],64
+BLOND:ISH,"['deep disco house', 'melodic house']",64
+it's murph,['stutter house'],61
+NGHTMRE,"['brostep', 'edm', 'electro house', 'electronic trap']",59
+Black Coffee,"['south african house', 'south african pop dance']",66
+Vicetone,"['edm', 'electro house', 'pop dance', 'progressive electro house']",64
+Barry Can't Swim,['jazz house'],65
+Above & Beyond,"['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",62
+Rampa,"['deep disco house', 'melodic house']",67
+GAMPER & DADONI,"['german dance', 'pop dance', 'tropical house']",67
+Matoma,"['pop dance', 'tropical house']",63
+Modjo,"['disco house', 'filter house']",64
+AlunaGeorge,"['electropop', 'house', 'uk dance']",62
+Never Dull,['funky house'],65
+A-Trak,"['canadian electronic', 'edm', 'electro house', 'electronic trap', 'fidget house', 'house', 'turntablism']",62
+CamelPhat,"['deep tech house', 'house', 'progressive house', 'uk dance']",67
+Disciples,"['house', 'pop dance', 'uk dance']",66
+GEE LEE,['rally house'],63
+LUM!X,"['melbourne bounce international', 'slap house']",68
+Chromeo,"['alternative dance', 'dance rock', 'filter house', 'indietronica', 'neo-synthpop', 'new rave', 'nu disco']",62
+Sammy Virji,"['bass house', 'old school bassline']",64
+ANOTR,['dutch tech house'],66
+Gorgon City,"['future garage', 'house', 'pop dance', 'uk dance']",63
+LP Giobbi,['house'],61
+Sidewalks and Skeletons,"['wave', 'witch house']",63
+Kenny Dope,"['deep house', 'pop dance', 'soulful house']",65
+SIDEPIECE,"['bass house', 'edm', 'house', 'tech house']",61
+Axwell /\ Ingrosso,"['edm', 'pop dance', 'progressive electro house']",66
+Jitwam,"['indie jazz', 'indie soul', 'lo-fi house']",62
+Odd Mob,"['aussietronica', 'bass house', 'tech house']",61
+Flux Pavilion,"['brostep', 'classic dubstep', 'complextro', 'edm', 'electro house']",58
+Cash Cash,"['dance pop', 'edm', 'electro house', 'electropowerpop', 'pop dance']",60
+ACRAZE,"['pop dance', 'tech house']",65
+Vandelux,['stutter house'],60
+Crystal Waters,['diva house'],65
+NEIMY,"['scandipop', 'tropical house']",63
+Eric Prydz,"['edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",66
+Helsloot,"['house', 'melodic house']",65
+Matroda,"['bass house', 'electro house', 'tech house']",59
+San Holo,"['brostep', 'edm', 'electro house', 'electronic trap', 'future bass', 'pop dance']",57
+K-391,"['gaming edm', 'nordic house']",65
+Niklas Dee,"['hypertechno', 'slap house']",70
+VINAI,"['dutch house', 'edm', 'electro house', 'melbourne bounce international', 'pop dance', 'progressive electro house', 'slap house']",67
+Deepend,"['deep house', 'tropical house']",66
+Nicky Romero,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",64
+Mr. Belt & Wezol,"['dutch edm', 'house']",67
+Braaheim,"['covertronica', 'hypertechno', 'slap house']",67
+The Magician,"['belgian edm', 'house', 'nu disco']",65
+KSHMR,"['big room', 'dutch house', 'edm', 'electro house', 'indian edm', 'pop dance', 'progressive electro house', 'slap house']",65
+Besomorph,"['alt z', 'dark r&b', 'slap house', 'traprun']",63
+Audien,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']",55
+Mike Perry,"['pop dance', 'swedish tropical house']",63
+Sante Sansone,['italian tech house'],64
+&ME,"['deep disco house', 'melodic house']",66
+Yellow Claw,"['dutch house', 'edm', 'electro house', 'pop dance']",61
+Axwell,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",64
+Broiler,"['nordic house', 'norwegian hip hop', 'norwegian pop', 'russelater']",65
+Alan Braxe,"['electrofox', 'filter house']",62
+DVBBS,"['canadian electronic', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",60
+Sultan + Shepard,"['canadian electronic', 'melodic house', 'progressive house']",59
+Thomas Bangalter,['filter house'],62
+What So Not,"['aussietronica', 'brostep', 'edm', 'electro house', 'electronic trap', 'escape room', 'vapor twitch']",56
+Martin Solveig,"['disco house', 'edm', 'electro house', 'filter house', 'house', 'pop dance', 'vocal house']",63
+Dombresky,"['bass house', 'electro house', 'house', 'tech house']",59
+VIZE,"['german dance', 'slap house']",67
+Hayden James,"['aussietronica', 'gauze pop', 'house']",60
+Benjamin Diamond,['filter house'],62
+Stardust,['filter house'],61
+Cloonee,['tech house'],61
+Jack Ü,"['edm', 'electro house', 'pop dance']",60
+Madeon,"['complextro', 'edm', 'electro house', 'electropop', 'filter house', 'nantes indie', 'pop dance']",56
+Chris Lorenzo,"['bass house', 'house', 'tech house']",59
+Kx5,['melodic house'],57
+Armand Van Helden,"['big beat', 'classic house', 'deep house', 'disco house', 'filter house', 'house', 'speed garage', 'uk dance', 'vocal house']",64
+Francis Mercier,['melodic house'],64
+Parra for Cuva,"['deep euro house', 'downtempo', 'new french touch']",62
+NERO,"['complextro', 'edm', 'electro house', 'melodic dubstep']",57
+Jan Blomqvist,"['deep euro house', 'melodic house']",63
+Madism,"['covertronica', 'tropical house']",63
+Anthony Keyrouz,"['arab electronic', 'hypertechno', 'slap house']",65
+Marnik,"['dutch house', 'hypertechno']",65
+IC3PEAK,"['russian witch house', 'witch house']",59
+Nora En Pure,"['deep house', 'electra', 'house', 'melodic house', 'progressive house', 'swiss pop']",60
+Lucas Estrada,"['deep pop edm', 'swedish tropical house']",64
+Dash Berlin,"['big room', 'dutch house', 'dutch trance', 'edm', 'pop dance', 'progressive electro house', 'progressive house', 'trance', 'uplifting trance']",63
+Marlon Hoffstadt,['deep euro house'],64
+Adventure Club,"['brostep', 'canadian electronic', 'complextro', 'edm', 'electro house', 'filthstep', 'pop dance']",53
+Eli Brown,"['house', 'tech house', 'uk dance']",62
+HVME,['slap house'],62
+SNAP!,"['diva house', 'eurodance', 'german techno', 'hip house']",63
+Nightcrawlers,"['disco house', 'hip house', 'vocal house']",63
+MC Hammer,"['hip hop', 'hip house', 'miami bass']",58
+Bob Moses,"['canadian electronic', 'canadian house']",57
+Noizu,"['bass house', 'house', 'tech house']",57
+Boris Brejcha,"['german house', 'german techno', 'high-tech minimal', 'minimal techno']",65
+Kill The Noise,"['brostep', 'complextro', 'edm', 'electro house', 'fidget house', 'filthstep']",55
+LIZOT,"['big room', 'german dance', 'hypertechno', 'slap house']",66
+Technotronic,"['eurodance', 'hip house', 'new beat', 'synthpop']",60
+Kayzo,"['brostep', 'speed house']",54
+MOTi,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",59
+Boys Noize,"['alternative dance', 'dance-punk', 'electro house', 'fidget house', 'filter house', 'german dance', 'german techno', 'new rave']",58
+Tujamo,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house']",61
+Blasterjaxx,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",62
+Steve Angello,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",63
+Darius,"['filter house', 'indie soul', 'nu disco']",58
+Dzeko,"['canadian electronic', 'dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house']",58
+MoBlack,['afro house'],65
+Sebastian Ingrosso,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",61
+Showtek,"['classic hardstyle', 'dutch house', 'edm', 'electro house', 'euphoric hardstyle', 'melbourne bounce', 'pop dance', 'progressive electro house']",63
+Eliza Rose,['house'],61
+Tungevaag,"['big room', 'nordic house']",64
+Tchami,"['bass house', 'brostep', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",56
+Bassjackers,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",62
+Biscits,"['bass house', 'house', 'tech house', 'uk tech house']",58
+Lookas,"['brostep', 'electro house', 'electronic trap']",57
+Route 94,"['house', 'uk dance']",62
+J. Worra,"['bass house', 'house', 'tech house']",57
+Krewella,"['edm', 'electra', 'electro house', 'pop dance']",55
+Klangkarussell,"['austrian pop', 'deep euro house']",62
+Quarterhead,['tech house'],62
+Nitefreak,['afro house'],63
+Young MC,"['hip house', 'miami bass']",52
+Claptone,"['german house', 'german techno', 'progressive house']",63
+Corona,"['diva house', 'eurodance', 'europop', 'hip house']",62
+BICEP,"['ambient house', 'electronica']",62
+RuPaul,"['diva house', 'strut']",56
+Brendan Mills,"['saxophone house', 'tropical house']",62
+Jend,['stutter house'],61
+Dr. Fresch,"['bass house', 'electro house']",54
+Eli & Fur,"['melodic house', 'progressive house']",58
+ARTY,"['big room', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'russian edm']",55
+Keanler,"['melodic house', 'tropical house']",58
+Interplanetary Criminal,"['breaks', 'experimental house']",60
+Jamie Jones,"['deep disco house', 'deep house', 'house', 'minimal techno', 'uk tech house']",59
+Thierry Von Der Warth,['tropical house'],64
+Le Youth,"['house', 'melodic house', 'nu disco', 'uk dance']",54
+Gareth Emery,"['edm', 'pop dance', 'progressive electro house', 'progressive house', 'trance']",58
+Bingo Players,"['big room', 'dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",60
+Jauz,"['brostep', 'edm', 'electro house']",54
+Proyecto Uno,"['latin house', 'salsa', 'tropical']",60
+SRTW,"['chill house', 'pop edm']",63
+Ummet Ozcan,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",60
+Deep Chills,['tropical house'],61
+Kris Kross Amsterdam,"['dutch house', 'dutch pop']",65
+Dr. Alban,"['eurodance', 'europop', 'hip house']",64
+Maz,['melodic house'],62
+Obskür,"['irish electronic', 'rally house']",59
+Kronan,['saxophone house'],60
+Westend,"['bass house', 'tech house']",57
+Nora Van Elken,['tropical house'],59
+Nils Hoffmann,"['deep euro house', 'deep minimal techno', 'melodic house']",57
+Aaron Hibell,"['stutter house', 'uk dance']",58
+C & C Music Factory,"['diva house', 'eurodance', 'freestyle', 'hip house']",56
+Luca,['chill house'],60
+Lucas & Steve,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",60
+Tritonal,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance']",53
+Wax Motif,"['bass house', 'electro house', 'tech house']",53
+Robin S,['diva house'],60
+Yaeji,"['alternative r&b', 'art pop', 'escape room', 'experimental house']",53
+Sosa UK,['tech house'],58
+Rolipso,['slap house'],62
+Jason Ross,"['dubstep', 'melodic dubstep', 'pop edm', 'progressive house', 'progressive trance']",50
+Alex Gaudino,"['disco house', 'vocal house']",61
+Adriatique,"['deep disco house', 'melodic house', 'melodic techno', 'swiss house']",60
+Carnage,"['dutch house', 'edm', 'electro house', 'electronic trap', 'viral trap']",52
+Party Favor,"['brostep', 'edm', 'electro house', 'electronic trap']",52
+Knife Party,"['australian dance', 'brostep', 'complextro', 'edm', 'electro house', 'moombahton']",54
+3LAU,"['edm', 'electro house', 'mashup', 'pop dance', 'progressive electro house', 'progressive house']",52
+Ship Wrek,"['bass house', 'stutter house', 'tech house']",52
+DubVision,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",56
+Deee-Lite,['hip house'],54
+LOSTBOYJAY,['rally house'],57
+MELON,['slap house'],59
+Breakbot,"['filter house', 'funktronica', 'nu disco']",56
+Freedom Williams,['hip house'],55
+Monolink,"['deep euro house', 'livetronica']",60
+piri,['rally house'],54
+Will Sparks,"['big room', 'dutch house', 'melbourne bounce', 'melbourne bounce international', 'progressive electro house']",59
+Miami Horror,"['alternative dance', 'australian dance', 'australian electropop', 'electroclash', 'filter house', 'indietronica', 'neo-synthpop', 'nu disco']",54
+Honey Dijon,['garage house'],56
+Master KG,"['bolobedu house', 'south african house']",63
+Fox Stevenson,"['complextro', 'dancefloor dnb', 'electro house']",55
+TJR,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'moombahton', 'progressive electro house', 'uk garage']",55
+Yann Muller,['tropical house'],62
+Jean Tonique,"['filter house', 'indie soul', 'new french touch', 'nu disco']",58
+Curbi,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",54
+Max Styler,"['brostep', 'tech house']",53
+Torren Foot,['australian house'],55
+Tobiahs,"['aussietronica', 'stutter house']",58
+The Avener,"['deep euro house', 'new french touch']",61
+Forester,['stutter house'],52
+Alle Farben,"['deep euro house', 'german dance']",63
+Todd Terry,"['classic house', 'deep house', 'diva house', 'garage house', 'hip house', 'nyc club']",59
+Endor,"['deep groove house', 'scottish rock']",57
+Baauer,"['electro house', 'electronic trap']",52
+Morgan Page,"['edm', 'electro house', 'pop dance', 'progressive house']",52
+Y.V.E. 48,"['chill house', 'deep tropical house', 'tropical house']",58
+Klingande,"['deep house', 'pop dance', 'tropical house']",59
+Tone-Loc,"['freestyle', 'hip house', 'miami bass']",50
+Otto Knows,"['edm', 'electro house', 'pop dance', 'progressive electro house']",58
+Crookers,['fidget house'],62
+Mauve,['chill house'],59
+Horizon Blue,"['chill house', 'tropical house']",60
+Shermanology,"['dutch house', 'tech house']",56
+Toby Rose,['tropical house'],60
+Good Times Ahead,"['brostep', 'dutch house', 'edm', 'electro house', 'electronic trap', 'pop dance']",54
+Laidback Luke,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",58
+Paradigm,"['covertronica', 'hypertechno', 'slap house']",60
+Real McCoy,"['diva house', 'eurodance', 'german techno', 'hip house']",56
+Yves V,"['belgian edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'slap house']",58
+prod. DTM,['rally house'],54
+Martin Ikin,"['bass house', 'house', 'tech house']",54
+Yotto,"['finnish edm', 'melodic house', 'progressive house']",55
+Hadise,"['turkish deep house', 'turkish pop']",65
+Pegboard Nerds,"['brostep', 'complextro', 'danish electronic', 'edm', 'electro house', 'glitch', 'speedrun']",52
+DJ Antoine,"['nordic house', 'pop house']",63
+Camden Cox,['stutter house'],56
+Fedde Le Grand,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",59
+KAAZE,"['big room', 'progressive electro house', 'sky room']",58
+HI-LO,"['dutch house', 'electro house', 'house']",58
+AC Slater,"['bass house', 'brostep', 'electro house', 'fidget house']",50
+Tom Santa,['stutter house'],58
+OMNOM,"['bass house', 'tech house']",51
+Valentino Khan,"['brostep', 'edm', 'electro house', 'electronic trap', 'moombahton']",52
+BKAYE,['stutter house'],50
+Foínix,['tropical house'],60
+IDRIS,['uk tech house'],55
+Kasablanca,['melodic house'],51
+NSH,"['chill house', 'orebro indie', 'tropical house']",59
+MOGUAI,"['dutch house', 'edm', 'electro house', 'german techno', 'progressive electro house', 'progressive house']",57
+Mr. Oizo,['filter house'],53
+Riva Starr,"['deep house', 'house', 'tech house']",55
+Culture Beat,"['eurodance', 'europop', 'german techno', 'hip house']",60
+Green Velvet,"['deep disco house', 'house', 'minimal techno', 'tech house']",54
+Mark Knight,"['house', 'progressive house', 'tech house', 'uk house']",56
+Nate VanDeusen,"['chill house', 'tropical house']",59
+WEISS,"['house', 'tech house', 'uk dance', 'uk house']",57
+Habstrakt,"['bass house', 'dubstep', 'electro house', 'electronic trap', 'filthstep']",50
+Brooks,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",56
+Rootkit,"['chillstep', 'complextro', 'electro house', 'gaming edm', 'melodic dubstep']",49
+Cassian,['melodic house'],56
+Ilkay Sencan,"['turkish deep house', 'turkish edm']",59
+Tep No,"['deep tropical house', 'indie poptimism', 'tropical house']",51
+Guz,['tech house'],51
+Mahmut Orhan,"['turkish deep house', 'turkish edm']",60
+Just A Gent,"['aussietronica', 'electro house', 'electronic trap', 'future bass', 'vapor twitch']",48
+Joy Orbison,"['electronica', 'float house', 'future garage', 'uk bass']",54
+Franky Rizardo,"['circuit', 'dutch tech house', 'house']",58
+Borgeous,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",55
+Braaten,['tropical house'],59
+NTO,"['deep euro house', 'minimal melodic techno', 'new french touch']",60
+VisionV,['stutter house'],55
+rayn,"['chill house', 'tropical house']",55
+anamē,['melodic house'],54
+Syn Cole,"['deep tropical house', 'edm', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']",54
+Rob Base & DJ EZ Rock,"['freestyle', 'harlem hip hop', 'hip hop', 'hip house', 'miami bass', 'new jack swing']",47
+Jerro,['melodic house'],52
+Marten Hørger,"['bass house', 'tech house']",52
+Marsh,"['melodic house', 'progressive house']",54
+HNNY,"['deep house', 'future garage', 'indie soul', 'swedish electronic', 'swedish house', 'swedish synthpop']",53
+Ruffnux,"['chill house', 'tropical house']",54
+GENESI,['tech house'],53
+Zonderling,"['dutch house', 'electro house', 'progressive electro house', 'progressive house', 'sky room']",57
+NERVO,"['australian dance', 'dutch house', 'edm', 'electra', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",54
+Joris Voorn,"['dutch tech house', 'minimal techno']",57
+Mall Grab,"['aussietronica', 'australian house', 'lo-fi house']",56
+TSHA,['uk house'],53
+Saco,['tropical house'],58
+Ferry Corsten,"['dutch trance', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",55
+Mike Candys,['pop house'],59
+Ghastly,"['brostep', 'dubstep', 'electro house']",46
+Tensnake,"['deep house', 'german house', 'hamburg electronic', 'house', 'nu disco']",53
+le moon,"['chill house', 'tropical house']",53
+Guru Josh Project,"['acid house', 'pop house']",60
+Autograf,"['deep tropical house', 'pop edm', 'vapor soul', 'vapor twitch']",49
+Deborah Cox,"['canadian pop', 'contemporary r&b', 'r&b', 'urban contemporary', 'vocal house']",51
+Tobÿ,"['chill house', 'saxophone house', 'tropical house']",55
+2 Unlimited,"['eurodance', 'europop', 'hip house']",57
+Matisse & Sadko,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'russian edm', 'sky room']",53
+JADED,"['tech house', 'uk dance']",54
+Taiki Nulight,"['bass house', 'doujin']",50
+Mike Williams,"['big room', 'dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",56
+CID,"['bass house', 'deep groove house', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tech house', 'uk dance']",50
+Ehrling,"['saxophone house', 'tropical house']",56
+Starjunk 95,['rally house'],48
+Chris Stussy,['dutch tech house'],57
+Quintino,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",55
+Samuel Miller,['chill house'],55
+Shoby,['tropical house'],58
+fwd/slash,['chill house'],54
+Jane Good,"['chill house', 'tropical house']",58
+Polar Inc.,['melodic house'],50
+Karen Harding,"['house', 'pop dance', 'uk dance']",57
+MAKJ,"['dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'sky room']",53
+OFFAIAH,"['deep groove house', 'house', 'tech house']",52
+Massane,"['melodic house', 'organic house']",52
+Chico Rose,['slap house'],57
+Merk & Kremont,"['dutch house', 'electro house', 'progressive electro house', 'sky room']",58
+JOYRYDE,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap']",49
+summer sax,['saxophone house'],58
+Skepsis,"['bass house', 'bassline', 'old school bassline']",59
+Steve Void,"['pop edm', 'slap house']",55
+Shimza,['south african house'],54
+Nic Fanciulli,"['deep disco house', 'house', 'minimal techno', 'tech house', 'tribal house']",54
+Birdy Nam Nam,"['filter house', 'turntablism']",50
+Loleatta Holloway,"['disco', 'diva house', 'philly soul', 'post-disco']",48
+Buray,"['turkish deep house', 'turkish pop']",62
+Jerome,"['german house', 'hypertechno']",60
+DJ Seinfeld,['lo-fi house'],54
+Ookay,"['brostep', 'dubstep', 'edm', 'electro house', 'electronic trap']",47
+Cult Member,"['canadian house', 'dreampunk']",49
+Cupido,['chill house'],59
+Eirik Næss,['tropical house'],58
+Sum Wave,"['beach house', 'swedish tropical house']",55
+Carston,['tropical house'],58
+Rosie Gaines,"['diva house', 'speed garage']",47
+The Deli,"['chillhop', 'lo-fi beats', 'lo-fi house']",49
+Ferreck Dawn,"['deep groove house', 'house', 'tech house']",54
+Shift K3Y,"['house', 'uk dance']",54
+Kyle Watson,"['bass house', 'fidget house', 'house', 'tech house']",50
+Klur,['melodic house'],50
+Solardo,"['house', 'tech house', 'uk dance']",55
+EDX,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house', 'swiss pop']",53
+James Mac,['melodic house'],57
+Marky Mark And The Funky Bunch,['hip house'],47
+Sole Sole,"['chill house', 'tropical house']",53
+Kidnap,"['future garage', 'melodic house']",52
+Chris Avantgarde,['melodic house'],56
+Example,"['hip house', 'uk dance']",58
+The Adventures Of Stevie V,"['classic house', 'hip house']",54
+Vall,['melodic house'],57
+Cristoph,"['house', 'melodic house', 'progressive house']",55
+NOTION,"['bass house', 'bassline', 'old school bassline']",54
+Boombox Cartel,"['brostep', 'electro house', 'electronic trap']",46
+Jordan Grace,['tropical house'],56
+NITTI,"['brostep', 'electro house', 'electronic trap']",48
+Opus III,"['ambient house', 'dream trance', 'hardcore techno', 'hip house']",52
+Feenixpawl,"['australian dance', 'pop edm', 'progressive electro house', 'sky room']",51
+Melosense,['melodic house'],49
+Paul Woolford,"['house', 'uk dance', 'uk house']",54
+Black Box,"['diva house', 'hip house', 'italo house']",53
+gardenstate,['melodic house'],53
+MATVEÏ,['rally house'],51
+Joshwa,"['tech house', 'uk tech house']",53
+CeCe Peniston,['diva house'],52
+Borgore,"['brostep', 'classic dubstep', 'dubstep', 'edm', 'electro house']",49
+Faul & Wad,['tropical house'],56
+Angrybaby,['stutter house'],48
+Firebeatz,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",53
+Nico de Andrea,['melodic house'],55
+Blaze U,"['future house', 'slap house']",57
+Felix Cartal,"['canadian electronic', 'electro house', 'pop dance', 'pop edm']",49
+Cosmic Gate,"['german techno', 'german trance', 'progressive house', 'progressive trance', 'trance']",54
+Amtrac,"['melodic house', 'nu disco']",49
+Kevin McKay,['tech house'],54
+Myd,"['filter house', 'french indie pop', 'french indietronica', 'new french touch']",53
+Sigma,"['dancefloor dnb', 'house', 'pop dance', 'uk dance']",58
+EMBRZ,"['melodic house', 'vapor soul']",47
+Feed Me,"['brostep', 'complextro', 'edm', 'electro house', 'filthstep']",48
+Dennis Quin,"['deep groove house', 'dutch tech house']",53
+CRi,"['melodic house', 'montreal indie']",51
+KC Lights,"['deep groove house', 'house', 'scottish electronic', 'uk dance']",52
+Piece Wise,['chill house'],55
+Malaa,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap', 'house']",49
+Tonic Walter,['melodic house'],54
+Viva La Panda,['tropical house'],56
+Bhaskar,"['brazilian bass', 'brazilian edm', 'brazilian house']",58
+&friends,['melodic house'],55
+De Hofnar,"['deep tropical house', 'tropical house']",55
+Kerri Chandler,"['deep house', 'garage house']",53
+Baltra,['lo-fi house'],52
+Walker & Royce,"['bass house', 'deep disco house', 'house', 'tech house']",46
+Mesto,"['dutch edm', 'future house', 'pop dance', 'progressive electro house']",50
+Crystal Rock,"['hypertechno', 'slap house']",58
+Tommy Trash,"['aussietronica', 'australian dance', 'dutch house', 'edm', 'electro house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']",53
+Hook N Sling,"['australian dance', 'progressive electro house']",49
+filous,"['deep tropical house', 'tropical house']",51
+Relŭm,['chill house'],54
+Yolanda Be Cool,"['australian dance', 'australian house', 'bass house']",53
+Distant Matter,['stutter house'],49
+Ross Quinn,['melodic house'],53
+Natty Rico,['saxophone house'],55
+Preditah,"['bass house', 'birmingham grime', 'grime', 'instrumental grime', 'old school bassline', 'uk garage']",52
+Eran Hersh,['melodic house'],54
+Lipless,['melodic house'],47
+Michael Gray,"['disco house', 'vocal house']",54
+James Lacey,"['chill house', 'tropical house']",56
+Kölsch,"['danish electronic', 'danish techno', 'deep euro house', 'melodic techno', 'minimal techno']",55
+XYSM,"['chill house', 'tropical house']",54
+Coral Reef,['tropical house'],57
+Agents Of Time,"['italian techno', 'melodic house']",54
+Idd Aziz,['afro house'],55
+Tudor,['chill house'],53
+Ann Lee,"['eurodance', 'hip house', 'italo dance']",55
+LVNDSCAPE,"['deep tropical house', 'pop dance', 'pop edm']",52
+Zwette,['german house'],56
+Jafunk,['funky house'],51
+Keys N Krates,"['brostep', 'edm', 'electro house', 'electronic trap', 'livetronica']",46
+Anti Up,"['bass house', 'tech house']",45
+i_o,['electro house'],46
+Folamour,"['jazz house', 'lo-fi house']",55
+Soulwax,"['alternative dance', 'belgian electronic', 'belgian indie', 'belgian indie rock', 'belgian rock', 'electronica', 'filter house', 'ghent indie', 'mashup']",50
+Crim3s,['witch house'],48
+Luttrell,"['melodic house', 'progressive house']",48
+Coco & Breezy,['soulful house'],46
+JLV,['chill house'],51
+Autoerotique,"['brostep', 'canadian electronic', 'electro house']",50
+Jay Mason,['tropical house'],56
+The Martinez Brothers,"['deep disco house', 'house', 'minimal tech house', 'minimal techno']",53
+COLIN,['chill house'],55
+ESSEL,['tech house'],51
+longstoryshort,['stutter house'],46
+San Pacho,['tech house'],50
+OTR,['stutter house'],45
+Burak Yeter,['electro house'],57
+Monkey Safari,"['deep disco house', 'deep euro house', 'melodic house']",53
+Danger,"['darksynth', 'filter house']",47
+Nina Carr,"['chill house', 'tropical house']",53
+Comet Blue,['deep tropical house'],48
+maybealice,['chill house'],54
+MAXI MERAKI,"['afro house', 'melodic house']",54
+Nimus,['chill house'],55
+Andruss,"['mexican tech house', 'tech house']",51
+Ahmed Spins,['melodic house'],55
+Ivan Gough,['progressive electro house'],49
+Mousse T.,"['classic house', 'deep house', 'disco house', 'tribal house', 'vocal house']",56
+Wankelmut,['deep euro house'],57
+Keanu Silva,['future house'],56
+Whigfield,"['diva house', 'eurodance', 'europop']",57
+Moksi,"['bass house', 'brostep', 'dutch edm', 'electro house', 'electronic trap']",47
+Tobtok,"['deep tropical house', 'uk dance']",52
+Flosstradamus,"['brostep', 'edm', 'electro house', 'electronic trap', 'mashup']",44
+Busiswa,"['afro soul', 'kwaito', 'south african house', 'south african pop']",50
+Terekke,"['experimental ambient', 'lo-fi house', 'outsider house']",47
+Amber,"['dutch pop', 'vocal house']",47
+Billy Gillies,"['bouncy house', 'tech trance']",56
+POURI X,['chill house'],53
+Tailor,['melodic house'],49
+Caiiro,"['afro house', 'south african house']",56
+Marten Lou,['melodic house'],53
+Go Freek,"['australian house', 'deep groove house']",46
+Raaban,"['deep pop edm', 'nordic house']",55
+Afro Bros,"['basshall', 'dutch hip hop', 'dutch house']",57
+AALLAR,['tropical house'],55
+Duck Sauce,['disco house'],52
+Ilan Bluestone,"['progressive house', 'progressive trance', 'trance', 'uplifting trance']",48
+soleil,['chill house'],50
+Arc North,['slap house'],53
+Todd Edwards,"['garage house', 'uk garage']",50
+wes mills,['stutter house'],46
+Au5,"['brostep', 'chillstep', 'complextro', 'dubstep', 'electro house', 'filthstep', 'gaming edm', 'melodic dubstep']",45
+Roger Sanchez,"['disco house', 'diva house', 'tribal house']",54
+Ascence,['chill house'],57
+Myon,"['progressive house', 'progressive trance', 'uplifting trance']",44
+The Biz,['electro house'],54
+Ilkan Gunuc,"['turkish deep house', 'turkish edm']",56
+DR. GABBA,['rally house'],46
+Rocco,"['bouncy house', 'bubble trance', 'hands up']",58
+Lee Foss,"['deep disco house', 'house', 'tech house']",49
+Robbe,"['covertronica', 'hypertechno', 'slap house']",56
+Michael Calfan,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",51
+LVAN,['chill house'],53
+Bolier,['deep tropical house'],51
+ATRIP,['stutter house'],49
+Worakls,"['deep euro house', 'deep minimal techno', 'high-tech minimal', 'minimal melodic techno', 'new french touch']",55
+Eelke Kleijn,"['deep tech house', 'melodic house']",53
+The Him,"['big room', 'deep tropical house', 'pop dance', 'pop edm']",47
+Emanuele Esposito,['afro house'],55
+Lone,"['downtempo', 'future garage', 'intelligent dance music', 'lo-fi house', 'wonky']",46
+Third Party,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",51
+Lenji,['tropical house'],54
+Tez Cadey,['deep tropical house'],52
+Giorgio Gee,['slap house'],55
+PROFF,"['melodic house', 'progressive house', 'progressive trance', 'progressive trance house']",48
+Vrdnyn,['rally house'],49
+Maurice West,"['dutch house', 'electro house', 'progressive electro house', 'sky room']",52
+Cages,['deep groove house'],46
+Philip Strand,"['deep pop edm', 'tropical house']",53
+Henry Fong,"['dutch house', 'electro house', 'melbourne bounce', 'progressive electro house', 'sky room']",47
+Sonny Alven,"['norwegian house', 'norwegian pop']",47
+Xinobi,"['melodic house', 'portuguese electronic']",52
+Daniel Santoro,['tropical house'],55
+C3DRIC,['tropical house'],56
+Dada Life,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Life's A Beach,"['chill house', 'tropical house']",50
+Sparrow & Barbossa,['afro house'],53
+Friends & I,"['chill house', 'tropical house']",52
+Solar State,['tropical house'],54
+Andrew Rayel,"['dutch house', 'edm', 'moldovan pop', 'progressive house', 'trance']",50
+B'Bach,['saxophone house'],53
+John Skyfield,"['chill house', 'tropical house']",54
+Gianni Romano,"['afro house', 'latin house']",55
+Dirty South,"['australian dance', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Durante,['melodic house'],48
+Giuseppe Ottaviani,"['italian trance', 'progressive house', 'trance', 'uplifting trance']",52
+DJ Goja,['slap house'],55
+Turno,"['bass house', 'jump up']",54
+Fritz Kalkbrenner,"['deep euro house', 'german house', 'german techno']",57
+Dyro,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",49
+Koastle,['stutter house'],44
+Kilian K,['slap house'],54
+NASAYA,['stutter house'],46
+James Hurr,['tech house'],52
+Coffee Cub,['chill house'],49
+MPH,"['bass house', 'bassline', 'old school bassline']",47
+Dirtyphonics,"['complextro', 'electro house', 'filthstep', 'french dnb', 'gaming dubstep']",45
+Ekali,"['brostep', 'canadian electronic', 'edm', 'electro house', 'electronic trap', 'future bass', 'vapor twitch']",43
+Douth!,"['brazilian house', 'deboxe']",59
+Paratone,['chill house'],53
+PXRKX,['rally house'],50
+Ultra Naté,"['diva house', 'garage house', 'vocal house']",54
+Fideles,"['deep tech house', 'italian tech house', 'melodic house']",54
+Kid On The Block,"['chill house', 'tropical house']",54
+Rui Da Silva,"['classic house', 'portuguese electronic']",52
+THEMBA,['afro house'],53
+Polycat,"['greek house', 't-pop', 'thai indie pop', 'thai indie rock']",58
+BT,"['progressive house', 'progressive trance', 'trance']",47
+Sick Individuals,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",50
+Marshall Jefferson,"['acid house', 'chicago house', 'classic house']",52
+Patrick Lite,"['chill house', 'tropical house']",53
+MaWhoo,['bolobedu house'],58
+Fabich,['uk house'],48
+Tiga,"['alternative dance', 'canadian electronic', 'dance-punk', 'electroclash', 'electronica', 'filter house', 'microhouse', 'minimal techno', 'new rave']",50
+Franky Wah,"['melodic house', 'uk dance', 'uk house']",51
+Afro Medusa,"['classic house', 'disco house', 'latin house', 'vocal house']",53
+Aexcit,"['german dance', 'tropical house']",52
+John De Sohn,"['pop dance', 'swedish tropical house']",51
+SNBRN,"['edm', 'electro house', 'house', 'pop dance', 'pop edm', 'uk dance']",44
+Innellea,"['melodic house', 'munich electronic']",53
+Mat Zo,"['complextro', 'edm', 'electro house', 'progressive house']",44
+Alberto Ciccarini,['tropical house'],54
+DT James,"['chill house', 'tropical house']",53
+RANE,['chill house'],54
+iwilldiehere,['russian witch house'],50
+Stereo MC's,"['big beat', 'hip house']",48
+k?d,"['brostep', 'electro house', 'future bass', 'melodic dubstep', 'vapor twitch']",42
+Riesling,"['chill house', 'tropical house']",54
+HUTS,['slap house'],53
+Zac Samuel,"['deep groove house', 'house', 'uk dance']",51
+Sunmoon,['chill house'],53
+Moojo,['afro house'],53
+The Toxic Avenger,"['electro house', 'filter house']",47
+Carl Cox,"['house', 'schranz', 'uk tech house']",53
+Kryder,"['dutch house', 'electro house', 'progressive electro house', 'progressive house']",50
+Nexeri,"['russian edm', 'tropical house']",53
+JEV,['rally house'],48
+LANNÉ,['slap house'],53
+Joachim Garraud,['electro house'],54
+Wade,['tech house'],52
+illusionize,"['brazilian bass', 'brazilian edm', 'brazilian house']",56
+CASHFORGOLD,['witch house'],46
+Butch,"['acid techno', 'frankfurt electronic', 'german techno', 'minimal tech house', 'minimal techno']",50
+Dimitri Vangelis & Wyman,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",49
+Falden,['melodic house'],48
+David Morales,"['diva house', 'vocal house']",52
+JACK MARLOW,['rally house'],48
+Kanine,"['bass house', 'uk dnb']",53
+Masšh,['afro house'],50
+Gabriel & Dresden,"['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",47
+Marc Benjamin,"['big room', 'dutch edm', 'slap house']",49
+The Bloody Beetroots,"['dance-punk', 'electro house', 'fidget house', 'filter house']",46
+Dennis Ferrer,"['deep house', 'house', 'uk funky']",52
+Ooyy,['swedish tropical house'],48
+Raffa Fl,"['italian tech house', 'tech house']",53
+Wolfgang Gartner,"['complextro', 'edm', 'electro house', 'house', 'progressive electro house']",44
+Boston Bun,"['filter house', 'pop edm']",49
+Ajna (BE),['afro house'],52
+Zafrir,"['big room', 'slap house']",53
+Felix Raphael,"['melodic house', 'munich electronic']",49
+Moon Boots,"['filter house', 'indie soul', 'nu disco']",46
+Riordan,['tech house'],47
+Namté,"['chill house', 'tropical house']",52
+Babsy.,['stutter house'],45
+Bayshore Court,"['chill house', 'tropical house']",53
+Andrew Bayer,"['progressive house', 'progressive trance', 'trance', 'uplifting trance']",45
+Joachim Pastor,"['deep euro house', 'french tech house', 'minimal melodic techno', 'new french touch']",53
+Sharam,['tribal house'],48
+Embody,"['deep tropical house', 'pop edm']",50
+Erick Morillo,"['disco house', 'tribal house', 'vocal house']",50
+Oliver Koletzki,"['german techno', 'minimal techno', 'organic electronic', 'organic house']",53
+Crazy P,"['deep house', 'electronica', 'indie soul', 'nu disco']",52
+Sofia Kourtesis,['experimental house'],49
+Mauro Picotto,"['bubble trance', 'hard house', 'italian trance', 'italo dance', 'trance']",54
+Thom Merlin,['chill house'],50
+cloudseven,"['chill house', 'tropical house']",49
+Space Motion,"['melodic house', 'serbian electronic']",52
+Lonely Night,"['chill house', 'tropical house']",51
+Chaos In The CBD,"['float house', 'jazz house', 'nz electronic']",49
+Just Kiddin,"['house', 'uk dance']",49
+Thunder,"['chill house', 'tropical house']",51
+Edwardo Atlas,"['chill house', 'tropical house']",53
+PAAX (Tulum),"['ethnotronica', 'organic electronic', 'organic house']",51
+Inner City,"['detroit house', 'diva house']",50
+Iaco,"['chill house', 'tropical house']",52
+Emrah Karaduman,"['turkish deep house', 'turkish pop']",57
+Klaus Veen,['dutch tech house'],49
+nowifi,['chill house'],50
+Steps,"['diva house', 'europop', 'talent show']",52
+Trilucid,['melodic house'],48
+Philipp Wolf,['melodic house'],50
+Reel 2 Real,"['eurodance', 'hip house']",50
+DallasK,"['complextro', 'dutch house', 'electro house', 'pop edm', 'progressive electro house', 'sky room']",47
+Angara,"['melodic house', 'new french touch']",49
+The Shapeshifters,"['disco house', 'diva house', 'vocal house']",52
+Shingo Nakamura,"['japanese progressive house', 'progressive trance house']",44
+Alan Fitzpatrick,"['deep minimal techno', 'house', 'minimal techno', 'techno']",52
+AWEN,['afro house'],52
+Markus Schulz,"['edm', 'pop dance', 'progressive house', 'progressive trance', 'trance']",47
+TCTS,"['deep groove house', 'house', 'uk dance']",49
+The Bucketheads,"['classic house', 'disco house', 'vocal house']",48
+CARSTN,['tropical house'],53
+No Mana,"['complextro', 'electro house']",42
+Bellaire,['jazz house'],51
+nourii,['chill house'],53
+Jody Wisternoff,"['bristol electronic', 'melodic house', 'progressive house']",47
+Global Deejays,['pop house'],53
+La Fuente,"['dutch edm', 'dutch house']",55
+Leviro,['chill house'],52
+Portugal Sunset,['chill house'],49
+Tim Berg,"['edm', 'electro house', 'pop dance', 'progressive electro house']",51
+Thelma Houston,"['disco', 'diva house', 'motown', 'post-disco']",46
+Macky Gee,"['bass house', 'tekk']",54
+Oliver,"['electrofox', 'filter house', 'nu disco']",44
+Summer Vibes,"['chill house', 'tropical house']",52
+Raphael DeLove,['tropical house'],52
+Babalwa M,['south african house'],56
+Vitalic,"['electroclash', 'electrofox', 'electronica', 'filter house', 'french techno']",52
+Leon Vynehall,"['ambient house', 'deep house', 'electronica', 'float house', 'future garage', 'microhouse', 'outsider house', 'uk house', 'wonky']",45
+Dosem,"['house', 'latin tech house', 'melodic house', 'minimal techno', 'progressive house', 'spanish techno']",46
+Able Faces,['tropical house'],51
+Tom Enzy,"['slap house', 'tech house']",49
+Jimmy Sax,['saxophone house'],55
+2 Brothers On The 4th Floor,"['eurodance', 'hip house']",55
+Samm (BE),"['afro house', 'melodic house']",51
+Levka Rey,['tropical house'],53
+LTN,"['progressive house', 'progressive trance']",46
+Alex Keeper,"['chill house', 'tropical house']",50
+Classixx,"['alternative dance', 'electrofox', 'filter house', 'funktronica', 'indietronica', 'nu disco']",43
+Sander van Doorn,"['dutch house', 'dutch trance', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",48
+Rowald Steyn,['progressive house'],51
+Amanda Wilson,['diva house'],53
+Hot Since 82,"['deep disco house', 'house', 'minimal techno', 'uk house']",49
+Ross from Friends,"['electronica', 'future garage', 'lo-fi house']",47
+MJ Cole,"['bass house', 'speed garage', 'uk funky', 'uk garage']",49
+OceanLab,"['progressive house', 'trance', 'uplifting trance']",45
+Angelo Ferreri,"['funky house', 'italian tech house', ""jackin' house""]",50
+Little Venice,"['chill house', 'tropical house']",51
+Pretty Pink,['german house'],51
+Louie Vega,"['chicago house', 'classic house', 'deep house', 'latin house', 'soulful house']",49
+ROBINS,"['chill house', 'tropical house']",50
+Akcent,"['classic disco polo', 'romanian house', 'romanian pop']",54
+Spencer Brown,"['melodic house', 'progressive house', 'progressive trance']",46
+MVCA,"['chill house', 'tropical house']",51
+Campsite Dream,['deep tropical house'],48
+Eljé,['rally house'],47
+Spada,['melodic house'],50
+OCULA,['melodic house'],43
+le Shuuk,"['berlin minimal techno', 'big room', 'slap house']",54
+Phil The Beat,['slap house'],56
+AVIRA,['melodic house'],49
+Notre Dame,"['afro house', 'melodic house']",50
+Lauren L'aimant,['melodic house'],47
+Cassius,"['alternative dance', 'electronica', 'filter house']",51
+Yelle,"['alternative dance', 'electro-pop francais', 'electroclash', 'electropop', 'filter house', 'neo-synthpop', 'new rave']",45
+Hannah Wants,"['house', 'uk dance']",51
+NOVUM,['chill house'],51
+Roland Clark,['garage house'],50
+Syence,['stutter house'],43
+Destructo,"['bass house', 'electro house']",42
+Dances,"['bass house', 'bmore']",43
+Kolter,"['deep groove house', 'german tech house']",50
+Darius & Finlay,"['hands up', 'pop house']",54
+Robby East,"['dutch edm', 'future house']",45
+orbit,['stutter house'],50
+Scott Rill,['slap house'],51
+Tom Bailey,['tropical house'],51
+Maor Levi,"['progressive house', 'progressive trance', 'uplifting trance']",43
+Alex Cruz,['deep tropical house'],52
+Madison Mars,"['dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'sky room']",48
+Mijangos,"['afro house', 'tijuana electronic']",49
+Justin Jay,"['deep disco house', 'fidget house']",43
+VOLAC,"['bass house', 'brazilian edm', 'tech house']",46
+Charming Horses,"['deep tropical house', 'german dance']",51
+Matt Fax,"['melodic house', 'progressive house', 'progressive trance']",45
+Gregor Salto,"['dutch house', 'electro house', 'latin house']",51
+Laurence Guy,"['float house', 'jazz house']",47
+Virtual Self,"['electro house', 'future bass']",41
+Mateo,['chill house'],48
+Anthony Island,"['beach house', 'chill lounge', 'deep chill']",49
+Tony Junior,"['big room', 'dutch house', 'electro house', 'progressive electro house', 'slap house']",51
+Felix Harrer,['pop house'],55
+Eneko Artola,"['chill house', 'tropical house']",50
+Rank 1,"['dutch trance', 'progressive house', 'trance', 'uplifting trance']",50
+Coeo,"['deep house', 'disco house', 'munich electronic', 'nu disco']",49
+Romain Garcia,['melodic house'],48
+Jasper Tygner,['stutter house'],48
+Luvine,['chill house'],50
+Julian Jordan,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",45
+ODBLU,"['chill house', 'tropical house']",51
+Hogland,"['deep pop edm', 'swedish tropical house']",51
+Ricii Lompeurs,['g-house'],47
+DJ Tennis,"['deep disco house', 'italian electronica', 'melodic techno', 'microhouse']",45
+David Penn,"['deep house', 'disco house', 'funky house', 'funky tech house', 'house', 'tribal house', 'vocal house']",50
+Achtabahn,"['deep tropical house', 'german pop']",56
+Katy B,"['hip house', 'uk funky', 'uk garage']",53
+Boris Dlugosch,"['german house', 'hamburg electronic']",51
+SEM,['tropical house'],52
+Marco Lys,"['italian tech house', 'tech house']",47
+ALPHA 9,"['progressive house', 'progressive trance', 'russian trance', 'trance', 'uplifting trance']",44
+Dennis Cruz,"['latin tech house', 'tech house']",49
+Deeperise,"['turkish deep house', 'turkish pop']",55
+KEAN DYSSO,"['g-house', 'lithuanian edm']",49
+Dzeko & Torres,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'sky room']",46
+Sound Quelle,"['melodic house', 'progressive trance house']",45
+SALEM,"['grave wave', 'witch house']",42
+Mative,['chill house'],46
+Müslüm Arı,['turkish deep house'],50
+Augusto Yepes,"['afro house', 'melodic house']",45
+Æj,['chill house'],52
+Offmind,['tropical house'],50
+Makhadzi,"['bolobedu house', 'venda pop']",55
+CAZZETTE,"['complextro', 'edm', 'electro house', 'pop dance', 'progressive electro house']",44
+Jude & Frank,['italian tech house'],50
+Aly & Fila,"['progressive house', 'trance', 'uplifting trance']",47
+Yuksek,"['electrofox', 'filter house', 'french indie pop', 'french indietronica', 'new french touch', 'nu disco']",49
+Lane Boy,"['chill house', 'tropical house']",50
+The Underdog Project,['slap house'],54
+Steff da Campo,"['dutch house', 'electro house', 'pop edm', 'sky room']",51
+Thomas Gold,"['big room', 'dutch house', 'edm', 'electro house', 'german techno', 'pop dance', 'progressive electro house', 'progressive house']",49
+Girls of the Internet,['uk house'],47
+Actress,"['deconstructed club', 'fluxwork', 'hauntology', 'intelligent dance music', 'microhouse', 'outsider house', 'wonky']",44
+4B,"['brostep', 'electro house', 'electronic trap']",41
+Klangkuenstler,"['dark techno', 'deep euro house', 'hard techno', 'raw techno']",52
+6sept,['chill house'],46
+Calussa,['afro house'],47
+James Grant,"['melodic house', 'progressive house', 'uk dance']",45
+Rain Radio,['uk house'],49
+Maceo Plex,"['deep disco house', 'house', 'latin tech house', 'melodic techno', 'microhouse', 'minimal tech house', 'minimal techno']",50
+Hobes,"['chill house', 'tropical house']",51
+Sébastien Tellier,"['downtempo', 'electrofox', 'electronica', 'filter house', 'french indie pop', 'french indietronica', 'french synthpop']",49
+Otha,['norwegian house'],44
+Super8 & Tab,"['finnish edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",46
+Maxx,"['eurodance', 'german techno', 'hip house']",52
+Trace,['tech house'],46
+NORRA,"['chill house', 'tropical house']",48
+Philip George,"['house', 'uk dance']",51
+Fini,"['chill house', 'tropical house']",50
+outset island,"['chill house', 'tropical house']",51
+Shakedown,"['classic house', 'disco house', 'vocal house']",50
+Cajmere,"['chicago house', 'classic house', 'footwork']",45
+Rodriguez Jr.,"['deep disco house', 'deep euro house', 'french tech house', 'melodic house', 'microhouse', 'minimal tech house', 'minimal techno', 'organic house']",49
+Jay Hardway,"['dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",47
+Rezident,"['german house', 'melodic house']",44
+Genix,"['progressive house', 'progressive trance', 'uplifting trance']",43
+Newcleus,"['electro', 'hip house', 'old school hip hop']",38
+Kav Verhouzer,['deep tropical house'],48
+Block & Crown,"[""jackin' house""]",50
+M-22,"['house', 'pop dance']",47
+Orjan Nilsen,"['progressive electro house', 'progressive house', 'trance', 'uplifting trance']",46
+Noile,['chill house'],50
+Justin Mylo,"['dutch house', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'sky room']",46
+Knee Deep,['deep house'],50
+YVMV,"['chill house', 'tropical house']",50
+HÄWK,"['stutter house', 'tech house']",49
+Nina Young,['chill house'],48
+Bro Safari,"['brostep', 'electro house', 'electronic trap', 'moombahton']",39
+Lost Coconut,['chill house'],52
+El Profesor,['house'],50
+Shiba San,"['bass house', 'french tech house', 'house', 'tech house']",42
+Amaranth Skies,"['chill house', 'tropical house']",51
+Michael Bibi,['tech house'],49
+Solarstone,"['progressive house', 'progressive trance', 'trance', 'uplifting trance']",47
+ATFC,"['deep house', 'disco house']",48
+Joe Stone,"['deep groove house', 'house', 'pop edm']",48
+Chocolate Puma,"['dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",47
+Moonshine,['slap house'],49
+Furkan Sert,['turkish deep house'],49
+Low Steppa,"['bass house', 'deep groove house', 'house', 'tech house', 'uk dance']",47
+Mark Sixma,"['dutch trance', 'progressive electro house', 'progressive house', 'trance', 'uplifting trance']",47
+Starkillers,"['electro house', 'progressive electro house']",44
+Bonkers,['rally house'],46
+Peven Everett,"['broken beat', 'chicago house', 'deep house']",45
+Deeper Purpose,"['tech house', 'uk tech house']",43
+MÖWE,"['deep euro house', 'deep tropical house']",48
+Tony Romera,"['bass house', 'electro house', 'tech house']",45
+Seb Wildblood,['float house'],45
+Hallman,"['beach house', 'swedish tropical house']",46
+Felguk,"['brazilian bass', 'brazilian edm', 'complextro', 'electro house', 'melbourne bounce']",53
+Dimside,['chill house'],47
+Londonbeat,['hip house'],52
+Soda,['g-house'],46
+CALVO,"['deep tropical house', 'german dance', 'pop edm', 'sky room']",48
+Pierce Fulton,"['complextro', 'pop edm', 'progressive electro house']",42
+Tale Of Us,"['italian techno', 'melodic techno', 'minimal tech house']",50
+LO,['chill house'],49
+Sikdope,"['brostep', 'dubstep', 'electro house', 'electronic trap', 'gaming dubstep']",46
+James Stefano,['tropical house'],50
+Magnus Gunn,['tropical house'],49
+Jean Juan,"['covertronica', 'slap house']",49
+Alex Mills,"['deep groove house', 'uk dance', 'uk pop']",49
+Louis La Roche,"['filter house', 'nu disco']",43
+Dawilk,"['chill house', 'tropical house']",50
+Ian van Dahl,"['belgian dance', 'bouncy house', 'eurodance']",49
+CHYL,['speed house'],40
+Something Good,['progressive trance house'],45
+Alex Kenji,"['funky tech house', 'progressive electro house']",44
+KhoMha,"['deep uplifting trance', 'progressive house', 'trance', 'uplifting trance']",46
+Sparkle,"['chill house', 'tropical house']",49
+KHEMIS,['tropical house'],50
+Tour-Maubourg,['jazz house'],47
+Britt Lari,['tropical house'],43
+Sunnery James & Ryan Marciano,"['circuit', 'dutch house']",47
+StoneBridge,"['disco house', 'vocal house']",44
+HoneyLuv,['tech house'],44
+Five Corners,['saxophone house'],49
+William Orbit,"['classic progressive house', 'downtempo', 'intelligent dance music']",47
+AMÉMÉ,['afro house'],47
+Alex M.O.R.P.H.,"['german techno', 'german trance', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",47
+Picco,['pop house'],47
+SILK,['stutter house'],44
+P.A.V,['chill house'],50
+N-Trance,"['eurodance', 'hip house']",50
+Buzz Low,['slap house'],47
+Twan Ray,['tropical house'],49
+22Bullets,"['sky room', 'slap house']",46
+John O'Callaghan,"['progressive house', 'trance', 'uplifting trance']",46
+The Orb,"['ambient house', 'breakbeat', 'electronica', 'intelligent dance music', 'trip hop']",45
+DJ Mehdi,['filter house'],51
+Dimitri From Paris,['disco house'],48
+Playahitty,"['eurodance', 'hip house']",51
+Captain Hollywood Project,"['diva house', 'eurodance', 'german techno', 'hip house']",50
+Lifelike,"['filter house', 'nu disco']",47
+One Trick Pony,['tropical house'],49
+FooR,"['bass house', 'bassline', 'old school bassline']",50
+David Emde,"['chill house', 'tropical house']",48
+Fenris,['swedish tropical house'],42
+Will Clarke,"['bass house', 'house', 'tech house']",44
+Sunlike Brothers,"['hypertechno', 'slap house']",50
+Sino Msolo,"['afro soul', 'south african house', 'south african pop']",51
+ALUR,['tropical house'],50
+Karla Sax,['saxophone house'],49
+Remady,['slap house'],50
+Mellowdy,"['chill house', 'tropical house']",48
+Shiek,['chill house'],50
+Gadjo,['vocal house'],50
+Kura,"['big room', 'progressive electro house']",46
+Alex Schneider,['saxophone house'],50
+Pureblue,['chill house'],45
+Jimi Jules,['swiss house'],48
+BIJOU,"['bass house', 'tech house']",41
+Dante Klein,"['deep tropical house', 'pop edm']",45
+Pool Blue,['chill house'],47
+Tara Louise,['tropical house'],48
+Junior Jack,"['deep house', 'disco house', 'filter house', 'tech house', 'vocal house']",50
+Jungle Brothers,"['east coast hip hop', 'golden age hip hop', 'hip house', 'jazz rap', 'old school hip hop']",43
+Cozy Sky,"['chill house', 'tropical house']",51
+Lemtom,['rally house'],46
+Todd Terje,"['balearic', 'electronica', 'filter house', 'indietronica', 'norwegian space disco', 'nu disco']",45
+Offer Nissim,"['circuit', 'tribal house', 'vocal house']",50
+Vlinder Vos,['rally house'],49
+Sons Of Maria,"['deep tropical house', 'tropical house']",46
+Secondcity,"['house', 'uk dance', 'uk house']",48
+Namic,"['belgian edm', 'chill house', 'tropical house']",49
+ARTO,['melodic house'],45
+Dario G,"['dream trance', 'eurodance', 'hip house']",49
+BROHM,"['covertronica', 'slap house']",48
+Madison Avenue,"['disco house', 'vocal house']",49
+TS7,"['bass house', 'bassline', 'old school bassline']",47
+LAUWE,"['chill house', 'tropical house']",48
+Paris Blu,['chill house'],49
+Disco Fries,"['pop edm', 'progressive electro house', 'sky room']",43
+FYDE,['chill house'],48
+SebastiAn,['filter house'],44
+PAX,"['house', 'tech house']",46
+Rompasso,"['g-house', 'pop edm', 'russian edm']",48
+Simula,"['bass house', 'bassline', 'jump up', 'old school bassline']",51
+Barbara Tucker,"['deep house', 'diva house', 'garage house']",47
+M People,"['diva house', 'new romantic', 'new wave pop', 'sophisti-pop']",50
+Future Class,"['brazilian edm', 'brazilian house']",52
+Dajae,['classic house'],45
+Erlando,['swedish tropical house'],48
+Pablo Fierro,"['afro house', 'deep deep house']",48
+Natascha Polké,['melodic house'],46
+Daniel Avery,"['ambient techno', 'electronica', 'float house', 'future garage', 'intelligent dance music', 'microhouse', 'shiver pop']",44
+just Fede,"['chill house', 'tropical house']",49
+Prospa,['uk house'],47
+Jerome Isma-Ae,"['munich electronic', 'progressive house']",47
+Jack Wins,"['deep groove house', 'house', 'pop edm']",46
+Ali Bakgor,"['turkish deep house', 'turkish edm']",47
+Chapter & Verse,"['tech house', 'uk tech house']",46
+Richard Durand,"['dutch trance', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",47
+Nox Vahn,"['melodic house', 'progressive house']",44
+Azzecca,['tech house'],41
+Felix Da Housecat,"['acid house', 'alternative dance', 'chicago house', 'electroclash', 'filter house']",46
+Unora,['chill house'],50
+Lekota,['stutter house'],42
+Mason,['tropical house'],50
+Jocelyn Brown,"['diva house', 'post-disco']",49
+Nathan Micay,"['canadian house', 'experimental house']",40
+Eric Kupper,['tribal house'],44
+Arodes,['melodic house'],47
+Shaun Frank,"['canadian electronic', 'electro house', 'pop edm']",42
+Guy Gerber,"['deep disco house', 'israeli techno', 'microhouse', 'minimal tech house', 'minimal techno', 'organic electronic', 'organic house']",47
+Frankie Knuckles,"['acid house', 'chicago house', 'classic house', 'deep house', 'diva house']",47
+Kimbo,"['chill house', 'tropical house']",48
+LoudNæss,['tropical house'],49
+Maya Jane Coles,"['deep disco house', 'deep house', 'electra', 'future garage', 'house', 'microhouse', 'minimal tech house', 'minimal techno', 'uk house']",45
+Modera,['melodic house'],42
+S3DA,"['chill house', 'tropical house']",47

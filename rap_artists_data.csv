@@ -1,0 +1,1001 @@
+name,genres,popularity
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",96
+Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",93
+Travis Scott,"['rap', 'slap house']",94
+Kanye West,"['chicago rap', 'hip hop', 'rap']",93
+Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",92
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",92
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",93
+$uicideboy$,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",88
+SZA,"['pop', 'r&b', 'rap']",90
+21 Savage,"['atl hip hop', 'hip hop', 'rap']",89
+Metro Boomin,['rap'],90
+Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",90
+Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",88
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",87
+XXXTENTACION,"['emo rap', 'miami hip hop', 'rap']",89
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",92
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",87
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",87
+"Tyler, The Creator","['hip hop', 'rap']",87
+Gunna,"['atl hip hop', 'melodic rap', 'rap', 'trap']",87
+Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",85
+Don Toliver,['rap'],87
+Chris Brown,"['r&b', 'rap']",88
+Brent Faiyaz,"['r&b', 'rap']",85
+Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",87
+A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap']",86
+YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",82
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'rap', 'trap']",85
+Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",84
+Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",85
+Jelly Roll,"['country rap', 'modern country pop', 'nashville hip hop', 'tennessee hip hop']",82
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",83
+Ken Carson,['rage rap'],82
+Ty Dolla $ign,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",85
+Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",83
+Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",82
+Megan Thee Stallion,"['houston rap', 'pop', 'rap', 'trap queen']",83
+JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",85
+Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",82
+Trippie Redd,"['melodic rap', 'rap', 'trap']",82
+Lil Yachty,"['atl hip hop', 'melodic rap', 'rap', 'trap']",81
+Rod Wave,['florida rap'],80
+PARTYNEXTDOOR,"['r&b', 'rap', 'urban contemporary']",83
+Yeat,"['pluggnb', 'rage rap']",82
+Deftones,"['alternative metal', 'nu metal', 'rap metal', 'rock', 'sacramento indie']",81
+Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",81
+Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",82
+Polo G,"['chicago rap', 'rap']",81
+USHER,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",83
+50 Cent,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",85
+Snoop Dogg,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",84
+Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",77
+NLE Choppa,"['memphis hip hop', 'rap']",80
+A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",79
+Shaboozey,"['modern country pop', 'pop rap']",81
+Wiz Khalifa,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",83
+Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",80
+DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",79
+Summer Walker,"['r&b', 'rap']",80
+T-Pain,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",79
+System Of A Down,"['alternative metal', 'nu metal', 'rap metal', 'rock']",82
+mgk,"['ohio hip hop', 'pop rap']",79
+Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",79
+Key Glock,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",77
+Cardi B,"['pop', 'rap']",81
+NF,"['hip hop', 'pop rap']",79
+Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",80
+Dr. Dre,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",81
+Quavo,"['atl hip hop', 'melodic rap', 'rap', 'trap']",80
+Slipknot,"['alternative metal', 'nu metal', 'rap metal', 'rock']",81
+2Pac,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",81
+Swae Lee,"['melodic rap', 'rap', 'trap']",81
+Chief Keef,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",78
+King Von,"['chicago rap', 'rap']",78
+Destroy Lonely,['rage rap'],78
+Gucci Mane,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",77
+Baby Keem,"['hip hop', 'rap']",78
+MF DOOM,"['east coast hip hop', 'hip hop', 'instrumental hip hop', 'rap']",78
+The Notorious B.I.G.,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",80
+Korn,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",78
+Jack Harlow,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",80
+Sleepy Hallow,"['brooklyn drill', 'nyc rap']",77
+Ludacris,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79
+Rick Ross,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']",77
+2 Chainz,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+JID,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",78
+Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",81
+Kehlani,"['pop', 'r&b', 'rap']",77
+Pop Smoke,"['brooklyn drill', 'hip hop', 'rap']",80
+Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",79
+That Mexican OT,['texas latin rap'],73
+Young Dolph,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",73
+Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",77
+Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",73
+Russ,"['hawaiian hip hop', 'pop rap']",76
+Black Eyed Peas,"['dance pop', 'pop', 'pop rap']",81
+Outkast,"['atl hip hop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'rap', 'southern hip hop']",77
+Sublime,"['rap rock', 'reggae fusion', 'ska mexicano', 'ska punk']",73
+Falling In Reverse,"['alternative metal', 'rap metal']",76
+Roddy Ricch,"['melodic rap', 'rap', 'trap']",77
+T.I.,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+Tyga,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79
+Tee Grizzley,"['detroit hip hop', 'detroit trap', 'rap', 'southern hip hop', 'trap']",73
+Timbaland,"['dance pop', 'pop', 'pop rap']",79
+El Alfa,"['dembow', 'rap dominicano', 'trap latino', 'urbano latino']",79
+G-Eazy,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",78
+Logic,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",75
+Montell Fish,['pittsburgh rap'],77
+H.E.R.,"['r&b', 'rap']",77
+Sean Paul,"['dance pop', 'dancehall', 'pop', 'pop rap']",82
+Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",74
+Nelly,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",76
+ScHoolboy Q,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+Limp Bizkit,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",77
+Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+Jeremih,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",75
+BONES,"['cloud rap', 'dark trap']",75
+Nate Dogg,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",78
+Xavier Wulf,"['cloud rap', 'dark trap', 'memphis hip hop', 'underground hip hop']",72
+Chance the Rapper,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",75
+YG,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+Disturbed,"['alternative metal', 'nu metal', 'rap metal', 'rock']",78
+YNW Melly,"['melodic rap', 'rap']",74
+Becky G,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",79
+Macklemore,"['pop rap', 'seattle hip hop']",78
+Mustard,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+Denzel Curry,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'trap', 'underground hip hop']",73
+Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",74
+DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",75
+Jeezy,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'old school atlanta hip hop', 'rap', 'southern hip hop', 'trap']",71
+Juicy J,"['crunk', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75
+Lil Jon,"['atl hip hop', 'crunk', 'dance pop', 'dirty south rap', 'old school atlanta hip hop', 'pop rap', 'southern hip hop', 'trap']",75
+The Alchemist,"['alternative hip hop', 'drumless hip hop', 'hip hop', 'instrumental hip hop', 'west coast rap']",73
+G Herbo,"['chicago drill', 'chicago rap', 'drill', 'trap']",71
+Rich Homie Quan,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",71
+Papa Roach,"['alternative metal', 'nu metal', 'rap metal', 'rap rock', 'rock']",74
+BabyTron,"['detroit hip hop', 'scam rap']",70
+6LACK,"['atl hip hop', 'melodic rap', 'r&b', 'rap', 'trap']",74
+A$AP Ferg,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",73
+Pouya,"['cloud rap', 'dark trap', 'miami hip hop', 'underground hip hop']",71
+Lil Darkie,"['glitchcore', 'meme rap']",70
+La Santa Grifa,"['mexican hip hop', 'sad sierreno', 'tamaulipas rap']",77
+Flo Milli,['viral rap'],73
+RM,['k-rap'],79
+Ice Cube,"['conscious hip hop', 'g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",75
+Lil Tracy,"['cloud rap', 'melodic rap']",73
+NAV,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",73
+Hanumankind,"['desi hip hop', 'indian underground rap', 'malayalam hip hop']",76
+Shoreline Mafia,['cali rap'],69
+Quevedo,"['rap canario', 'trap latino', 'urbano latino']",82
+French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76
+Nas,"['conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']",74
+Young Nudy,"['pluggnb', 'rap', 'southern hip hop', 'trap']",70
+Wale,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",71
+Ms. Lauryn Hill,"['alternative r&b', 'conscious hip hop', 'hip hop', 'neo soul', 'new jersey rap', 'r&b']",74
+bbno$,"['canadian hip hop', 'dark trap', 'meme rap']",74
+Rich Amiri,['rage rap'],72
+OHGEESY,['cali rap'],69
+Upchurch,"['country rap', 'redneck']",67
+Missy Elliott,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'rap', 'urban contemporary', 'virginia hip hop']",72
+Tech N9ne,"['detroit hip hop', 'kansas city hip hop', 'pop rap']",70
+Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",72
+Jay Rock,"['conscious hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",73
+BoyWithUke,['sad rap'],73
+B.o.B,"['atl hip hop', 'dance pop', 'pop rap', 'rap', 'southern hip hop']",74
+Veeze,"['detroit hip hop', 'scam rap']",68
+Pusha T,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",72
+Earl Sweatshirt,"['alternative hip hop', 'drumless hip hop', 'experimental hip hop', 'hip hop', 'rap', 'underground hip hop']",70
+Diddy,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap']",74
+Beastie Boys,"['alternative rock', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'rap rock', 'rock']",70
+Mike Sherm,['cali rap'],67
+Godsmack,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",69
+DMX,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",72
+Jamie Foxx,"['contemporary r&b', 'hip pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",71
+Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",71
+PnB Rock,"['melodic rap', 'rap', 'trap']",70
+Isaiah Rashad,"['hip hop', 'rap', 'tennessee hip hop', 'underground hip hop']",69
+Ghostemane,"['cloud rap', 'dark trap', 'florida rap']",71
+iann dior,['melodic rap'],72
+Rage Against The Machine,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'hard rock', 'nu metal', 'political hip hop', 'post-grunge', 'rap metal', 'rap rock', 'rock']",72
+Busta Rhymes,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']",72
+Joyner Lucas,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",69
+Fenix Flexin,['cali rap'],68
+Project Pat,"['crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'trap']",68
+Yung Gravy,"['meme rap', 'minnesota hip hop']",68
+Agust D,['k-rap'],77
+E-40,"['cali rap', 'gangster rap', 'hyphy', 'oakland hip hop', 'west coast rap']",67
+Vince Staples,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",69
+Ramirez,"['cloud rap', 'dark trap', 'phonk']",67
+Internet Money,"['pop rap', 'trap']",70
+Larry June,['cali rap'],67
+Nipsey Hussle,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",68
+Clams Casino,"['cloud rap', 'experimental hip hop', 'instrumental hip hop', 'psychedelic hip hop']",71
+Insane Clown Posse,['rap rock'],67
+Nardo Wick,"['florida drill', 'florida rap', 'southern hip hop']",67
+The Game,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",72
+Soulja Boy,"['atl hip hop', 'chicago bop', 'dance pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",70
+Freddie Dredd,"['meme rap', 'phonk']",70
+Ella Mai,"['r&b', 'rap', 'uk contemporary r&b', 'urban contemporary']",69
+Quinn XCII,['indie pop rap'],66
+Baby Smoove,"['detroit hip hop', 'detroit trap', 'scam rap']",65
+Hollywood Undead,"['alternative metal', 'modern rock', 'post-grunge', 'rap metal', 'rap rock']",69
+Blxst,"['pop rap', 'westcoast flow']",69
+Sheff G,"['brooklyn drill', 'new york drill', 'nyc rap']",69
+Macklemore & Ryan Lewis,"['pop rap', 'seattle hip hop']",73
+Saweetie,"['cali rap', 'trap queen']",70
+Mike WiLL Made-It,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",68
+Jacquees,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']",69
+Lil Skies,['melodic rap'],68
+Mike Posner,"['dance pop', 'pop', 'pop dance', 'pop rap']",71
+Tom MacDonald,"['bc underground hip hop', 'country rap', 'maga rap']",66
+$NOT,"['cloud rap', 'florida rap', 'underground hip hop']",68
+Cordae,"['hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",68
+6ix9ine,['emo rap'],73
+Shaggy,"['dance pop', 'pop rap', 'reggae fusion']",73
+Matuê,"['r&b brasileiro', 'rap cearense', 'trap brasileiro']",83
+Lloyd,"['hip pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",68
+Rob49,['new orleans rap'],67
+Waka Flocka Flame,"['atl hip hop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",67
+Wyclef Jean,['rap kreyol'],73
+Boosie Badazz,"['baton rouge rap', 'dirty south rap', 'memphis hip hop', 'southern hip hop', 'trap']",65
+Yelawolf,['alabama rap'],66
+Chris Travis,"['cloud rap', 'dark trap', 'memphis hip hop', 'underground hip hop']",65
+Paul Wall,"['chopped and screwed', 'crunk', 'dirty south rap', 'houston rap']",65
+Lupe Fiasco,"['chicago rap', 'conscious hip hop', 'hip hop', 'political hip hop', 'pop rap', 'rap', 'southern hip hop']",68
+Tay-K,"['cali rap', 'dfw rap', 'rap', 'trap']",66
+Coi Leray,"['new jersey underground rap', 'trap queen']",73
+Bladee,"['cloud rap', 'drain', 'glitchcore', 'underground hip hop']",69
+Jon Bellion,['indie pop rap'],67
+El Makabelico,"['corrido', 'mexican hip hop', 'narco rap']",72
+NoCap,"['alabama rap', 'atl trap']",65
+Bone Thugs-N-Harmony,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']",67
+Gera MX,"['mexican hip hop', 'rap conciencia']",77
+Ja Rule,"['dance pop', 'east coast hip hop', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'queens hip hop', 'rap', 'urban contemporary']",70
+Twista,"['chicago rap', 'dirty south rap', 'gangster rap', 'trap']",67
+1nonly,['aesthetic rap'],70
+Lil Mosey,"['melodic rap', 'rap conscient']",69
+24kGoldn,"['cali rap', 'pop rap']",71
+Takeoff,"['atl hip hop', 'rap', 'trap']",68
+Dax,"['canadian hip hop', 'ottawa rap']",67
+A Tribe Called Quest,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap', 'queens hip hop']",68
+Rylo Rodriguez,"['alabama rap', 'atl trap', 'tennessee hip hop']",65
+Travis Barker,['rap rock'],68
+Westside Gunn,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'drumless hip hop', 'hip hop', 'upstate ny rap']",67
+JayDaYoungan,"['florida drill', 'melodic rap', 'southern hip hop']",64
+Yo Gotti,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",65
+Canserbero,"['boom bap espanol', 'rap conciencia', 'rap politico', 'trap latino', 'urbano latino', 'venezuelan hip hop']",76
+André 3000,"['atl hip hop', 'dirty south rap', 'hip hop', 'southern hip hop']",67
+Dreamville,"['hip hop', 'pop rap', 'rap']",66
+Powfu,"['sad lo-fi', 'sad rap']",69
+mike.,"['indie pop rap', 'rhode island rap']",65
+Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",69
+Jul,"['french hip hop', 'pop urbaine', 'rap marseille']",82
+Freddie Gibbs,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'underground hip hop']",67
+Aminé,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",67
+NATTI NATASHA,"['latin pop', 'rap latina', 'reggaeton', 'urbano latino']",73
+Fabolous,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'trap', 'urban contemporary']",66
+Three 6 Mafia,"['crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']",64
+GIMS,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap conscient']",80
+Wu-Tang Clan,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",68
+Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",81
+Night Lovell,"['canadian hip hop', 'canadian trap', 'cloud rap', 'dark trap', 'ottawa rap']",68
+311,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'nu metal', 'pop rock', 'rap rock', 'reggae fusion']",63
+Tego Calderón,"['latin hip hop', 'rap boricua', 'reggaeton', 'trap latino', 'urbano latino']",72
+Yung Joc,"['atl hip hop', 'crunk', 'dirty south rap', 'southern hip hop', 'trap']",65
+Jdot Breezy,"['florida drill', 'florida rap']",62
+LL COOL J,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']",67
+Cazzu,"['argentine hip hop', 'rap latina', 'reggaeton', 'trap argentino', 'trap latino', 'urbano latino']",75
+KXLLSWXTCH,"['dark trap', 'oc rap', 'scream rap']",68
+Fat Joe,"['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",69
+Joey Valence & Brae,['rap rock'],66
+SAINt JHN,"['melodic rap', 'slap house']",69
+Gym Class Heroes,"['dance pop', 'pop rap']",70
+j-hope,"['k-pop', 'k-rap']",73
+Chri$tian Gate$,"['sad rap', 'singer-songwriter pop']",66
+Whethan,"['electropop', 'hyperpop', 'rage rap']",69
+The-Dream,"['dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",65
+Homixide Gang,['rage rap'],65
+Taio Cruz,"['dance pop', 'pop', 'pop rap']",71
+Fivio Foreign,"['brooklyn drill', 'new york drill', 'rap', 'trap']",67
+Coolio,"['g funk', 'gangster rap', 'hip hop', 'west coast rap']",71
+Eazy-E,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",67
+Too $hort,"['cali rap', 'gangster rap', 'golden age hip hop', 'hyphy', 'oakland hip hop', 'west coast rap']",63
+Drakeo the Ruler,['cali rap'],62
+Ying Yang Twins,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",64
+Mozzy,"['cali rap', 'sacramento hip hop']",63
+C-Kan,"['latin hip hop', 'mexican hip hop', 'rap conciencia', 'trap mexicano']",71
+Curren$y,"['dirty south rap', 'new orleans rap', 'southern hip hop', 'underground hip hop']",63
+Cochise,"['plugg', 'pluggnb', 'rage rap']",66
+City Girls,"['scam rap', 'trap queen']",64
+South Park Mexican,"['chicano rap', 'latin hip hop', 'texas latin rap']",61
+03 Greedo,"['cali rap', 'melodic rap']",62
+Sueco,['cali rap'],64
+BROCKHAMPTON,"['boy band', 'rap']",65
+Tokischa,"['rap latina', 'trap dominicano']",72
+Quality Control,"['melodic rap', 'trap']",64
+Foolio,"['florida drill', 'florida rap']",63
+The Crane Wives,"['grand rapids indie', 'michigan indie', 'pov: indie']",64
+Yung Lean,"['cloud rap', 'psychedelic hip hop', 'underground hip hop']",68
+Cassie,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",68
+Lil Jon & The East Side Boyz,"['atl hip hop', 'atlanta bass', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",64
+3OH!3,"['dance pop', 'electropowerpop', 'pop punk', 'pop rap', 'post-teen pop']",64
+070 Shake,['new jersey rap'],69
+Blueface,"['cali rap', 'rap', 'trap']",65
+Eve,"['contemporary r&b', 'dance pop', 'hip pop', 'philly rap', 'r&b', 'urban contemporary']",68
+Bad Gyal,"['neoperreo', 'rap catala', 'rap latina', 'trap catala', 'urbano espanol', 'urbano latino']",75
+Cypress Hill,"['chicano rap', 'gangster rap', 'hip hop', 'rap rock', 'west coast rap']",68
+Big Yavo,['alabama rap'],61
+CeeLo Green,"['atl hip hop', 'pop rap']",66
+DPR IAN,['k-rap'],68
+iamjakehill,"['sad lo-fi', 'sad rap']",64
+Bryce Vine,['indie pop rap'],62
+MO3,"['dfw rap', 'memphis hip hop', 'southern hip hop', 'trap']",61
+Adam Calhoun,"['country rap', 'military rap', 'redneck']",61
+Plies,"['dirty south rap', 'miami hip hop', 'southern hip hop', 'trap']",64
+Baby Bash,"['chicano rap', 'latin hip hop', 'pop rap', 'southern hip hop', 'texas latin rap', 'urban contemporary']",63
+Will Smith,"['hip hop', 'pop rap']",68
+Action Bronson,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'nyc rap', 'queens hip hop']",64
+Jadakiss,"['battle rap', 'east coast hip hop', 'trap']",66
+Drowning Pool,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",65
+N.W.A.,"['conscious hip hop', 'gangster rap', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'west coast rap']",67
+Thousand Foot Krutch,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'rap metal']",67
+Roscoe Dash,"['atl hip hop', 'dirty south rap', 'futuristic swag', 'southern hip hop', 'trap']",62
+Chimbala,"['dembow', 'rap dominicano']",70
+Benny The Butcher,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'hip hop', 'upstate ny rap']",63
+EARTHGANG,"['atl hip hop', 'indie hip hop', 'psychedelic hip hop', 'rap', 'underground hip hop']",63
+DJ Drama,"['dirty south rap', 'philly rap', 'southern hip hop', 'trap']",62
+Young Money,"['dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",62
+Struggle Jennings,['country rap'],61
+Filipe Ret,['pop rap brasileiro'],79
+BIA,"['rap latina', 'trap queen']",67
+Lit,"['alternative metal', 'nu metal', 'pop punk', 'pop rock', 'rap rock', 'socal pop punk']",62
+LMFAO,"['dance pop', 'pop', 'pop rap']",68
+che,['rage rap'],62
+Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",79
+Mase,"['contemporary r&b', 'gangster rap', 'hardcore hip hop', 'harlem hip hop', 'hip hop', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",65
+Juelz Santana,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']",65
+9lokknine,"['florida drill', 'florida rap']",62
+Shordie Shordie,"['baltimore hip hop', 'cali rap']",60
+Sage The Gemini,"['hyphy', 'pop rap', 'southern hip hop', 'trap']",65
+Lil' Kim,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap queen', 'urban contemporary']",65
+Nujabes,"['downtempo', 'instrumental hip hop', 'japanese chillhop', 'japanese old school hip hop', 'jazz rap']",66
+Only The Family,['chicago rap'],62
+Jay Sean,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",68
+Yung Bleu,"['alabama rap', 'trap']",64
+Jaden,"['pop rap', 'rap']",67
+Kid Ink,"['pop rap', 'rap', 'southern hip hop', 'trap']",67
+Swizz Beatz,"['battle rap', 'dirty south rap', 'southern hip hop', 'trap']",63
+Ryan Lewis,['pop rap'],68
+Hotboii,"['florida drill', 'florida rap']",61
+Pi’erre Bourne,['melodic rap'],62
+Far East Movement,"['asian american hip hop', 'dance pop', 'pop rap']",67
+Warren G,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",64
+Mike Jones,['dirty south rap'],60
+Birdman,"['dirty south rap', 'southern hip hop']",62
+Fugees,"['east coast hip hop', 'hip hop', 'neo soul', 'new jersey rap']",68
+Petey Pablo,"['crunk', 'dirty south rap', 'north carolina hip hop', 'southern hip hop']",62
+D12,"['detroit hip hop', 'gangster rap', 'hip hop']",65
+YBN Nahmir,"['alabama rap', 'rap', 'trap']",62
+Jay Park,"['k-pop', 'k-rap', 'korean r&b']",67
+Young Stoner Life,['pop rap'],63
+KYLE,"['deep underground hip hop', 'indie pop rap', 'meme rap', 'pop rap', 'viral trap']",62
+Snow Strippers,['cloud rap'],64
+Colt Ford,"['contemporary country', 'country', 'country rap', 'country road', 'redneck']",60
+Xzibit,"['detroit hip hop', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",67
+DJ Scheme,['viral rap'],62
+Sheck Wes,"['pop rap', 'rap', 'trap']",63
+Hoodie Allen,['indie pop rap'],62
+Outlawz,['gangster rap'],67
+Monaleo,['viral rap'],60
+Alex Zurdo,"['latin christian', 'rap cristiano', 'reggaeton cristiano']",68
+Quando Rondo,"['melodic rap', 'trap']",61
+K CAMP,"['atl hip hop', 'melodic rap', 'southern hip hop', 'trap']",60
+UGK,['dirty south rap'],60
+Bobby V.,"['contemporary r&b', 'dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",63
+SadBoyProlific,"['sad lo-fi', 'sad rap']",62
+BlueBucksClan,"['cali rap', 'westcoast flow']",59
+Lil Loaded,['dfw rap'],63
+Conway the Machine,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'upstate ny rap']",62
+Hungria,"['brazilian hip hop', 'rap df', 'sertanejo universitario']",77
+347aidan,['sad rap'],63
+Saliva,"['alternative metal', 'nu metal', 'rap metal']",61
+Chris Webby,['indie pop rap'],61
+August Alsina,"['pop r&b', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",62
+Mudvayne,"['alternative metal', 'industrial metal', 'nu metal', 'rap metal']",61
+Redman,"['east coast hip hop', 'hardcore hip hop', 'new jersey rap', 'wu fam']",64
+Iyaz,"['dance pop', 'pop rap', 'post-teen pop']",68
+JUVENILE,"['bounce', 'crunk', 'dirty south rap', 'new orleans rap', 'southern hip hop', 'trap']",59
+Nedarb,['cloud rap'],62
+Trevor Daniel,['melodic rap'],66
+Tink,"['chicago rap', 'drill', 'trap queen']",61
+Yungeen Ace,"['florida drill', 'florida rap', 'melodic rap']",60
+SoFaygo,"['glitchcore', 'plugg', 'rage rap']",61
+Common,"['alternative hip hop', 'chicago rap', 'conscious hip hop', 'hardcore hip hop', 'hip hop', 'political hip hop']",62
+JACKBOYS,['pop rap'],66
+Saba,"['alternative r&b', 'chicago rap']",61
+Maxo Kream,"['houston rap', 'melodic rap', 'trap', 'underground hip hop']",60
+Kurupt,"['g funk', 'west coast rap']",63
+SosMula,"['cloud rap', 'dark trap']",61
+Khantrast,['anime rap'],61
+P.O.D.,"['alternative metal', 'funk metal', 'nu metal', 'rap metal', 'rap rock']",64
+ilyTOMMY,['aesthetic rap'],63
+Slim Thug,"['crunk', 'dirty south rap']",59
+KANKAN,"['pluggnb', 'rage rap']",60
+EBK Young Joc,['cali rap'],58
+Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']",63
+Robin Thicke,"['dance pop', 'neo soul', 'pop rap', 'r&b', 'urban contemporary']",64
+Morray,['pop rap'],60
+Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",65
+Black Smurf,"['cloud rap', 'dark trap', 'underground hip hop']",59
+Tiagz,"['ottawa rap', 'viral rap']",66
+Savage Ga$p,['aesthetic rap'],60
+Cam'ron,"['battle rap', 'east coast hip hop', 'harlem hip hop', 'southern hip hop']",60
+Webbie,"['baton rouge rap', 'crunk', 'dirty south rap', 'trap']",57
+BJ The Chicago Kid,"['alternative r&b', 'chicago rap']",60
+Lil Dicky,"['comedy rap', 'indie pop rap', 'pop rap']",61
+From Ashes to New,"['post-grunge', 'rap rock']",61
+Loco,"['k-pop', 'k-rap', 'korean r&b']",68
+Redimi2,"['latin christian', 'rap conciencia', 'rap cristiano']",67
+Calle 13,"['latin afrobeat', 'latin alternative', 'latin hip hop', 'latin rock', 'puerto rican rock', 'rap conciencia', 'reggaeton', 'rock en espanol']",70
+DDG,"['pop rap', 'trap']",61
+StaySolidRocky,['melodic rap'],62
+MemoTheMafioso,['cali rap'],57
+Hopsin,"['conscious hip hop', 'indie pop rap']",60
+Omarion,"['dance pop', 'hip pop', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",62
+Krizz Kaliko,"['country rap', 'kansas city hip hop']",58
+Josh A,"['sad lo-fi', 'sad rap']",61
+MC Eiht,"['g funk', 'west coast rap']",61
+DC The Don,"['melodic rap', 'rage rap']",57
+Berner,"['cali rap', 'oakland hip hop']",59
+Gazo,"['drill francais', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",75
+The Lacs,"['country rap', 'redneck']",57
+Fredo Bang,"['baton rouge rap', 'memphis hip hop', 'trap']",59
+Scrim,"['cloud rap', 'dark trap']",58
+Snow Tha Product,"['alternative r&b', 'rap latina', 'trap queen']",61
+Remble,"['meme', 'viral rap']",57
+Lloyd Banks,"['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'queens hip hop', 'rap', 'trap']",63
+PLK,"['french hip hop', 'pop urbaine', 'rap conscient']",75
+Coco & Clair Clair,['cloud rap'],60
+Amenazzy,"['rap dominicano', 'reggaeton', 'trap latino', 'urbano latino']",68
+YFN Lucci,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'memphis hip hop', 'southern hip hop', 'trap']",57
+Chingy,"['crunk', 'dirty south rap', 'hip pop', 'pop rap', 'southern hip hop']",60
+Shotgun Willy,['meme rap'],60
+Frankie J,"['hip pop', 'pop rap', 'southern hip hop', 'urban contemporary']",60
+Scarlxrd,"['dark trap', 'scream rap']",63
+House Of Pain,"['gangster rap', 'hip hop', 'rap rock', 'west coast rap']",63
+Kaliii,"['rap', 'viral rap']",59
+Naughty By Nature,"['east coast hip hop', 'hip hop', 'new jersey rap']",61
+Z-Ro,"['chopped and screwed', 'dirty south rap', 'houston rap']",56
+Bow Wow,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",60
+Villano Antillano,"['rap boricua', 'urbano latino']",68
+Rustage,['anime rap'],60
+Bravo the Bagchaser,['cali rap'],56
+Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",75
+Bun B,"['dirty south rap', 'houston rap']",58
+KIDS SEE GHOSTS,['rap'],60
+L7NNON,"['funk rj', 'pop rap brasileiro', 'trap brasileiro']",74
+Trick Daddy,"['crunk', 'dirty south rap', 'miami hip hop', 'southern hip hop']",58
+Sickboyrari,"['cloud rap', 'glitchcore']",59
+Young Slo-Be,['cali rap'],57
+Lil Poppa,"['florida drill', 'florida rap']",56
+Styles P,"['battle rap', 'dirty south rap', 'east coast hip hop']",62
+Damso,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap belge', 'rap conscient']",74
+cupcakKe,"['chicago rap', 'trap queen']",59
+MadeinTYO,"['atl hip hop', 'melodic rap', 'trap']",58
+Run–D.M.C.,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']",62
+Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",62
+Ecco2k,"['cloud rap', 'drain', 'glitchcore', 'hyperpop']",61
+Young M.A,"['alternative r&b', 'lgbtq+ hip hop', 'nyc rap', 'rap', 'trap']",60
+Pashanim,"['german alternative rap', 'german drill', 'german hip hop']",75
+DYSTINCT,"['belgian hip hop', 'rap belge']",72
+Pras,['new jersey rap'],63
+Travis Porter,"['atl hip hop', 'dirty south rap', 'futuristic swag', 'southern hip hop', 'trap']",57
+Ufo361,"['german cloud rap', 'german hip hop']",72
+White Zombie,"['alternative metal', 'hard rock', 'industrial metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",57
+CJ,['nyc rap'],63
+Nsqk,"['r&b en espanol', 'rap regio']",71
+Rob $tone,"['san diego rap', 'viral trap']",59
+J.I the Prince of N.Y,['nyc rap'],59
+Ivy Queen,"['latin hip hop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",65
+Tony Boy,"['emo rap italiano', 'italian hip hop']",75
+Maes,"['french hip hop', 'pop urbaine', 'rap francais']",74
+Charles Ans,"['mexican hip hop', 'rap conciencia']",71
+Blanco Brown,"['black americana', 'country rap']",58
+Scorey,['upstate ny rap'],58
+Pretty Ricky,"['dirty south rap', 'hip pop', 'miami hip hop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",58
+Cory Gunz,['nyc rap'],57
+Travie McCoy,['pop rap'],65
+G-Unit,"['gangster rap', 'hardcore hip hop', 'hip hop', 'nyc rap', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop']",63
+Funky,"['latin christian', 'rap cristiano', 'reggaeton cristiano']",65
+Hamza,"['belgian hip hop', 'cloud rap francais', 'french hip hop', 'pop urbaine', 'rap belge']",74
+Ab-Soul,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",59
+A$AP Mob,"['hip hop', 'rap', 'southern hip hop', 'trap']",59
+Kalan.FrFr,"['cali rap', 'westcoast flow']",55
+Flow G,"['opm', 'pinoy hip hop', 'pinoy r&b', 'tagalog rap']",72
+Marracash,"['italian hip hop', 'italian pop', 'rap napoletano']",74
+Dave East,"['canadian hip hop', 'harlem hip hop', 'nyc rap', 'southern hip hop', 'trap']",58
+Rittz,"['atl hip hop', 'country rap']",56
+Demun Jones,"['country rap', 'redneck']",55
+Fabvl,"['anime rap', 'otacore']",58
+Buddy,"['alternative r&b', 'cali rap']",58
+22Gz,"['brooklyn drill', 'nyc rap']",59
+CHIKA,"['alabama rap', 'alternative r&b']",63
+Afroman,['comedy rap'],59
+De La Soul,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap']",61
+Rochy RD,"['dembow', 'dembow dominicano', 'rap dominicano', 'trap latino']",63
+G Perico,"['cali rap', 'west coast trap']",55
+Static-X,"['alternative metal', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rap metal']",59
+Rxseboy,"['sad lo-fi', 'sad rap']",59
+La Joaqui,"['argentine hip hop', 'rap latina']",72
+Sada Baby,"['detroit trap', 'scam rap']",55
+Lil 2z,"['dfw rap', 'memphis hip hop']",55
+Marc E. Bassy,['indie pop rap'],58
+Sadfriendd,"['aesthetic rap', 'gym phonk', 'hyperpop']",62
+Bloodhound Gang,"['alternative metal', 'comic', 'funk metal', 'funk rock', 'nu metal', 'rap rock']",63
+Rob Vicious,['cali rap'],57
+Speaker Knockerz,"['melodic rap', 'south carolina hip hop', 'trap']",56
+Snøw,"['sad lo-fi', 'sad rap']",62
+Lund,['emo rap'],58
+Luniz,"['g funk', 'oakland hip hop', 'west coast rap']",60
+The Lonely Island,"['comedy rap', 'comic']",59
+IDK,"['pop rap', 'underground hip hop']",58
+Fatman Scoop,['nyc rap'],61
+Mystikal,"['crunk', 'dirty south rap', 'gangster rap', 'new orleans rap']",57
+Kidd Kidd,['new orleans rap'],58
+Chamillionaire,"['dirty south rap', 'southern hip hop']",59
+Cal Scruby,"['deep underground hip hop', 'indie pop rap', 'ohio hip hop']",58
+JasonMartin,"['cali rap', 'hyphy']",57
+Jay Critch,"['nyc rap', 'trap']",58
+Scarface,"['conscious hip hop', 'dirty south rap', 'gangster rap', 'hardcore hip hop']",56
+The Pharcyde,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'west coast rap']",59
+Thouxanbanfauni,"['atl hip hop', 'cloud rap', 'melodic rap', 'plugg']",56
+Daddyphatsnaps,"['anime drill', 'anime rap']",56
+Iamsu!,['cali rap'],56
+Booba,"['french hip hop', 'old school rap francais', 'pop urbaine', 'rap conscient']",73
+Nfasis,"['dembow', 'rap dominicano']",64
+The Roots,"['conscious hip hop', 'east coast hip hop', 'hip hop', 'philly rap', 'political hip hop']",60
+La Dispute,"['alternative emo', 'emo', 'grand rapids indie']",56
+Phora,"['deep underground hip hop', 'oc rap']",56
+Marlon Craft,['nyc rap'],58
+Lil Reese,"['chicago bop', 'chicago drill', 'chicago rap', 'drill']",58
+Jermaine Dupri,"['atl hip hop', 'contemporary r&b', 'dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",58
+Pineapple StormTv,"['rap baiano', 'trap baiano']",73
+YK Osiris,"['melodic rap', 'trap']",57
+Frostydasnowmann,['cali rap'],54
+RJMrLA,['cali rap'],55
+Young Buck,"['crunk', 'dirty south rap', 'nashville hip hop']",59
+Famous Dex,"['chicago rap', 'drill', 'rap', 'trap']",57
+King Lil G,"['chicano rap', 'west coast rap']",55
+Yoss Bones,"['mexican hip hop', 'rap femenino mexicano']",65
+SCH,"['french hip hop', 'pop urbaine', 'rap marseille']",73
+Akwid,"['chicano rap', 'latin hip hop', 'mexican hip hop']",62
+Flipp Dinero,"['melodic rap', 'trap']",57
+DaBoii,['cali rap'],54
+Sauce Walka,"['houston rap', 'memphis hip hop', 'trap']",55
+gavn!,"['sad rap', 'singer-songwriter pop']",58
+Big Syke,"['g funk', 'west coast rap']",63
+Remy Ma,"['alternative r&b', 'bronx hip hop', 'dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'trap queen', 'urban contemporary']",60
+Stunna Girl,"['cali rap', 'sacramento hip hop', 'trap queen']",55
+xaviersobased,"['cloud rap', 'dark plugg', 'sigilkore']",56
+Rucci,"['cali rap', 'westcoast flow']",54
+AzChike,['cali rap'],54
+Fort Minor,['rap rock'],61
+Gaeko,"['k-rap', 'korean r&b']",65
+Mannie Fresh,"['bounce', 'dirty south rap']",55
+"nothing,nowhere.","['cloud rap', 'emo rap']",57
+Jawga Boyz,"['country rap', 'redneck']",54
+Bino Rideaux,"['cali rap', 'westcoast flow']",54
+Killstation,"['cloud rap', 'dark trap']",58
+Sevendust,"['alternative metal', 'atlanta metal', 'industrial metal', 'nu metal', 'rap metal']",55
+Mick Jenkins,"['alternative hip hop', 'alternative r&b', 'chicago rap', 'conscious hip hop', 'drill', 'underground hip hop']",58
+Landon Cube,['pop rap'],56
+Ryan Caraveo,"['deep underground hip hop', 'indie pop rap']",55
+tlinh,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",68
+Seezyn,['cincinnati rap'],57
+potsu,"['japanese chillhop', 'lo-fi beats', 'lo-fi rap']",58
+ShooterGang Kony,"['cali rap', 'detroit trap']",53
+Baco Exu do Blues,"['pop rap brasileiro', 'rap baiano', 'trap brasileiro']",72
+Soolking,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap algerien']",71
+Trinidad James,"['atl hip hop', 'dirty south rap', 'trap']",56
+Lancey Foux,['rage rap'],59
+Bobby Shmurda,"['nyc rap', 'rap', 'trap']",58
+Yhapojj,['rage rap'],55
+VIC MENSA,"['canadian hip hop', 'chicago rap', 'conscious hip hop', 'underground hip hop']",56
+Kim Dracula,['viral rap'],58
+Faith No More,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",62
+Punchmade Dev,['scam rap'],55
+PSY,"['k-rap', 'korean old school hip hop']",64
+Bankrol Hayden,['melodic rap'],58
+Jack Kays,['cincinnati rap'],56
+Krayzie Bone,"['dirty south rap', 'gangster rap', 'ohio hip hop']",58
+P-Lo,"['asian american hip hop', 'cali rap']",57
+Lil B,"['cloud rap', 'underground hip hop']",56
+Slayter,"['nyc rap', 'trap latino']",63
+Lil Pete,['cali rap'],53
+FARIANA,"['colombian pop', 'rap latina', 'reggaeton colombiano', 'trap latino', 'urbano latino']",63
+Cruz Cafuné,"['rap canario', 'urbano espanol']",71
+Crazy Town,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap rock']",61
+SOB X RBE,['cali rap'],53
+Brennan Savage,"['cloud rap', 'dark trap', 'emo rap']",60
+BlocBoy JB,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",57
+Styles Of Beyond,['cali rap'],61
+Ace Hood,"['dirty south rap', 'miami hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",56
+KAMAARA,"['dark trap', 'scream rap']",56
+DB.Boutabag,"['cali rap', 'sacramento hip hop']",52
+Lil Rob,"['chicano rap', 'g funk', 'san diego rap']",53
+Murphy Lee,"['dirty south rap', 'st louis rap']",56
+NATHY PELUSO,"['r&b en espanol', 'rap latina']",68
+Bubba Sparxxx,"['atl hip hop', 'country rap', 'dirty south rap', 'southern hip hop']",54
+Clever,['alabama rap'],57
+Tech N9ne Collabos,"['country rap', 'kansas city hip hop']",54
+Nekfeu,"['french hip hop', 'pop urbaine', 'rap conscient']",71
+Master P,"['dirty south rap', 'gangster rap', 'new orleans rap', 'southern hip hop']",54
+Naps,"['french hip hop', 'pop urbaine', 'rap marseille']",71
+Lah Pat,['pop rap'],62
+Josman,"['cloud rap francais', 'french hip hop', 'pop urbaine', 'rap conscient']",71
+Horse Head,['cloud rap'],59
+Emmure,"['deathcore', 'melodic metalcore', 'metalcore', 'nu-metalcore', 'rap metal']",56
+2Rare,"['philly drill', 'philly rap']",56
+ElGrandeToto,"['arabic hip hop', 'rap maroc']",70
+Digital Underground,"['conscious hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",55
+Shwayze,['indie pop rap'],53
+Shady Moon,['aesthetic rap'],56
+Djonga,"['afrofuturismo brasileiro', 'brazilian hip hop', 'rap mineiro']",71
+Emanero,"['argentine hip hop', 'rap conciencia', 'rap underground argentino']",71
+khai dreams,"['lo-fi rap', 'pov: indie']",56
+lilbubblegum,['aesthetic rap'],58
+Makaveli,"['gangster rap', 'hip hop', 'singeli']",58
+Smokepurpp,"['melodic rap', 'miami hip hop', 'trap', 'underground hip hop']",57
+Tribo da Periferia,['rap df'],71
+Salve Malak,['pop rap brasileiro'],71
+Westside Connection,"['g funk', 'gangster rap', 'west coast rap']",57
+DaniLeigh,"['r&b', 'rap latina']",57
+KrispyLife Kidd,"['detroit hip hop', 'flint hip hop', 'scam rap']",52
+Lil' Flip,"['crunk', 'dirty south rap']",54
+Lil Keed,"['melodic rap', 'trap']",56
+Divide Music,['anime rap'],55
+Lil Scrappy,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",53
+Omega,['rap dominicano'],64
+DJ Quik,"['g funk', 'popping', 'west coast rap']",54
+GLC,['chicago rap'],56
+Charlie Farley,"['country rap', 'redneck']",53
+Al James,"['opm', 'pinoy alternative rap', 'pinoy hip hop', 'pinoy r&b', 'pinoy trap']",69
+Ciscaux,['aesthetic rap'],57
+Consequence,"['nyc rap', 'queens hip hop']",56
+Moonshine Bandits,"['country rap', 'redneck']",53
+Lil Wyte,"['country rap', 'crunk', 'dirty south rap', 'memphis hip hop']",52
+tobi lou,"['chicago rap', 'indie hip hop', 'indie r&b']",57
+"Royce Da 5'9""","['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop']",57
+Darkoo,"['afrobeats', 'afroswing', 'london rap', 'uk hip hop']",64
+Luh Kel,"['pop r&b', 'st louis rap']",57
+DizzyEight,['anime rap'],54
+Mack 10,"['g funk', 'gangster rap', 'west coast rap']",56
+Mac Dre,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']",52
+Huncho Jack,"['melodic rap', 'trap']",58
+Sematary,['cloud rap'],57
+Forrest.,['lo-fi rap'],55
+Big Boi,"['atl hip hop', 'dirty south rap', 'hip hop', 'southern hip hop']",54
+MC Magic,"['chicano rap', 'latin hip hop']",54
+ALLBLACK,['cali rap'],53
+LPB Poody,"['florida drill', 'florida rap']",53
+Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",56
+ppcocaine,['viral rap'],53
+UnoTheActivist,"['melodic rap', 'plugg', 'rage rap']",55
+LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",53
+Tion Wayne,"['london rap', 'uk hip hop']",67
+Trip Lee,"['christian hip hop', 'dfw rap']",54
+Big Tymers,"['crunk', 'dirty south rap', 'new orleans rap']",52
+Parv0,['cloud rap'],56
+Mach-Hommy,"['alternative hip hop', 'boom bap', 'chill abstract hip hop', 'drumless hip hop', 'new jersey rap', 'psychedelic hip hop']",55
+TOKYO’S REVENGE,"['meme rap', 'viral rap']",53
+Softwilly,['aesthetic rap'],55
+Trina,"['contemporary r&b', 'dirty south rap', 'hip pop', 'miami hip hop', 'r&b', 'rap latina', 'southern hip hop', 'trap queen']",54
+Luchè,"['italian hip hop', 'italian pop', 'rap napoletano']",71
+Skusta Clee,"['opm', 'pinoy hip hop', 'tagalog rap']",67
+Lil' Keke,"['chopped and screwed', 'crunk', 'dirty south rap', 'houston rap']",52
+Grioten,['aesthetic rap'],58
+YNG Martyr,['meme rap'],55
+Nonpoint,"['alternative metal', 'industrial metal', 'latin metal', 'miami metal', 'nu metal', 'rap metal']",54
+pH-1,"['k-rap', 'korean r&b']",59
+Alonzo,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap marseille']",70
+Jackboy,"['florida rap', 'memphis hip hop']",54
+Lil Zay Osama,"['chicago rap', 'melodic drill', 'memphis hip hop']",54
+Jan Glack,['narco rap'],61
+Fat Nick,"['cloud rap', 'dark trap']",54
+Geto Boys,"['conscious hip hop', 'dirty south rap', 'g funk', 'gangster rap', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop']",54
+Witt Lowry,['indie pop rap'],59
+Mariah Angeliq,"['rap latina', 'trap latino', 'urbano latino']",62
+Mesita,['rap uruguayo'],68
+NB Ridaz,['chicano rap'],51
+Cali Life Style,['chicano rap'],53
+MOD SUN,"['indie pop rap', 'minnesota hip hop']",54
+Leto,"['french hip hop', 'pop urbaine', 'rap francais']",70
+Y2K,"['pop rap', 'viral rap']",59
+Futuristic,"['deep underground hip hop', 'indie pop rap']",53
+Gorilla Zoe,"['atl hip hop', 'crunk', 'dirty south rap', 'futuristic swag', 'southern hip hop', 'trap']",52
+Matt OX,"['melodic rap', 'plugg', 'rage rap']",54
+Khalil?,"['aesthetic rap', 'bedroom r&b', 'meme rap']",53
+Ralfy the Plug,"['cali rap', 'westcoast flow']",52
+Wicca Phase Springs Eternal,"['cloud rap', 'emo rap']",55
+smokedope2016,['cloud rap'],54
+Wifisfuneral,"['cloud rap', 'dark trap', 'florida rap', 'miami hip hop', 'underground hip hop']",53
+Young Dro,"['atl hip hop', 'crunk', 'dirty south rap', 'futuristic swag', 'old school atlanta hip hop', 'southern hip hop', 'trap']",53
+Craig Xen,"['cloud rap', 'dark trap']",54
+Obie Trice,"['detroit hip hop', 'gangster rap', 'hardcore hip hop']",58
+Yella Beezy,"['dfw rap', 'memphis hip hop', 'southern hip hop', 'trap']",52
+Ray J,"['pop rap', 'urban contemporary']",55
+Lil Xan,['cloud rap'],56
+Tinie Tempah,"['dance pop', 'grime', 'pop rap']",64
+J-Kwon,"['dirty south rap', 'southern hip hop']",53
+ShittyBoyz,"['detroit hip hop', 'scam rap']",51
+Devin The Dude,"['dirty south rap', 'houston rap']",54
+Era7capone,['new school turkce rap'],70
+KAYTRAMINÉ,['pop rap'],56
+Musiko,"['latin christian', 'latin worship', 'rap cristiano', 'reggaeton cristiano']",60
+Ricky Desktop,"['meme', 'viral rap']",54
+Lil Eazzyy,['chicago rap'],54
+Aflacko,['cali rap'],51
+Kevin Rudolf,"['pop rap', 'wrestling']",54
+Jim Jones,"['gangster rap', 'harlem hip hop', 'trap']",53
+Apache,"['rap conciencia', 'venezuelan hip hop']",63
+B-Real,"['chicano rap', 'west coast rap']",57
+Bhad Bhabie,"['trap queen', 'viral rap']",55
+Guapdad 4000,"['cali rap', 'canadian hip hop', 'oakland hip hop', 'scam rap', 'underground hip hop']",53
+Bulin 47,"['dembow', 'rap dominicano']",57
+Yunggoth✰,"['cloud rap', 'dark trap', 'emo rap']",54
+1takejay,"['cali rap', 'westcoast flow']",51
+Attila,"['atlanta metal', 'deathcore', 'melodic metalcore', 'metalcore', 'nu-metalcore', 'rap metal']",54
+Powerman 5000,"['alternative metal', 'funk metal', 'industrial metal', 'nu metal', 'rap metal']",53
+KYSLINGO,['aesthetic rap'],54
+Calboy,"['chicago rap', 'melodic rap']",54
+Shawnna,"['chicago rap', 'dirty south rap', 'hip pop', 'southern hip hop']",53
+Peso Peso,"['houston rap', 'texas latin rap']",51
+Fuego,"['electro latino', 'rap dominicano', 'trap latino']",63
+Rav,['lo-fi rap'],53
+Foxx,"['baton rouge rap', 'dirty south rap']",51
+OBOY,"['french hip hop', 'pop urbaine', 'rap francais']",69
+Djadja & Dinaz,"['french hip hop', 'pop urbaine', 'rap conscient']",69
+Chow Lee,['nyc rap'],53
+Coez,"['italian adult pop', 'italian pop', 'rap napoletano', 'rome indie']",69
+Koba LaD,"['french hip hop', 'pop urbaine', 'rap francais']",69
+Ryan Oakes,"['deep underground hip hop', 'indie pop rap']",55
+Bris,"['cali rap', 'sacramento hip hop']",50
+Ronnie Flex,"['dutch hip hop', 'dutch rap pop']",69
+Aarne,"['russian hip hop', 'russian viral rap']",65
+Dee Watkins,"['florida drill', 'florida rap']",51
+SahBabii,"['melodic rap', 'plugg']",53
+Slump6s,"['pluggnb', 'rage rap']",53
+Tobe Nwigwe,"['christian hip hop', 'houston rap']",53
+The LOX,"['dirty south rap', 'east coast hip hop', 'hardcore hip hop']",53
+Amigo the Devil,['country rap'],52
+Hardrock,['rage rap'],53
+Olly,"['italian pop', 'pop virale italiano', 'rap genovese']",69
+XANAKIN SKYWOK,"['aesthetic rap', 'meme rap']",53
+Acito,['cali rap'],50
+Anthrax,"['alternative metal', 'glam metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'old school thrash', 'rap metal', 'rock', 'speed metal', 'thrash metal']",56
+Joeyy,['cloud rap'],53
+Loyle Carner,"['indie soul', 'london rap']",65
+SpotemGottem,"['florida drill', 'florida rap']",52
+MBNel,"['asian american hip hop', 'cali rap']",51
+Ayo & Teo,"['trap', 'viral rap', 'viral trap']",56
+Blanco,"['london rap', 'uk drill']",63
+Bottleneck,"['country rap', 'redneck']",50
+Sik World,['rap'],54
+T-Dre,['chicano rap'],52
+Tyla Yaweh,"['cali rap', 'melodic rap']",55
+Andre Nickatina,"['hyphy', 'west coast rap']",50
+David Banner,"['conscious hip hop', 'crunk', 'dirty south rap', 'mississippi hip hop', 'southern hip hop']",51
+Salmo,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap sardegna']",69
+Kamaiyah,"['alternative r&b', 'cali rap', 'oakland hip hop']",52
+Crime Mob,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",50
+Zack Fox,"['indie hip hop', 'meme rap', 'social media pop']",52
+G.T.,"['detroit hip hop', 'scam rap']",51
+Bresh,"['italian hip hop', 'italian pop', 'rap genovese']",69
+Kado,['sad rap'],54
+D4L,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",52
+DJ Paul,"['bounce', 'crunk', 'dirty south rap', 'memphis hip hop']",55
+Pimp C,"['baton rouge rap', 'chopped and screwed', 'crunk', 'dirty south rap', 'houston rap']",51
+Capella Grey,['pop rap'],54
+Vin Jay,['nyc rap'],54
+E the profit,['cincinnati rap'],51
+Zaytoven,"['atl hip hop', 'melodic rap', 'memphis hip hop', 'trap']",52
+Knoc-Turn'al,"['g funk', 'west coast rap']",57
+Twiztid,"['horrorcore', 'rap rock']",50
+Frenna,"['dutch hip hop', 'dutch rap pop']",68
+RBX,"['g funk', 'west coast rap']",55
+Beanie Sigel,"['battle rap', 'east coast hip hop', 'philly rap']",52
+Noname,"['alternative r&b', 'chicago rap']",53
+G-DRAGON,"['k-pop', 'k-rap']",61
+Thaiboy Digital,"['cloud rap', 'drain', 'glitchcore', 'underground hip hop']",55
+Nappy Roots,['dirty south rap'],51
+N.O.R.E.,"['dirty south rap', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'southern hip hop']",56
+surrenderdorothy,['cloud rap'],54
+Heuss L'enfoiré,"['french hip hop', 'pop urbaine', 'rap francais']",68
+$atori Zoom,['aesthetic rap'],54
+Laylow,"['cloud rap francais', 'french hip hop', 'pop urbaine']",68
+Ethan Ross,['emo rap'],54
+Tha Dogg Pound,"['g funk', 'west coast rap']",53
+Shiki-TMNS,"['anime rap', 'meme rap']",53
+Kirko Bangz,"['dirty south rap', 'southern hip hop', 'trap']",50
+Soldier Kidd,['florida rap'],51
+Prince Dre,"['chicago drill', 'chicago rap', 'drill']",53
+Mushroomhead,"['alternative metal', 'cleveland metal', 'industrial metal', 'nu metal', 'rap metal']",53
+Skindred,"['nu metal', 'rap metal', 'reggae fusion', 'welsh metal', 'welsh rock']",58
+Blackway,['nyc rap'],55
+OmenXIII,"['cloud rap', 'dark trap']",53
+guardin,"['cloud rap', 'emo rap']",52
+Kairo Keyz,"['london rap', 'uk melodic rap']",61
+Big Sad 1900,"['cali rap', 'westcoast flow']",49
+MACAN,"['russian gangster rap', 'russian hip hop']",64
+Lucio101,"['german alternative rap', 'german drill', 'german hip hop']",68
+Lul Tys,['cali rap'],49
+Freeway,"['battle rap', 'hardcore hip hop', 'philly rap']",53
+Sơn Tùng M-TP,"['v-pop', 'vietnamese idol pop', 'vietnamese melodic rap']",64
+Yung Bans,"['cloud rap', 'plugg', 'trap', 'underground hip hop']",53
+Brabo Gator,"['country rap', 'redneck']",49
+CRUCIFIX,"['country rap', 'redneck']",50
+B Jack$,['new jersey underground rap'],52
+MC Ren,['west coast rap'],55
+Souls Of Mischief,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap']",55
+Trae Tha Truth,"['dirty south rap', 'houston rap', 'trap']",51
+Lil God Dan,['aesthetic rap'],54
+Philthy Rich,"['cali rap', 'hyphy', 'oakland hip hop']",49
+Lil' Troy,['dirty south rap'],50
+Bazanji,"['deep underground hip hop', 'indie pop rap']",55
+Yung Kage,['aesthetic rap'],52
+Rare of Breed,['maga rap'],49
+Lud Foe,"['chicago rap', 'detroit trap']",49
+Rowdy Rebel,['nyc rap'],53
+StanWill,"['detroit hip hop', 'scam rap']",49
+Control Machete,"['chicano rap', 'latin alternative', 'mexican hip hop', 'mexican rock', 'rap underground mexicano', 'rock en espanol']",60
+Cold Hart,"['cloud rap', 'emo rap']",54
+Speed Gang,['viral rap'],51
+Silkk The Shocker,"['dirty south rap', 'new orleans rap']",49
+Digable Planets,"['afrofuturism', 'east coast hip hop', 'hip hop', 'jazz rap', 'psychedelic hip hop']",53
+Queen Latifah,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'new jersey rap']",54
+Caskey,"['deep underground hip hop', 'florida rap']",50
+Yung Craka,['meme rap'],53
+CHANMINA,"['j-rap', 'josei rap']",64
+Pete Rock,"['east coast hip hop', 'instrumental hip hop', 'jazz rap']",55
+Shwabadi,['anime rap'],52
+Rx Papi,"['cloud rap', 'plugg']",51
+Zola,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",68
+monte booker,"['indie hip hop', 'viral rap']",51
+Lil Bean,['cali rap'],49
+POORSTACY,"['emo rap', 'melodic rap']",53
+Sewerperson,['emo rap'],51
+La Kikada,['rap dominicano'],52
+demxntia,"['bedroom r&b', 'emo rap']",57
+7 Minutoz,"['nerdcore brasileiro', 'rap geek']",67
+FACE,"['kavkaz', 'russian emo rap', 'russian grime', 'russian hip hop', 'russian trap']",64
+Haiti Babii,"['cali rap', 'westcoast flow']",50
+Epik High,"['k-pop', 'k-rap', 'korean old school hip hop']",56
+MC Virgins,['meme rap'],52
+OMB Peezy,"['alabama rap', 'baton rouge rap', 'cali rap', 'florida rap', 'memphis hip hop', 'sacramento hip hop']",50
+Favé,"['drill francais', 'pop urbaine', 'rap francais']",67
+Giggs,"['grime', 'london rap', 'uk hip hop']",62
+Yung Filly,['london rap'],61
+Kill Bill: The Rapper,['lo-fi rap'],50
+DUSTY,"['emo rap', 'sad rap']",52
+TisaKorean,"['houston rap', 'viral rap']",51
+Ana Tijoux,"['chilean rock', 'latin alternative', 'latintronica', 'rap chileno', 'rap feminino chileno', 'rap latina', 'rap politico']",61
+Tony Yayo,"['dirty south rap', 'hip hop', 'queens hip hop']",56
+Zion.T,"['k-pop', 'k-rap', 'korean r&b']",57
+The Seige,['cali rap'],55
+Eddy Baker,"['cloud rap', 'dark trap', 'underground hip hop']",53
+Chyde,['swedish underground rap'],54
+UZI,"['french hip hop', 'pop urbaine', 'rap francais']",67
+Cali Swag District,['pop rap'],52
+lentra,"['canadian hip hop', 'meme rap']",53
+Young Drummer Boy,['chicano rap'],48
+BigKayBeezy,"['chicago rap', 'philly drill']",50
+Hov1,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",67
+Guy2Bezbar,"['french hip hop', 'pop urbaine', 'rap francais']",67
+HalaCG,"['anime rap', 'otacore']",52
+B-Legit,"['g funk', 'hyphy', 'west coast rap']",51
+Hobo Johnson,"['emo rap', 'sacramento hip hop']",50
+Lirico En La Casa,"['dembow', 'rap dominicano']",61
+Limbo,['lo-fi rap'],51
+Skee-Lo,['west coast rap'],53
+Al2 El Aldeano,"['cuban alternative', 'hip hop cubano', 'rap conciencia']",59
+Yung Bruh,['cloud rap'],50
+Louie TheSinger,['texas latin rap'],48
+6 Dogs,"['cloud rap', 'dark trap', 'melodic rap']",50
+Lyfe Jennings,"['contemporary r&b', 'dirty south rap', 'hip pop', 'r&b', 'urban contemporary']",49
+SSGKobe,"['pluggnb', 'rage rap']",51
+Joey Purp,"['chicago rap', 'indie hip hop', 'underground hip hop']",50
+Dat Boi Dee,"['italian hip hop', 'rap napoletano']",67
+Junior M.A.F.I.A.,"['dirty south rap', 'east coast hip hop']",53
+Orelsan,"['french hip hop', 'old school rap francais', 'rap conscient']",66
+Dizzy Wright,"['conscious hip hop', 'indie pop rap', 'underground hip hop']",50
+Yung Pinch,"['melodic rap', 'oc rap']",50
+Soulja Slim,"['bounce', 'dirty south rap', 'new orleans rap']",48
+Dorrough Music,"['dfw rap', 'dirty south rap']",48
+Naza,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",66
+RPT MCK,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap', 'vietnamese trap']",64
+Luccas Carlos,"['brazilian hip hop', 'pop nacional', 'pop rap brasileiro', 'r&b brasileiro']",67
+Indiomar,"['latin christian', 'latin worship', 'rap cristiano', 'reggaeton cristiano']",58
+Rob Bailey & The Hustle Standard,['military rap'],56
+AKLO,['j-rap'],58
+DJ Jazzy Jeff & The Fresh Prince,"['golden age hip hop', 'old school hip hop', 'philly rap']",52
+Chavo,['cloud rap'],50
+Watsky,"['abstract hip hop', 'indie pop rap', 'nerdcore']",50
+5ive,['st louis rap'],53
+Black Kray,"['cloud rap', 'plugg', 'pluggnb']",51
+JELEEL!,"['rage rap', 'rhode island rap']",53
+Basta,"['russian gangster rap', 'russian hip hop', 'russian pop']",62
+Token,"['boston hip hop', 'deep underground hip hop', 'indie pop rap']",52
+Luidji,"['cloud rap francais', 'french hip hop']",66
+Ceza,"['azeri rap', 'turkish hip hop']",66
+$tupid Young,"['asian american hip hop', 'cali rap']",49
+SaysoTheMac,['cali rap'],47
+Musicality,['anime rap'],52
+Le$,['houston rap'],48
+FJ Outlaw,"['country rap', 'redneck']",48
+Da Real Gee Money,"['baton rouge rap', 'memphis hip hop']",48
+Rocko,"['atl hip hop', 'dirty south rap', 'old school atlanta hip hop', 'trap']",49
+38 Spesh,"['boom bap', 'upstate ny rap']",50
+Fabri Fibra,"['italian hip hop', 'italian pop', 'rap napoletano']",67
+Lil Kleine,"['dutch hip hop', 'dutch rap pop']",66
+Bankroll Fresh,"['atl hip hop', 'dirty south rap', 'trap']",48
+Fear Factory,"['alternative metal', 'groove metal', 'industrial metal', 'metal', 'nu metal', 'rap metal']",53
+Suga Free,"['g funk', 'west coast rap']",48
+Booka600,['chicago rap'],51
+Bezz Believe,"['country rap', 'redneck']",48
+kizaru,"['russian emo rap', 'russian hip hop', 'russian trap']",63
+Drew The Architect,['cloud rap'],52
+Ollie,"['indie pop rap', 'sad rap']",51
+Youngbloodz,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop']",49
+Nebu Kiniza,"['melodic rap', 'plugg']",50
+Mc Window,['tamaulipas rap'],53
+Phyno,"['afrobeats', 'afropop', 'igbo pop', 'igbo rap', 'nigerian hip hop', 'nigerian pop']",63
+gins&melodies,"['pinoy hip hop', 'tagalog rap']",65
+Do Or Die,"['bounce', 'chicago rap', 'gangster rap', 'memphis hip hop', 'southern hip hop']",47
+Dreezy,"['chicago rap', 'drill', 'trap queen']",50
+GAWVI,"['christian hip hop', 'miami hip hop', 'rap cristiano']",50
+Cypress Spring,"['country rap', 'redneck']",48
+ZayBang,['cali rap'],47
+Leaf Ward,"['philly drill', 'philly rap']",48
+Topher,['maga rap'],49
+Yasin,"['swedish gangsta rap', 'swedish hip hop', 'swedish trap', 'swedish trap pop']",66
+Da Brat,"['chicago rap', 'contemporary r&b', 'dirty south rap', 'hip pop', 'new jack swing', 'r&b', 'urban contemporary']",51
+B.G.,"['dirty south rap', 'new orleans rap']",48
+Ca$h Out,"['atl hip hop', 'dirty south rap', 'futuristic swag', 'trap']",48
+again&again,"['lo-fi rap', 'modern alternative pop']",50
+Kaaris,"['drill francais', 'french hip hop', 'pop urbaine', 'rap francais', 'trap antillais']",66
+RIN,"['german cloud rap', 'german hip hop']",66
+Natos y Waor,"['rap underground espanol', 'spanish hip hop', 'urbano espanol']",66
+Cam Steady,['anime rap'],50
+New Boyz,['pop rap'],49
+Spinabenz,"['florida drill', 'florida rap']",49
+Brotha Lynch Hung,"['horrorcore', 'sacramento hip hop', 'west coast rap']",47
+Maikel Delacalle,"['rap canario', 'trap latino', 'urbano espanol']",63
+Gio Pika,"['russian hip hop', 'russian underground rap']",63
+Night Skinny,"['italian hip hop', 'rap siciliano', 'trap italiana']",70
+Dem Franchize Boyz,"['atl hip hop', 'crunk', 'dirty south rap', 'southern hip hop']",49
+Jeff Redd,['new school turkce rap'],66
+Fumez The Engineer,"['melodic drill', 'uk drill', 'uk hip hop', 'uk melodic rap']",62
+ayokay,"['electropop', 'indie electropop', 'indie pop rap', 'indie poptimism']",49
+Jaah SLT,['viral rap'],50
+HELLMERRY,"['pinoy hip hop', 'tagalog rap']",65
+MiyaGi,"['russian gangster rap', 'russian hip hop', 'russian reggae']",63
+Bandmanrill,['new jersey underground rap'],48
+GameboyJones,['anime rap'],49
+Stove God Cooks,"['boom bap', 'upstate ny rap']",51
+Chris MC,['rap mineiro'],66
+Soprano,"['french hip hop', 'french pop', 'rap marseille']",65
+Rexx Life Raj,"['cali rap', 'canadian hip hop']",49
+Digga D,"['aussie drill', 'london rap', 'melodic drill', 'uk hip hop']",63
+RaiNao,['rap boricua'],57
+KINGMOSTWANTED,"['cali rap', 'viral rap', 'westcoast flow']",47
+Bryann T,['maga rap'],47
+Egypt Central,"['christian rock', 'post-grunge', 'rap rock']",52
+T9ine,"['florida drill', 'florida rap']",48
+8Ball & MJG,"['dirty south rap', 'memphis hip hop']",47
+Skizzy Mars,['indie pop rap'],48
+Sik-K,"['k-rap', 'korean r&b']",55
+Lil Gnar,"['atl hip hop', 'melodic rap']",51
+mansionz,['indie pop rap'],49
+Kinto Sol,"['chicano rap', 'latin hip hop', 'mexican hip hop']",54
+Lyson,['cloud rap'],52
+Chris Hosier,"['country rap', 'redneck']",47
+MASN,['sad rap'],52
+K Suave,['rage rap'],49
+Hi-C,"['chicago bop', 'cloud rap', 'glitchcore', 'plugg', 'sigilkore']",49
+Saviii 3rd,"['cali rap', 'westcoast flow']",46
+SHOP BOYZ,"['atl hip hop', 'dirty south rap', 'futuristic swag']",47
+Big Pokey,"['chopped and screwed', 'crunk', 'dirty south rap', 'houston rap']",47
+Premo Rice,['dmv rap'],47
+Comando Exclusivo,['narco rap'],55
+The Jacka,"['cali rap', 'hyphy', 'oakland hip hop']",47
+Eirian Music,"['mexican hip hop', 'rap regio', 'trap mexicano']",56
+Felly,['indie pop rap'],49
+BIN,"['rap baixada fluminense', 'trap brasileiro', 'trap carioca']",65
+C.M.L.,"['cali rap', 'sacramento hip hop']",46
+Lenny Cooper,"['country rap', 'redneck']",47
+Kuma the Third,['aesthetic rap'],52
+Kottonmouth Kings,"['horrorcore', 'rap metal', 'rap rock']",47
+Thutmose,['indie pop rap'],53
+Thekidszn,['sad rap'],52
