@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Genre Intelligence Dashboard</title>
+  <meta
+    name="description"
+    content="Interactive dashboard that compares Spotify artist popularity, density, and overlap across multiple genres."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=DM+Serif+Display:ital@0;1&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="hero panel">
+      <div class="hero-copy">
+        <p class="eyebrow">Resume project 01</p>
+        <h1>Music Genre Intelligence Dashboard</h1>
+        <p>
+          A static, GitHub Pages-ready analytics experience built from Spotify artist exports. It compares popularity,
+          artist depth, and genre crossover in a way that feels closer to a lightweight data product than a notebook.
+        </p>
+      </div>
+      <div class="hero-note">
+        <span>Dataset</span>
+        <strong>7 genres, client-side parsed CSVs, zero build step</strong>
+      </div>
+    </header>
+
+    <main class="dashboard">
+      <section class="panel controls">
+        <div>
+          <p class="eyebrow">Genre Filter</p>
+          <h2>Switch the lens.</h2>
+        </div>
+        <div class="filter-row" id="genre-filters"></div>
+      </section>
+
+      <section class="overview-grid">
+        <article class="panel stat-card">
+          <span>Total artists</span>
+          <strong id="total-artists">-</strong>
+          <p>Artists captured in the selected genre file.</p>
+        </article>
+        <article class="panel stat-card">
+          <span>Average popularity</span>
+          <strong id="avg-popularity">-</strong>
+          <p>Mean Spotify popularity score across the current set.</p>
+        </article>
+        <article class="panel stat-card">
+          <span>Top performer</span>
+          <strong id="top-artist">-</strong>
+          <p id="top-artist-score">Highest popularity score in the current view.</p>
+        </article>
+      </section>
+
+      <section class="content-grid">
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Leaderboard</p>
+              <h2>Top artists by popularity</h2>
+            </div>
+            <p id="leaderboard-caption">Top five artists in the selected genre.</p>
+          </div>
+          <div id="leaderboard" class="leaderboard"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Distribution</p>
+              <h2>Popularity tiers</h2>
+            </div>
+            <p>How the selected genre spreads across performance bands.</p>
+          </div>
+          <div id="tiers" class="tier-list"></div>
+        </article>
+      </section>
+
+      <section class="content-grid">
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Cross-Genre View</p>
+              <h2>Average popularity by genre</h2>
+            </div>
+            <p>Useful for interview discussion around normalization, sample size, and market framing.</p>
+          </div>
+          <div id="genre-bars" class="bar-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Overlap</p>
+              <h2>Shared artist crossover</h2>
+            </div>
+            <p>Artists appearing in more than one genre export, ranked by breadth.</p>
+          </div>
+          <div id="overlap-list" class="overlap-list"></div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

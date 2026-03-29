@@ -1,5 +1,27 @@
-This is an expiremental recommender system which intakes popularity scores from Spotify, and based on genre, to try to create new recommendations based on that outcome.
-  This is an end-to-end project : 
-  a. First is the data-intake: 
-  i. The Data ingestion currently occurs through an adjusted verision of the basic data gathering script that currently exist. For future smoother points of reference: I want to finish the orchestration with something such as airflow, however I need to first set up a cloud datbase enviroment for the data to be ingested. 
-  ii. With the current data intake process we are keeping track of genres,artist, and popularity score. For possible further future points of research this process should take into account how artists become more popular over time; however for now this goign to function two-fold. The first purpose of this project is clustering artists based on genre's ,and popularity levels. Secondly is from the clusters from the genre and popularity , generating recommendations.
+# Music Genre Intelligence Dashboard
+
+Interactive music analytics dashboard built from Spotify artist exports. The project is designed to be easy to publish on GitHub Pages while still giving you a strong resume story around data exploration, client-side visualization, and product-style presentation.
+
+## What it shows
+
+- Genre-by-genre artist popularity comparisons
+- Top artists within each exported genre
+- Distribution of artists across popularity tiers
+- Cross-genre overlap for artists appearing in multiple exports
+
+## Why it works as a resume project
+
+- Uses real scraped/exported data instead of tutorial sample data
+- Frames analysis through a clean interface, not only notebooks
+- Demonstrates storytelling, front-end polish, and analytical thinking
+
+## Run it
+
+Because the dashboard reads CSV files in the browser, it works best when hosted on GitHub Pages or served from a local static server.
+
+## Repo structure
+
+- `index.html` contains the dashboard layout
+- `styles.css` contains the visual system
+- `app.js` parses the CSVs and renders the dashboard
+- `data/` contains the copied genre exports
