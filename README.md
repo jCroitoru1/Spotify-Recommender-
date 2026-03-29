@@ -9,15 +9,7 @@ Interactive music analytics dashboard built from Spotify artist exports. The pro
 - Distribution of artists across popularity tiers
 - Cross-genre overlap for artists appearing in multiple exports
 
-## Why it works as a resume project
 
-- Uses real scraped/exported data instead of tutorial sample data
-- Frames analysis through a clean interface, not only notebooks
-- Demonstrates storytelling, front-end polish, and analytical thinking
-
-## Run it
-
-Because the dashboard reads CSV files in the browser, it works best when hosted on GitHub Pages or served from a local static server.
 
 ## Repo structure
 
