@@ -253,24 +253,38 @@ function renderDashboard() {
 async function loadData() {
   const results = await Promise.all(
     genreFiles.map(async (genre) => {
-      const response = await fetch(genre.file);
+      const response = await fetch(genre.file, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`Could not load ${genre.file} (${response.status} ${response.statusText})`);
+      }
+
       const text = await response.text();
+      if (text.trim().startsWith("<!DOCTYPE html") || text.trim().startsWith("<html")) {
+        throw new Error(`Expected CSV at ${genre.file}, but received HTML instead. Check your Vercel root directory and deployed files.`);
+      }
+
       return [genre.id, parseCsv(text).map(normalizeArtist)];
     }),
   );
 
   state.dataByGenre = Object.fromEntries(results);
+  if (!state.dataByGenre[state.selectedGenre]?.length) {
+    throw new Error(`Loaded data, but no artist rows were found for ${state.selectedGenre}.`);
+  }
+
   renderFilters();
   renderDashboard();
 }
 
-loadData().catch(() => {
+loadData().catch((error) => {
+  console.error(error);
   document.querySelector(".dashboard").innerHTML = `
     <section class="panel controls">
       <div>
         <p class="eyebrow">Load Error</p>
         <h2>The dashboard could not read the CSV files.</h2>
-        <p>If you are opening this locally, try serving the folder with a simple local server or publish it to GitHub Pages.</p>
+        <p>${error.message}</p>
+        <p>Make sure the deployed app includes the <code>data/</code> folder and that the project root is set to this dashboard folder.</p>
       </div>
     </section>
   `;
