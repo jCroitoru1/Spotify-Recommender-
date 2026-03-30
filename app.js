@@ -1,4 +1,5 @@
 const genreFiles = [
+  { id: "all", label: "All Artists", file: "data/artists_data.csv" },
   { id: "rock", label: "Rock", file: "data/rock_artists_data.csv" },
   { id: "rap", label: "Rap", file: "data/rap_artists_data.csv" },
   { id: "pop", label: "Pop", file: "data/pop_artists_data.csv" },
@@ -9,7 +10,7 @@ const genreFiles = [
 ];
 
 const state = {
-  selectedGenre: "rock",
+  selectedGenre: "all",
   dataByGenre: {},
 };
 
